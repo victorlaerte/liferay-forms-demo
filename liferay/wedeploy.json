@@ -1,7 +1,7 @@
 {
     "id": "lfr",
     "port": 8080,
-    "memory": 4096,
+    "memory": 6144,
     "cpu": 4,
     "dependencies": ["db"],
     "volumes": {
