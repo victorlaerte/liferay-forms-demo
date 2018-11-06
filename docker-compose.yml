@@ -1,0 +1,28 @@
+version: '2.1'
+services:
+
+  db:
+    build: ./db/ 
+    ports:
+     - "3306:3306"
+    environment:
+      - MYSQL_ROOT_PASSWORD=password
+      - MYSQL_DATABASE=lportal
+    volumes: 
+      - "/var/lib/mysql"
+    healthcheck:
+      test: echo db service healthy
+      interval: 40s
+      timeout: 40s
+      retries: 10
+
+  lfr:
+    build: ./liferay/
+    ports:
+      - "8080:8080"
+    depends_on:
+      db:
+        condition: service_healthy
+    volumes:
+      - "/liferay/osgi/"
+      - "/opt/liferay/data/"
