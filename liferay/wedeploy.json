@@ -4,6 +4,9 @@
     "memory": 4096,
     "cpu": 4,
     "dependencies": ["db"],
+    "env": {
+        "LIFERAY_WEB_PERIOD_SERVER_PERIOD_PROTOCOL": "https"
+    },
     "volumes": {
         "osgi": "/liferay/osgi",
         "data": "/opt/liferay/data/"
