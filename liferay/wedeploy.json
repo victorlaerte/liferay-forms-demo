@@ -1,8 +1,8 @@
 {
     "id": "lfr",
     "port": 8080,
-    "memory": 4096,
-    "cpu": 4,
+    "memory": 6144,
+    "cpu": 6,
     "dependencies": ["db"],
     "env": {
         "LIFERAY_WEB_PERIOD_SERVER_PERIOD_PROTOCOL": "https"
