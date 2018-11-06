@@ -7,6 +7,10 @@
     "env": {
         "LIFERAY_WEB_PERIOD_SERVER_PERIOD_PROTOCOL": "https"
     },
+    "volumes": {
+        "osgi": "/liferay/osgi",
+        "data": "/opt/liferay/data/"
+    },
     "healthCheck": {
         "url": "localhost:8080",
         "startPeriod": 180,
