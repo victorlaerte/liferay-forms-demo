@@ -1,0 +1,60 @@
+2018-09-25 00:14:45.773 WARN  [HikariPool-1 housekeeper][HikariPool:686] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=20m34s382ms).
+2018-09-25 00:14:45.773 WARN  [HikariPool-2 housekeeper][HikariPool:686] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=20m34s382ms).
+2018-09-25 02:15:44.037 WARN  [HikariPool-2 housekeeper][HikariPool:686] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=2h28s247ms).
+2018-09-25 02:15:44.037 WARN  [HikariPool-1 housekeeper][HikariPool:686] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2h28s247ms).
+2018-09-25 02:36:48.323 WARN  [HikariPool-1 housekeeper][HikariPool:686] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=20m34s278ms).
+2018-09-25 02:36:48.323 WARN  [HikariPool-2 housekeeper][HikariPool:686] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=20m34s278ms).
+2018-09-25 04:37:09.563 WARN  [HikariPool-1 housekeeper][HikariPool:686] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2h21s240ms).
+2018-09-25 04:37:09.563 WARN  [HikariPool-2 housekeeper][HikariPool:686] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=2h21s240ms).
+2018-09-25 06:38:15.280 WARN  [HikariPool-2 housekeeper][HikariPool:686] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=2h29s161ms).
+2018-09-25 06:38:15.280 WARN  [HikariPool-1 housekeeper][HikariPool:686] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2h29s161ms).
+2018-09-25 06:59:19.346 WARN  [HikariPool-2 housekeeper][HikariPool:686] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=20m34s56ms).
+2018-09-25 06:59:19.346 WARN  [HikariPool-1 housekeeper][HikariPool:686] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=20m34s56ms).
+2018-09-25 09:00:18.428 WARN  [HikariPool-2 housekeeper][HikariPool:686] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=2h29s82ms).
+2018-09-25 09:00:18.430 WARN  [HikariPool-1 housekeeper][HikariPool:686] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2h29s72ms).
+2018-09-25 09:20:44.124 WARN  [HikariPool-2 housekeeper][HikariPool:686] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=20m25s696ms).
+2018-09-25 09:20:44.126 WARN  [HikariPool-1 housekeeper][HikariPool:686] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=20m25s696ms).
+2018-09-25 11:21:51.620 WARN  [HikariPool-1 housekeeper][HikariPool:686] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2h29s128ms).
+2018-09-25 11:21:51.620 WARN  [HikariPool-2 housekeeper][HikariPool:686] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=2h29s128ms).
+2018-09-25 11:42:55.865 WARN  [HikariPool-1 housekeeper][HikariPool:686] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=20m34s236ms).
+2018-09-25 11:42:55.865 WARN  [HikariPool-2 housekeeper][HikariPool:686] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=20m34s236ms).
+2018-09-25 12:22:21.767 WARN  [HikariPool-1 housekeeper][HikariPool:686] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=38m55s891ms).
+2018-09-25 12:22:21.767 WARN  [HikariPool-2 housekeeper][HikariPool:686] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=38m55s891ms).
+2018-09-25 13:27:54.431 ERROR [http-nio-8080-exec-5][JAXRSUtils:83] Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json
+2018-09-25 13:27:54.434 ERROR [http-nio-8080-exec-5][ErrorUtil:79] java.lang.NullPointerException
+2018-09-25 13:28:24.587 ERROR [http-nio-8080-exec-2][JAXRSUtils:83] Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json
+2018-09-25 13:28:24.588 ERROR [http-nio-8080-exec-2][ErrorUtil:79] java.lang.NullPointerException
+2018-09-25 16:58:45.308 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:42] STOPPED com.liferay.forms.apio.impl_1.0.16 [857]
+2018-09-25 16:58:50.474 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:42] STOPPED com.liferay.forms.apio.api_1.1.2 [854]
+2018-09-25 16:58:50.865 INFO  [Refresh Thread: Equinox Container: 754df92c-dbfc-4b1d-aef3-10a5c1c30101][BundleStartStopLogger:39] STARTED com.liferay.forms.apio.api_1.1.2 [854]
+2018-09-25 17:55:27.520 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:42] STOPPED com.liferay.forms.apio.api_1.1.2 [854]
+2018-09-25 17:55:38.081 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:39] STARTED com.liferay.forms.apio.api_2.0.0 [858]
+2018-09-25 17:55:58.367 ERROR [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][org_apache_felix_fileinstall:97] Error while starting bundle: file:/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules/com.liferay.forms.apio.impl.jar 
+org.osgi.framework.BundleException: Could not resolve module: com.liferay.forms.apio.impl [859]_  Unresolved requirement: Import-Package: com.liferay.dynamic.data.mapping.model; version="[1.8.0,2.0.0)"_ [Sanitized]
+	at org.eclipse.osgi.container.Module.start(Module.java:444)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle.start(EquinoxBundle.java:428)
+	at org.apache.felix.fileinstall.internal.DirectoryWatcher.startBundle(DirectoryWatcher.java:1258)
+	at org.apache.felix.fileinstall.internal.DirectoryWatcher.startBundles(DirectoryWatcher.java:1230)
+	at org.apache.felix.fileinstall.internal.DirectoryWatcher.doProcess(DirectoryWatcher.java:512)
+	at org.apache.felix.fileinstall.internal.DirectoryWatcher.process(DirectoryWatcher.java:361)
+	at org.apache.felix.fileinstall.internal.DirectoryWatcher.run(DirectoryWatcher.java:312)
+2018-09-25 18:22:11.379 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:42] STOPPED com.liferay.forms.apio.api_2.0.0 [858]
+2018-09-25 18:22:11.782 INFO  [Refresh Thread: Equinox Container: 754df92c-dbfc-4b1d-aef3-10a5c1c30101][BundleStartStopLogger:39] STARTED com.liferay.forms.apio.api_1.1.2 [858]
+2018-09-25 18:40:35.146 ERROR [http-nio-8080-exec-9][ErrorUtil:79] No endpoint found at path form-instance
+2018-09-25 18:41:02.326 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:42] STOPPED com.liferay.forms.apio.api_1.1.2 [858]
+2018-09-25 18:41:12.897 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:39] STARTED com.liferay.forms.apio.api_1.1.2 [860]
+2018-09-25 18:41:13.235 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:39] STARTED com.liferay.forms.apio.impl_1.0.16 [861]
+2018-09-25 20:40:31.212 ERROR [http-nio-8080-exec-4][JAXRSUtils:83] Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/octet-stream
+2018-09-25 20:40:31.230 ERROR [http-nio-8080-exec-4][ErrorUtil:79] java.lang.NullPointerException
+2018-09-25 21:42:24.718 WARN  [HikariPool-2 housekeeper][HikariPool:686] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=18m30s158ms).
+2018-09-25 21:42:24.783 WARN  [HikariPool-1 housekeeper][HikariPool:686] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=18m30s163ms).
+2018-09-25 21:48:35.854 WARN  [HikariPool-2 housekeeper][HikariPool:686] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=6m11s145ms).
+2018-09-25 21:48:35.914 WARN  [HikariPool-1 housekeeper][HikariPool:686] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=6m11s131ms).
+2018-09-25 22:42:32.957 WARN  [HikariPool-2 housekeeper][HikariPool:686] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=53m57s103ms).
+2018-09-25 22:42:33.015 WARN  [HikariPool-1 housekeeper][HikariPool:686] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=53m57s101ms).
+2018-09-25 22:44:00.033 WARN  [HikariPool-2 housekeeper][HikariPool:686] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=1m27s76ms).
+2018-09-25 22:44:00.089 WARN  [HikariPool-1 housekeeper][HikariPool:686] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m27s74ms).
+2018-09-25 22:47:21.457 WARN  [HikariPool-2 housekeeper][HikariPool:686] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=51s411ms).
+2018-09-25 22:47:21.511 WARN  [HikariPool-1 housekeeper][HikariPool:686] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=51s414ms).
+2018-09-25 23:51:48.977 WARN  [HikariPool-2 housekeeper][HikariPool:686] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=53m27s464ms).
+2018-09-25 23:51:49.014 WARN  [HikariPool-1 housekeeper][HikariPool:686] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=53m27s462ms).

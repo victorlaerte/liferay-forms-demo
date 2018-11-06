@@ -1,0 +1,16 @@
+2018-10-07 01:09:02.545 WARN  [HikariPool-1 housekeeper][HikariPool:686] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16h58m8s340ms).
+2018-10-07 01:09:02.545 WARN  [HikariPool-2 housekeeper][HikariPool:686] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=16h58m8s315ms).
+2018-10-07 01:38:33.989 WARN  [HikariPool-1 housekeeper][HikariPool:686] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=7m50s426ms).
+2018-10-07 01:38:33.989 WARN  [HikariPool-2 housekeeper][HikariPool:686] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=7m50s426ms).
+2018-10-07 02:02:24.269 INFO  [Thread-44][ThemeHotDeployListener:170] 1 theme for westeros-bank-theme was unregistered
+2018-10-07 02:02:25.084 INFO  [Thread-44][PortletHotDeployListener:429] 2 portlets for powwow-portlet were unregistered
+2018-10-07 02:02:25.172 INFO  [Thread-44][HookHotDeployListener:569] Hook for powwow-portlet was unregistered
+2018-10-07 02:02:25.218 INFO  [Thread-44][ThemeHotDeployListener:170] 1 theme for fjord-theme was unregistered
+2018-10-07 02:02:25.312 INFO  [Thread-44][ThemeHotDeployListener:170] 1 theme for classic-theme was unregistered
+2018-10-07 02:02:25.689 INFO  [Thread-44][HookHotDeployListener:569] Hook for social-bookmarks-hook was unregistered
+2018-10-07 02:02:25.763 INFO  [Thread-44][ThemeHotDeployListener:170] 1 theme for porygon-theme was unregistered
+2018-10-07 02:02:26.052 INFO  [Thread-44][ThemeHotDeployListener:170] 1 theme for admin-theme was unregistered
+2018-10-07 02:02:26.442 INFO  [Thread-44][PortletHotDeployListener:429] 4 portlets for opensocial-portlet were unregistered
+2018-10-07 02:02:26.455 INFO  [Thread-44][HookHotDeployListener:569] Hook for opensocial-portlet was unregistered
+2018-10-07 02:02:26.665 INFO  [Thread-44][PortletHotDeployListener:429] 2 portlets for tasks-portlet were unregistered
+2018-10-07 02:02:26.680 INFO  [Thread-44][HookHotDeployListener:569] Hook for tasks-portlet was unregistered

@@ -1,0 +1,101 @@
+2018-11-01 00:44:00.531 WARN  [HikariPool-1 housekeeper][HikariPool:686] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2h15m12s993ms).
+2018-11-01 00:44:00.531 WARN  [HikariPool-2 housekeeper][HikariPool:686] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=2h15m13s832ms).
+2018-11-01 10:29:40.445 WARN  [HikariPool-1 housekeeper][HikariPool:686] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9h45m40s30ms).
+2018-11-01 10:29:40.456 WARN  [HikariPool-2 housekeeper][HikariPool:686] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=9h45m40s80ms).
+2018-11-01 10:47:00.793 WARN  [HikariPool-2 housekeeper][HikariPool:686] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=16m49s894ms).
+2018-11-01 10:47:00.793 WARN  [HikariPool-1 housekeeper][HikariPool:686] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m49s897ms).
+2018-11-01 11:33:25.632 WARN  [HikariPool-2 housekeeper][HikariPool:686] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=46m24s846ms).
+2018-11-01 11:33:25.647 WARN  [HikariPool-1 housekeeper][HikariPool:686] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=46m24s853ms).
+2018-11-01 11:57:00.435 WARN  [HikariPool-2 housekeeper][HikariPool:686] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=2m59s843ms).
+2018-11-01 11:57:00.435 WARN  [HikariPool-1 housekeeper][HikariPool:686] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m59s843ms).
+2018-11-01 12:16:21.636 WARN  [HikariPool-2 housekeeper][HikariPool:686] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=1m51s72ms).
+2018-11-01 12:16:21.636 WARN  [HikariPool-1 housekeeper][HikariPool:686] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m51s72ms).
+2018-11-01 13:03:41.474 WARN  [HikariPool-2 housekeeper][HikariPool:686] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=2m19s676ms).
+2018-11-01 13:03:41.503 WARN  [HikariPool-1 housekeeper][HikariPool:686] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m19s676ms).
+2018-11-01 13:33:14.586 WARN  [HikariPool-2 housekeeper][HikariPool:686] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=10m33s12ms).
+2018-11-01 13:33:14.607 WARN  [HikariPool-1 housekeeper][HikariPool:686] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=10m33s17ms).
+2018-11-01 16:12:00.186 INFO  [Thread-46][HookHotDeployListener:569] Hook for social-bookmarks-hook was unregistered
+2018-11-01 16:12:03.770 INFO  [Thread-46][PortletHotDeployListener:393] 2 portlets for powwow-portlet were unregistered
+2018-11-01 16:12:03.798 INFO  [Thread-46][HookHotDeployListener:569] Hook for powwow-portlet was unregistered
+2018-11-01 16:12:04.361 INFO  [Thread-46][ThemeHotDeployListener:170] 1 theme for classic-theme was unregistered
+2018-11-01 16:12:04.580 INFO  [Thread-46][ThemeHotDeployListener:170] 1 theme for fjord-theme was unregistered
+2018-11-01 16:12:04.951 INFO  [Thread-46][PortletHotDeployListener:393] 2 portlets for tasks-portlet were unregistered
+2018-11-01 16:12:04.992 INFO  [Thread-46][HookHotDeployListener:569] Hook for tasks-portlet was unregistered
+2018-11-01 16:12:05.485 INFO  [Thread-46][PortletHotDeployListener:393] 4 portlets for opensocial-portlet were unregistered
+2018-11-01 16:12:05.525 INFO  [Thread-46][HookHotDeployListener:569] Hook for opensocial-portlet was unregistered
+2018-11-01 16:12:05.644 INFO  [Thread-46][ThemeHotDeployListener:170] 1 theme for westeros-bank-theme was unregistered
+2018-11-01 16:12:05.985 INFO  [Thread-46][ThemeHotDeployListener:170] 1 theme for admin-theme was unregistered
+2018-11-01 16:12:06.023 INFO  [Thread-46][ThemeHotDeployListener:170] 1 theme for porygon-theme was unregistered
+2018-11-01 17:58:36.812 INFO  [main][DialectDetector:158] Using dialect org.hibernate.dialect.MySQLDialect for MySQL 5.7
+2018-11-01 17:58:39.104 INFO  [main][ModuleFrameworkImpl:1326] Starting initial bundles
+2018-11-01 17:58:39.795 INFO  [main][ModuleFrameworkImpl:1589] Started initial bundles
+2018-11-01 17:58:39.796 INFO  [main][ModuleFrameworkImpl:1624] Starting dynamic bundles
+2018-11-01 17:58:54.425 INFO  [main][ModuleFrameworkImpl:1736] Started dynamic bundles
+2018-11-01 17:58:54.427 INFO  [main][ModuleFrameworkImpl:413] Navigate to Control Panel > Configuration > Gogo Shell and enter "lb" to see all bundles
+2018-11-01 17:58:58.931 WARN  [Elasticsearch initialization thread][EmbeddedElasticsearchConnection:286] Liferay is configured to use embedded Elasticsearch as its search engine. Do NOT use embedded Elasticsearch in production. Embedded Elasticsearch is useful for development and demonstration purposes. Remote Elasticsearch connections can be configured in the Control Panel.
+2018-11-01 17:59:05.561 INFO  [main][StartupHelper:72] There are no patches installed
+2018-11-01 17:59:06.892 INFO  [main][AutoDeployDir:193] Auto deploy scanner started for /Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/deploy
+2018-11-01 17:59:34.464 INFO  [main][ThemeHotDeployListener:108] 1 theme for classic-theme is available for use
+2018-11-01 17:59:35.083 INFO  [main][ThemeHotDeployListener:108] 1 theme for admin-theme is available for use
+2018-11-01 17:59:35.752 INFO  [main][ThemeHotDeployListener:108] 1 theme for fjord-theme is available for use
+2018-11-01 17:59:42.289 INFO  [main][HookHotDeployListener:521] Hook for opensocial-portlet is available for use
+2018-11-01 17:59:42.810 INFO  [main][PortletHotDeployListener:293] 4 portlets for opensocial-portlet are available for use
+2018-11-01 17:59:44.002 INFO  [main][ThemeHotDeployListener:108] 1 theme for porygon-theme is available for use
+2018-11-01 17:59:44.598 INFO  [main][HookHotDeployListener:521] Hook for powwow-portlet is available for use
+2018-11-01 17:59:44.691 INFO  [main][PortletHotDeployListener:293] 2 portlets for powwow-portlet are available for use
+2018-11-01 17:59:44.947 INFO  [main][HookHotDeployListener:521] Hook for social-bookmarks-hook is available for use
+2018-11-01 17:59:45.484 INFO  [main][HookHotDeployListener:521] Hook for tasks-portlet is available for use
+2018-11-01 17:59:45.608 INFO  [main][PortletHotDeployListener:293] 2 portlets for tasks-portlet are available for use
+2018-11-01 17:59:46.264 INFO  [main][ThemeHotDeployListener:108] 1 theme for westeros-bank-theme is available for use
+2018-11-01 17:59:47.493 INFO  [main][SystemCheckOSGiCommands:54] System check is enabled. You can run a system check with the command "system:check" in Gogo shell.
+2018-11-01 18:04:29.022 ERROR [http-nio-8080-exec-4][JAXRSUtils:83] Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json
+2018-11-01 18:04:54.926 ERROR [http-nio-8080-exec-9][JAXRSUtils:83] Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json
+2018-11-01 18:05:06.064 ERROR [http-nio-8080-exec-3][JAXRSUtils:83] Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json
+2018-11-01 18:12:07.885 ERROR [http-nio-8080-exec-6][JAXRSUtils:83] Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json
+2018-11-01 18:12:10.114 ERROR [http-nio-8080-exec-5][JAXRSUtils:83] Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json
+2018-11-01 18:15:01.882 ERROR [http-nio-8080-exec-8][JAXRSUtils:83] Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json
+2018-11-01 18:15:26.019 ERROR [http-nio-8080-exec-10][JAXRSUtils:83] Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json
+2018-11-01 18:16:49.313 ERROR [http-nio-8080-exec-5][JAXRSUtils:83] Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json
+2018-11-01 18:17:26.131 ERROR [http-nio-8080-exec-7][JAXRSUtils:83] Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json
+2018-11-01 18:18:48.090 ERROR [http-nio-8080-exec-4][JAXRSUtils:83] Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json
+2018-11-01 18:18:55.847 ERROR [http-nio-8080-exec-5][JAXRSUtils:83] Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json
+2018-11-01 18:22:12.012 ERROR [http-nio-8080-exec-8][JAXRSUtils:83] Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json
+2018-11-01 18:22:28.026 ERROR [http-nio-8080-exec-6][JAXRSUtils:83] Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json
+2018-11-01 18:23:53.427 ERROR [http-nio-8080-exec-9][JAXRSUtils:83] Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json
+2018-11-01 18:23:59.312 ERROR [http-nio-8080-exec-1][JAXRSUtils:83] Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json
+2018-11-01 18:43:01.118 ERROR [http-nio-8080-exec-8][ErrorUtil:78] No DDMFormInstance exists with the primary key 38395
+2018-11-01 18:43:02.390 ERROR [http-nio-8080-exec-9][ErrorUtil:78] No DDMFormInstance exists with the primary key 38395
+2018-11-01 18:47:22.049 ERROR [http-nio-8080-exec-8][JAXRSUtils:83] Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json
+2018-11-01 18:47:26.387 ERROR [http-nio-8080-exec-9][JAXRSUtils:83] Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json
+2018-11-01 19:01:53.009 WARN  [HikariPool-1 housekeeper][HikariPool:686] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=45s284ms).
+2018-11-01 19:24:56.598 ERROR [http-nio-8080-exec-10][JAXRSUtils:83] Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json
+2018-11-01 19:35:23.226 ERROR [http-nio-8080-exec-9][JAXRSUtils:83] Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json
+2018-11-01 19:35:40.845 ERROR [http-nio-8080-exec-2][JAXRSUtils:83] Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json
+2018-11-01 19:41:21.340 WARN  [HikariPool-1 housekeeper][HikariPool:686] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3m25s21ms).
+2018-11-01 19:41:23.475 WARN  [HikariPool-2 housekeeper][HikariPool:686] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=3m24s952ms).
+2018-11-01 19:58:32.775 ERROR [http-nio-8080-exec-8][JAXRSUtils:83] Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json
+2018-11-01 19:58:35.046 ERROR [http-nio-8080-exec-5][JAXRSUtils:83] Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json
+2018-11-01 20:00:20.345 ERROR [http-nio-8080-exec-8][JAXRSUtils:83] Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json
+2018-11-01 20:00:22.368 ERROR [http-nio-8080-exec-5][JAXRSUtils:83] Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json
+2018-11-01 20:01:07.151 ERROR [http-nio-8080-exec-10][JAXRSUtils:83] Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json
+2018-11-01 20:01:09.032 ERROR [http-nio-8080-exec-5][JAXRSUtils:83] Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json
+2018-11-01 20:02:33.586 ERROR [http-nio-8080-exec-10][JAXRSUtils:83] Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json
+2018-11-01 20:02:35.185 ERROR [http-nio-8080-exec-5][JAXRSUtils:83] Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json
+2018-11-01 20:03:22.623 ERROR [http-nio-8080-exec-8][JAXRSUtils:83] Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json
+2018-11-01 20:03:24.649 ERROR [http-nio-8080-exec-5][JAXRSUtils:83] Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json
+2018-11-01 20:04:00.067 ERROR [http-nio-8080-exec-8][JAXRSUtils:83] Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json
+2018-11-01 20:07:57.077 ERROR [http-nio-8080-exec-6][JAXRSUtils:83] Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json
+2018-11-01 20:19:01.043 WARN  [HikariPool-1 housekeeper][HikariPool:686] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=10m31s816ms).
+2018-11-01 20:19:02.081 WARN  [HikariPool-2 housekeeper][HikariPool:686] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=10m31s823ms).
+2018-11-01 20:23:45.861 WARN  [HikariPool-1 housekeeper][HikariPool:686] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=4m14s818ms).
+2018-11-01 20:23:46.901 WARN  [HikariPool-2 housekeeper][HikariPool:686] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=4m14s817ms).
+2018-11-01 21:24:16.290 WARN  [HikariPool-1 housekeeper][HikariPool:686] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h30s429ms).
+2018-11-01 21:24:17.334 WARN  [HikariPool-2 housekeeper][HikariPool:686] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=1h30s433ms).
+2018-11-01 22:18:13.521 WARN  [HikariPool-1 housekeeper][HikariPool:686] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=53m57s231ms).
+2018-11-01 22:18:14.574 WARN  [HikariPool-2 housekeeper][HikariPool:686] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=53m57s240ms).
+2018-11-01 23:13:32.792 WARN  [HikariPool-1 housekeeper][HikariPool:686] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=55m18s981ms).
+2018-11-01 23:13:32.792 WARN  [HikariPool-2 housekeeper][HikariPool:686] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=55m17s919ms).
+2018-11-01 23:14:29.407 WARN  [HikariPool-2 housekeeper][HikariPool:686] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=56s852ms).
+2018-11-01 23:14:29.426 WARN  [HikariPool-1 housekeeper][HikariPool:686] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=56s844ms).
+2018-11-01 23:57:32.917 WARN  [HikariPool-2 housekeeper][HikariPool:686] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=2m53s577ms).
+2018-11-01 23:57:32.917 WARN  [HikariPool-1 housekeeper][HikariPool:686] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m53s577ms).

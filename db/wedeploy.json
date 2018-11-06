@@ -1,0 +1,12 @@
+{
+    "id": "db",
+    "memory": 2048,
+    "env":{
+        "MYSQL_ROOT_PASSWORD": "password",
+        "MYSQL_DATABASE": "lportal"
+    },
+    "volumes": {
+        "data": "/var/lib/mysql"
+    },
+    "zeroDowntime": false
+}

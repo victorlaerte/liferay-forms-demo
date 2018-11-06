@@ -1,0 +1,495 @@
+<log4j:event logger="com.liferay.portal.spring.hibernate.DialectDetector" timestamp="1540216292330" level="INFO" thread="main">
+<log4j:message><![CDATA[Using dialect org.hibernate.dialect.MySQLDialect for MySQL 5.7]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.spring.hibernate.DialectDetector" method="getDialect" file="DialectDetector.java" line="158"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.bootstrap.ModuleFrameworkImpl" timestamp="1540216294435" level="INFO" thread="main">
+<log4j:message><![CDATA[Starting initial bundles]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.bootstrap.ModuleFrameworkImpl" method="_setUpInitialBundles" file="ModuleFrameworkImpl.java" line="1326"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.bootstrap.ModuleFrameworkImpl" timestamp="1540216295071" level="INFO" thread="main">
+<log4j:message><![CDATA[Started initial bundles]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.bootstrap.ModuleFrameworkImpl" method="_setUpInitialBundles" file="ModuleFrameworkImpl.java" line="1589"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.bootstrap.ModuleFrameworkImpl" timestamp="1540216295074" level="INFO" thread="main">
+<log4j:message><![CDATA[Starting dynamic bundles]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.bootstrap.ModuleFrameworkImpl" method="_startDynamicBundles" file="ModuleFrameworkImpl.java" line="1624"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.bootstrap.ModuleFrameworkImpl" timestamp="1540216307929" level="INFO" thread="main">
+<log4j:message><![CDATA[Started dynamic bundles]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.bootstrap.ModuleFrameworkImpl" method="_startDynamicBundles" file="ModuleFrameworkImpl.java" line="1736"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.bootstrap.ModuleFrameworkImpl" timestamp="1540216307931" level="INFO" thread="main">
+<log4j:message><![CDATA[Navigate to Control Panel > Configuration > Gogo Shell and enter "lb" to see all bundles]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.bootstrap.ModuleFrameworkImpl" method="startFramework" file="ModuleFrameworkImpl.java" line="413"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.search.elasticsearch6.internal.connection.EmbeddedElasticsearchConnection" timestamp="1540216311900" level="WARN" thread="Elasticsearch initialization thread">
+<log4j:message><![CDATA[Liferay is configured to use embedded Elasticsearch as its search engine. Do NOT use embedded Elasticsearch in production. Embedded Elasticsearch is useful for development and demonstration purposes. Remote Elasticsearch connections can be configured in the Control Panel.]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.search.elasticsearch6.internal.connection.EmbeddedElasticsearchConnection" method="createClient" file="EmbeddedElasticsearchConnection.java" line="286"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.events.StartupHelper" timestamp="1540216318273" level="INFO" thread="main">
+<log4j:message><![CDATA[There are no patches installed]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.events.StartupHelper" method="printPatchLevel" file="StartupHelper.java" line="72"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.kernel.deploy.auto.AutoDeployDir" timestamp="1540216319536" level="INFO" thread="main">
+<log4j:message><![CDATA[Auto deploy scanner started for /Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/deploy]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.kernel.deploy.auto.AutoDeployDir" method="start" file="AutoDeployDir.java" line="193"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.deploy.hot.ThemeHotDeployListener" timestamp="1540216347408" level="INFO" thread="main">
+<log4j:message><![CDATA[1 theme for classic-theme is available for use]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.deploy.hot.ThemeHotDeployListener" method="doInvokeDeploy" file="ThemeHotDeployListener.java" line="108"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.deploy.hot.ThemeHotDeployListener" timestamp="1540216347914" level="INFO" thread="main">
+<log4j:message><![CDATA[1 theme for admin-theme is available for use]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.deploy.hot.ThemeHotDeployListener" method="doInvokeDeploy" file="ThemeHotDeployListener.java" line="108"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.deploy.hot.ThemeHotDeployListener" timestamp="1540216348395" level="INFO" thread="main">
+<log4j:message><![CDATA[1 theme for fjord-theme is available for use]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.deploy.hot.ThemeHotDeployListener" method="doInvokeDeploy" file="ThemeHotDeployListener.java" line="108"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.deploy.hot.HookHotDeployListener" timestamp="1540216355327" level="INFO" thread="main">
+<log4j:message><![CDATA[Hook for opensocial-portlet is available for use]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.deploy.hot.HookHotDeployListener" method="doInvokeDeploy" file="HookHotDeployListener.java" line="521"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.deploy.hot.PortletHotDeployListener" timestamp="1540216355859" level="INFO" thread="main">
+<log4j:message><![CDATA[4 portlets for opensocial-portlet are available for use]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.deploy.hot.PortletHotDeployListener" method="doInvokeDeploy" file="PortletHotDeployListener.java" line="293"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.deploy.hot.ThemeHotDeployListener" timestamp="1540216357086" level="INFO" thread="main">
+<log4j:message><![CDATA[1 theme for porygon-theme is available for use]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.deploy.hot.ThemeHotDeployListener" method="doInvokeDeploy" file="ThemeHotDeployListener.java" line="108"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.deploy.hot.HookHotDeployListener" timestamp="1540216357675" level="INFO" thread="main">
+<log4j:message><![CDATA[Hook for powwow-portlet is available for use]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.deploy.hot.HookHotDeployListener" method="doInvokeDeploy" file="HookHotDeployListener.java" line="521"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.deploy.hot.PortletHotDeployListener" timestamp="1540216357781" level="INFO" thread="main">
+<log4j:message><![CDATA[2 portlets for powwow-portlet are available for use]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.deploy.hot.PortletHotDeployListener" method="doInvokeDeploy" file="PortletHotDeployListener.java" line="293"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.deploy.hot.HookHotDeployListener" timestamp="1540216358025" level="INFO" thread="main">
+<log4j:message><![CDATA[Hook for social-bookmarks-hook is available for use]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.deploy.hot.HookHotDeployListener" method="doInvokeDeploy" file="HookHotDeployListener.java" line="521"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.deploy.hot.HookHotDeployListener" timestamp="1540216358870" level="INFO" thread="main">
+<log4j:message><![CDATA[Hook for tasks-portlet is available for use]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.deploy.hot.HookHotDeployListener" method="doInvokeDeploy" file="HookHotDeployListener.java" line="521"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.deploy.hot.PortletHotDeployListener" timestamp="1540216359282" level="INFO" thread="main">
+<log4j:message><![CDATA[2 portlets for tasks-portlet are available for use]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.deploy.hot.PortletHotDeployListener" method="doInvokeDeploy" file="PortletHotDeployListener.java" line="293"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.deploy.hot.ThemeHotDeployListener" timestamp="1540216359811" level="INFO" thread="main">
+<log4j:message><![CDATA[1 theme for westeros-bank-theme is available for use]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.deploy.hot.ThemeHotDeployListener" method="doInvokeDeploy" file="ThemeHotDeployListener.java" line="108"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.osgi.debug.internal.osgi.commands.SystemCheckOSGiCommands" timestamp="1540216361275" level="INFO" thread="main">
+<log4j:message><![CDATA[System check is enabled. You can run a system check with the command "system:check" in Gogo shell.]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.osgi.debug.internal.osgi.commands.SystemCheckOSGiCommands" method="activate" file="SystemCheckOSGiCommands.java" line="54"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.apio.architect.internal.jaxrs.json.util.ErrorUtil" timestamp="1540216404838" level="ERROR" thread="http-nio-8080-exec-3">
+<log4j:message><![CDATA[No DDMFormInstance exists with the primary key 38395]]></log4j:message>
+<log4j:locationInfo class="com.liferay.apio.architect.internal.jaxrs.json.util.ErrorUtil" method="getErrorResponse" file="ErrorUtil.java" line="78"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.apio.architect.internal.jaxrs.json.util.ErrorUtil" timestamp="1540216534610" level="ERROR" thread="http-nio-8080-exec-2">
+<log4j:message><![CDATA[No DDMFormInstance exists with the primary key 38395]]></log4j:message>
+<log4j:locationInfo class="com.liferay.apio.architect.internal.jaxrs.json.util.ErrorUtil" method="getErrorResponse" file="ErrorUtil.java" line="78"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.apio.architect.internal.jaxrs.json.util.ErrorUtil" timestamp="1540216568602" level="ERROR" thread="http-nio-8080-exec-9">
+<log4j:message><![CDATA[No DDMFormInstance exists with the primary key 38395]]></log4j:message>
+<log4j:locationInfo class="com.liferay.apio.architect.internal.jaxrs.json.util.ErrorUtil" method="getErrorResponse" file="ErrorUtil.java" line="78"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.apio.architect.internal.jaxrs.json.util.ErrorUtil" timestamp="1540216803641" level="ERROR" thread="http-nio-8080-exec-3">
+<log4j:message><![CDATA[No DDMFormInstance exists with the primary key 38395]]></log4j:message>
+<log4j:locationInfo class="com.liferay.apio.architect.internal.jaxrs.json.util.ErrorUtil" method="getErrorResponse" file="ErrorUtil.java" line="78"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.apio.architect.internal.jaxrs.json.util.ErrorUtil" timestamp="1540216889748" level="ERROR" thread="http-nio-8080-exec-10">
+<log4j:message><![CDATA[No DDMFormInstance exists with the primary key 38395]]></log4j:message>
+<log4j:locationInfo class="com.liferay.apio.architect.internal.jaxrs.json.util.ErrorUtil" method="getErrorResponse" file="ErrorUtil.java" line="78"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.apio.architect.internal.jaxrs.json.util.ErrorUtil" timestamp="1540216893176" level="ERROR" thread="http-nio-8080-exec-3">
+<log4j:message><![CDATA[No DDMFormInstance exists with the primary key 38395]]></log4j:message>
+<log4j:locationInfo class="com.liferay.apio.architect.internal.jaxrs.json.util.ErrorUtil" method="getErrorResponse" file="ErrorUtil.java" line="78"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.apio.architect.internal.jaxrs.json.util.ErrorUtil" timestamp="1540217077142" level="ERROR" thread="http-nio-8080-exec-3">
+<log4j:message><![CDATA[No DDMFormInstance exists with the primary key 38395]]></log4j:message>
+<log4j:locationInfo class="com.liferay.apio.architect.internal.jaxrs.json.util.ErrorUtil" method="getErrorResponse" file="ErrorUtil.java" line="78"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.apio.architect.internal.jaxrs.json.util.ErrorUtil" timestamp="1540218088998" level="ERROR" thread="http-nio-8080-exec-9">
+<log4j:message><![CDATA[No DDMFormInstance exists with the primary key 38395]]></log4j:message>
+<log4j:locationInfo class="com.liferay.apio.architect.internal.jaxrs.json.util.ErrorUtil" method="getErrorResponse" file="ErrorUtil.java" line="78"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.apio.architect.internal.jaxrs.json.util.ErrorUtil" timestamp="1540218179379" level="ERROR" thread="http-nio-8080-exec-6">
+<log4j:message><![CDATA[No DDMFormInstance exists with the primary key 38395]]></log4j:message>
+<log4j:locationInfo class="com.liferay.apio.architect.internal.jaxrs.json.util.ErrorUtil" method="getErrorResponse" file="ErrorUtil.java" line="78"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1540218995897" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=10m33s500ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1540218997830" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=10m33s501ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1540219354628" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m28s723ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1540219356570" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=5m28s723ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portlet.SecurityPortletContainerWrapper" timestamp="1540220384344" level="WARN" thread="http-nio-8080-exec-6">
+<log4j:message><![CDATA[User 20139 is not allowed to access URL http://192.168.110.55:8080/group/guest/~/control_panel/manage and portlet com_liferay_journal_web_portlet_JournalPortlet]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portlet.SecurityPortletContainerWrapper" method="processActionException" file="SecurityPortletContainerWrapper.java" line="393"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.apio.architect.internal.jaxrs.json.util.ErrorUtil" timestamp="1540220411985" level="ERROR" thread="http-nio-8080-exec-3">
+<log4j:message><![CDATA[No DDMFormInstance exists with the primary key 38395]]></log4j:message>
+<log4j:locationInfo class="com.liferay.apio.architect.internal.jaxrs.json.util.ErrorUtil" method="getErrorResponse" file="ErrorUtil.java" line="78"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.apio.architect.internal.jaxrs.json.util.ErrorUtil" timestamp="1540220453225" level="ERROR" thread="http-nio-8080-exec-2">
+<log4j:message><![CDATA[No DDMFormInstance exists with the primary key 38395]]></log4j:message>
+<log4j:locationInfo class="com.liferay.apio.architect.internal.jaxrs.json.util.ErrorUtil" method="getErrorResponse" file="ErrorUtil.java" line="78"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.apio.architect.internal.jaxrs.json.util.ErrorUtil" timestamp="1540224984231" level="ERROR" thread="http-nio-8080-exec-2">
+<log4j:message><![CDATA[No DDMFormInstance exists with the primary key 38395]]></log4j:message>
+<log4j:locationInfo class="com.liferay.apio.architect.internal.jaxrs.json.util.ErrorUtil" method="getErrorResponse" file="ErrorUtil.java" line="78"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.apio.architect.internal.jaxrs.json.util.ErrorUtil" timestamp="1540225094988" level="ERROR" thread="http-nio-8080-exec-3">
+<log4j:message><![CDATA[No DDMFormInstance exists with the primary key 38395]]></log4j:message>
+<log4j:locationInfo class="com.liferay.apio.architect.internal.jaxrs.json.util.ErrorUtil" method="getErrorResponse" file="ErrorUtil.java" line="78"/>
+</log4j:event>
+
+<log4j:event logger="org.apache.cxf.jaxrs.utils.JAXRSUtils" timestamp="1540225247781" level="ERROR" thread="http-nio-8080-exec-3">
+<log4j:message><![CDATA[Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.remote.jaxrs.whiteboard.internal.log.LiferayCXFLogger" method="internalLogFormatted" file="LiferayCXFLogger.java" line="83"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.apio.architect.internal.jaxrs.json.util.ErrorUtil" timestamp="1540225247794" level="ERROR" thread="http-nio-8080-exec-3">
+<log4j:message><![CDATA[java.lang.NullPointerException]]></log4j:message>
+<log4j:locationInfo class="com.liferay.apio.architect.internal.jaxrs.json.util.ErrorUtil" method="getErrorResponse" file="ErrorUtil.java" line="78"/>
+</log4j:event>
+
+<log4j:event logger="org.apache.cxf.jaxrs.utils.JAXRSUtils" timestamp="1540225254213" level="ERROR" thread="http-nio-8080-exec-1">
+<log4j:message><![CDATA[Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.remote.jaxrs.whiteboard.internal.log.LiferayCXFLogger" method="internalLogFormatted" file="LiferayCXFLogger.java" line="83"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.apio.architect.internal.jaxrs.json.util.ErrorUtil" timestamp="1540225254214" level="ERROR" thread="http-nio-8080-exec-1">
+<log4j:message><![CDATA[java.lang.NullPointerException]]></log4j:message>
+<log4j:locationInfo class="com.liferay.apio.architect.internal.jaxrs.json.util.ErrorUtil" method="getErrorResponse" file="ErrorUtil.java" line="78"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1540225718754" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m29s974ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1540225720684" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=1m29s978ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.apio.architect.internal.jaxrs.json.util.ErrorUtil" timestamp="1540228777526" level="ERROR" thread="http-nio-8080-exec-1">
+<log4j:message><![CDATA[No DDMFormInstance exists with the primary key 38395]]></log4j:message>
+<log4j:locationInfo class="com.liferay.apio.architect.internal.jaxrs.json.util.ErrorUtil" method="getErrorResponse" file="ErrorUtil.java" line="78"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.apio.architect.internal.jaxrs.json.util.ErrorUtil" timestamp="1540229700639" level="ERROR" thread="http-nio-8080-exec-4">
+<log4j:message><![CDATA[No DDMFormInstance exists with the primary key 38395]]></log4j:message>
+<log4j:locationInfo class="com.liferay.apio.architect.internal.jaxrs.json.util.ErrorUtil" method="getErrorResponse" file="ErrorUtil.java" line="78"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.apio.architect.internal.jaxrs.json.util.ErrorUtil" timestamp="1540229763783" level="ERROR" thread="http-nio-8080-exec-2">
+<log4j:message><![CDATA[No DDMFormInstance exists with the primary key 38395]]></log4j:message>
+<log4j:locationInfo class="com.liferay.apio.architect.internal.jaxrs.json.util.ErrorUtil" method="getErrorResponse" file="ErrorUtil.java" line="78"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.apio.architect.internal.jaxrs.json.util.ErrorUtil" timestamp="1540229877307" level="ERROR" thread="http-nio-8080-exec-1">
+<log4j:message><![CDATA[No DDMFormInstance exists with the primary key 38395]]></log4j:message>
+<log4j:locationInfo class="com.liferay.apio.architect.internal.jaxrs.json.util.ErrorUtil" method="getErrorResponse" file="ErrorUtil.java" line="78"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1540230786595" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m27s528ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1540230788569" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=2m27s529ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.apio.architect.internal.jaxrs.json.util.ErrorUtil" timestamp="1540233217526" level="ERROR" thread="http-nio-8080-exec-2">
+<log4j:message><![CDATA[No DDMFormInstance exists with the primary key 38395]]></log4j:message>
+<log4j:locationInfo class="com.liferay.apio.architect.internal.jaxrs.json.util.ErrorUtil" method="getErrorResponse" file="ErrorUtil.java" line="78"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.apio.architect.internal.jaxrs.json.util.ErrorUtil" timestamp="1540233546952" level="ERROR" thread="http-nio-8080-exec-5">
+<log4j:message><![CDATA[No DDMFormInstance exists with the primary key 38395]]></log4j:message>
+<log4j:locationInfo class="com.liferay.apio.architect.internal.jaxrs.json.util.ErrorUtil" method="getErrorResponse" file="ErrorUtil.java" line="78"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1540234586026" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m49s183ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1540234587985" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=1m49s186ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.apio.architect.internal.jaxrs.json.util.ErrorUtil" timestamp="1540240697161" level="ERROR" thread="http-nio-8080-exec-9">
+<log4j:message><![CDATA[No DDMFormInstance exists with the primary key 38395]]></log4j:message>
+<log4j:locationInfo class="com.liferay.apio.architect.internal.jaxrs.json.util.ErrorUtil" method="getErrorResponse" file="ErrorUtil.java" line="78"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.apio.architect.internal.jaxrs.json.util.ErrorUtil" timestamp="1540240818201" level="ERROR" thread="http-nio-8080-exec-8">
+<log4j:message><![CDATA[No DDMFormInstance exists with the primary key 38395]]></log4j:message>
+<log4j:locationInfo class="com.liferay.apio.architect.internal.jaxrs.json.util.ErrorUtil" method="getErrorResponse" file="ErrorUtil.java" line="78"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.apio.architect.internal.jaxrs.json.util.ErrorUtil" timestamp="1540240873348" level="ERROR" thread="http-nio-8080-exec-8">
+<log4j:message><![CDATA[No DDMFormInstance exists with the primary key 38395]]></log4j:message>
+<log4j:locationInfo class="com.liferay.apio.architect.internal.jaxrs.json.util.ErrorUtil" method="getErrorResponse" file="ErrorUtil.java" line="78"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.apio.architect.internal.jaxrs.json.util.ErrorUtil" timestamp="1540240992946" level="ERROR" thread="http-nio-8080-exec-10">
+<log4j:message><![CDATA[No DDMFormInstance exists with the primary key 38395]]></log4j:message>
+<log4j:locationInfo class="com.liferay.apio.architect.internal.jaxrs.json.util.ErrorUtil" method="getErrorResponse" file="ErrorUtil.java" line="78"/>
+</log4j:event>
+
+<log4j:event logger="com.netflix.config.sources.URLConfigurationSource" timestamp="1540241023235" level="WARN" thread="http-nio-8080-exec-2">
+<log4j:message><![CDATA[No URLs will be polled as dynamic configuration sources.]]></log4j:message>
+<log4j:locationInfo class="com.netflix.config.sources.URLConfigurationSource" method="&lt;init&gt;" file="URLConfigurationSource.java" line="122"/>
+</log4j:event>
+
+<log4j:event logger="com.netflix.config.sources.URLConfigurationSource" timestamp="1540241023237" level="INFO" thread="http-nio-8080-exec-2">
+<log4j:message><![CDATA[To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.]]></log4j:message>
+<log4j:locationInfo class="com.netflix.config.sources.URLConfigurationSource" method="&lt;init&gt;" file="URLConfigurationSource.java" line="123"/>
+</log4j:event>
+
+<log4j:event logger="com.netflix.config.DynamicPropertyFactory" timestamp="1540241023249" level="INFO" thread="http-nio-8080-exec-2">
+<log4j:message><![CDATA[DynamicPropertyFactory is initialized with configuration sources: com.netflix.config.ConcurrentCompositeConfiguration@43eda7f2]]></log4j:message>
+<log4j:locationInfo class="com.netflix.config.DynamicPropertyFactory" method="getInstance" file="DynamicPropertyFactory.java" line="266"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.apio.architect.internal.jaxrs.json.util.ErrorUtil" timestamp="1540241097818" level="ERROR" thread="http-nio-8080-exec-3">
+<log4j:message><![CDATA[No DDMFormInstance exists with the primary key 38395]]></log4j:message>
+<log4j:locationInfo class="com.liferay.apio.architect.internal.jaxrs.json.util.ErrorUtil" method="getErrorResponse" file="ErrorUtil.java" line="78"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.apio.architect.internal.jaxrs.json.util.ErrorUtil" timestamp="1540241144322" level="ERROR" thread="http-nio-8080-exec-9">
+<log4j:message><![CDATA[No DDMFormInstance exists with the primary key 38395]]></log4j:message>
+<log4j:locationInfo class="com.liferay.apio.architect.internal.jaxrs.json.util.ErrorUtil" method="getErrorResponse" file="ErrorUtil.java" line="78"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.apio.architect.internal.jaxrs.json.util.ErrorUtil" timestamp="1540241781444" level="ERROR" thread="http-nio-8080-exec-3">
+<log4j:message><![CDATA[No DDMFormInstance exists with the primary key 38395]]></log4j:message>
+<log4j:locationInfo class="com.liferay.apio.architect.internal.jaxrs.json.util.ErrorUtil" method="getErrorResponse" file="ErrorUtil.java" line="78"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.apio.architect.internal.jaxrs.json.util.ErrorUtil" timestamp="1540242113517" level="ERROR" thread="http-nio-8080-exec-4">
+<log4j:message><![CDATA[No DDMFormInstance exists with the primary key 38395]]></log4j:message>
+<log4j:locationInfo class="com.liferay.apio.architect.internal.jaxrs.json.util.ErrorUtil" method="getErrorResponse" file="ErrorUtil.java" line="78"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.apio.architect.internal.jaxrs.json.util.ErrorUtil" timestamp="1540242124558" level="ERROR" thread="http-nio-8080-exec-1">
+<log4j:message><![CDATA[No DDMFormInstance exists with the primary key 38395]]></log4j:message>
+<log4j:locationInfo class="com.liferay.apio.architect.internal.jaxrs.json.util.ErrorUtil" method="getErrorResponse" file="ErrorUtil.java" line="78"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.apio.architect.internal.jaxrs.json.util.ErrorUtil" timestamp="1540242221880" level="ERROR" thread="http-nio-8080-exec-7">
+<log4j:message><![CDATA[No DDMFormInstance exists with the primary key 38395]]></log4j:message>
+<log4j:locationInfo class="com.liferay.apio.architect.internal.jaxrs.json.util.ErrorUtil" method="getErrorResponse" file="ErrorUtil.java" line="78"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.apio.architect.internal.jaxrs.json.util.ErrorUtil" timestamp="1540242278904" level="ERROR" thread="http-nio-8080-exec-10">
+<log4j:message><![CDATA[No DDMFormInstance exists with the primary key 38395]]></log4j:message>
+<log4j:locationInfo class="com.liferay.apio.architect.internal.jaxrs.json.util.ErrorUtil" method="getErrorResponse" file="ErrorUtil.java" line="78"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.apio.architect.internal.jaxrs.json.util.ErrorUtil" timestamp="1540242317285" level="ERROR" thread="http-nio-8080-exec-7">
+<log4j:message><![CDATA[No DDMFormInstance exists with the primary key 38395]]></log4j:message>
+<log4j:locationInfo class="com.liferay.apio.architect.internal.jaxrs.json.util.ErrorUtil" method="getErrorResponse" file="ErrorUtil.java" line="78"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.apio.architect.internal.jaxrs.json.util.ErrorUtil" timestamp="1540242326110" level="ERROR" thread="http-nio-8080-exec-4">
+<log4j:message><![CDATA[No DDMFormInstance exists with the primary key 38395]]></log4j:message>
+<log4j:locationInfo class="com.liferay.apio.architect.internal.jaxrs.json.util.ErrorUtil" method="getErrorResponse" file="ErrorUtil.java" line="78"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.apio.architect.internal.jaxrs.json.util.ErrorUtil" timestamp="1540242400359" level="ERROR" thread="http-nio-8080-exec-4">
+<log4j:message><![CDATA[No DDMFormInstance exists with the primary key 38395]]></log4j:message>
+<log4j:locationInfo class="com.liferay.apio.architect.internal.jaxrs.json.util.ErrorUtil" method="getErrorResponse" file="ErrorUtil.java" line="78"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.apio.architect.internal.jaxrs.json.util.ErrorUtil" timestamp="1540242537877" level="ERROR" thread="http-nio-8080-exec-9">
+<log4j:message><![CDATA[No DDMFormInstance exists with the primary key 38395]]></log4j:message>
+<log4j:locationInfo class="com.liferay.apio.architect.internal.jaxrs.json.util.ErrorUtil" method="getErrorResponse" file="ErrorUtil.java" line="78"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.apio.architect.internal.jaxrs.json.util.ErrorUtil" timestamp="1540242744393" level="ERROR" thread="http-nio-8080-exec-8">
+<log4j:message><![CDATA[No DDMFormInstance exists with the primary key 38395]]></log4j:message>
+<log4j:locationInfo class="com.liferay.apio.architect.internal.jaxrs.json.util.ErrorUtil" method="getErrorResponse" file="ErrorUtil.java" line="78"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.apio.architect.internal.jaxrs.json.util.ErrorUtil" timestamp="1540242849955" level="ERROR" thread="http-nio-8080-exec-8">
+<log4j:message><![CDATA[No DDMFormInstance exists with the primary key 38395]]></log4j:message>
+<log4j:locationInfo class="com.liferay.apio.architect.internal.jaxrs.json.util.ErrorUtil" method="getErrorResponse" file="ErrorUtil.java" line="78"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.apio.architect.internal.jaxrs.json.util.ErrorUtil" timestamp="1540243129871" level="ERROR" thread="http-nio-8080-exec-5">
+<log4j:message><![CDATA[No DDMFormInstance exists with the primary key 38395]]></log4j:message>
+<log4j:locationInfo class="com.liferay.apio.architect.internal.jaxrs.json.util.ErrorUtil" method="getErrorResponse" file="ErrorUtil.java" line="78"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.apio.architect.internal.jaxrs.json.util.ErrorUtil" timestamp="1540243370008" level="ERROR" thread="http-nio-8080-exec-1">
+<log4j:message><![CDATA[No DDMFormInstance exists with the primary key 38395]]></log4j:message>
+<log4j:locationInfo class="com.liferay.apio.architect.internal.jaxrs.json.util.ErrorUtil" method="getErrorResponse" file="ErrorUtil.java" line="78"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portlet.SecurityPortletContainerWrapper" timestamp="1540243382787" level="WARN" thread="http-nio-8080-exec-5">
+<log4j:message><![CDATA[User 0 is not allowed to access URL http://192.168.110.55:8080/web/forms/shared and portlet com_liferay_dynamic_data_mapping_form_web_portlet_DDMFormPortlet]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portlet.SecurityPortletContainerWrapper" method="processActionException" file="SecurityPortletContainerWrapper.java" line="393"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.apio.architect.internal.jaxrs.json.util.ErrorUtil" timestamp="1540243482120" level="ERROR" thread="http-nio-8080-exec-8">
+<log4j:message><![CDATA[No DDMFormInstance exists with the primary key 38395]]></log4j:message>
+<log4j:locationInfo class="com.liferay.apio.architect.internal.jaxrs.json.util.ErrorUtil" method="getErrorResponse" file="ErrorUtil.java" line="78"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.apio.architect.internal.jaxrs.json.util.ErrorUtil" timestamp="1540243527388" level="ERROR" thread="http-nio-8080-exec-3">
+<log4j:message><![CDATA[No DDMFormInstance exists with the primary key 38395]]></log4j:message>
+<log4j:locationInfo class="com.liferay.apio.architect.internal.jaxrs.json.util.ErrorUtil" method="getErrorResponse" file="ErrorUtil.java" line="78"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.apio.architect.internal.jaxrs.json.util.ErrorUtil" timestamp="1540243748660" level="ERROR" thread="http-nio-8080-exec-1">
+<log4j:message><![CDATA[No DDMFormInstance exists with the primary key 38395]]></log4j:message>
+<log4j:locationInfo class="com.liferay.apio.architect.internal.jaxrs.json.util.ErrorUtil" method="getErrorResponse" file="ErrorUtil.java" line="78"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.apio.architect.internal.jaxrs.json.util.ErrorUtil" timestamp="1540244429853" level="ERROR" thread="http-nio-8080-exec-8">
+<log4j:message><![CDATA[No DDMFormInstance exists with the primary key 38395]]></log4j:message>
+<log4j:locationInfo class="com.liferay.apio.architect.internal.jaxrs.json.util.ErrorUtil" method="getErrorResponse" file="ErrorUtil.java" line="78"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.apio.architect.internal.jaxrs.json.util.ErrorUtil" timestamp="1540244517723" level="ERROR" thread="http-nio-8080-exec-5">
+<log4j:message><![CDATA[No DDMFormInstance exists with the primary key 38395]]></log4j:message>
+<log4j:locationInfo class="com.liferay.apio.architect.internal.jaxrs.json.util.ErrorUtil" method="getErrorResponse" file="ErrorUtil.java" line="78"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.apio.architect.internal.jaxrs.json.util.ErrorUtil" timestamp="1540244557566" level="ERROR" thread="http-nio-8080-exec-7">
+<log4j:message><![CDATA[No DDMFormInstance exists with the primary key 38395]]></log4j:message>
+<log4j:locationInfo class="com.liferay.apio.architect.internal.jaxrs.json.util.ErrorUtil" method="getErrorResponse" file="ErrorUtil.java" line="78"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.apio.architect.internal.jaxrs.json.util.ErrorUtil" timestamp="1540244568817" level="ERROR" thread="http-nio-8080-exec-2">
+<log4j:message><![CDATA[No DDMFormInstance exists with the primary key 38395]]></log4j:message>
+<log4j:locationInfo class="com.liferay.apio.architect.internal.jaxrs.json.util.ErrorUtil" method="getErrorResponse" file="ErrorUtil.java" line="78"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.apio.architect.internal.jaxrs.json.util.ErrorUtil" timestamp="1540244647367" level="ERROR" thread="http-nio-8080-exec-3">
+<log4j:message><![CDATA[No DDMFormInstance exists with the primary key 38395]]></log4j:message>
+<log4j:locationInfo class="com.liferay.apio.architect.internal.jaxrs.json.util.ErrorUtil" method="getErrorResponse" file="ErrorUtil.java" line="78"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.apio.architect.internal.jaxrs.json.util.ErrorUtil" timestamp="1540245773710" level="ERROR" thread="http-nio-8080-exec-5">
+<log4j:message><![CDATA[No DDMFormInstance exists with the primary key 38395]]></log4j:message>
+<log4j:locationInfo class="com.liferay.apio.architect.internal.jaxrs.json.util.ErrorUtil" method="getErrorResponse" file="ErrorUtil.java" line="78"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.apio.architect.internal.jaxrs.json.util.ErrorUtil" timestamp="1540245840979" level="ERROR" thread="http-nio-8080-exec-5">
+<log4j:message><![CDATA[No DDMFormInstance exists with the primary key 38395]]></log4j:message>
+<log4j:locationInfo class="com.liferay.apio.architect.internal.jaxrs.json.util.ErrorUtil" method="getErrorResponse" file="ErrorUtil.java" line="78"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.apio.architect.internal.jaxrs.json.util.ErrorUtil" timestamp="1540245877622" level="ERROR" thread="http-nio-8080-exec-2">
+<log4j:message><![CDATA[No DDMFormInstance exists with the primary key 38395]]></log4j:message>
+<log4j:locationInfo class="com.liferay.apio.architect.internal.jaxrs.json.util.ErrorUtil" method="getErrorResponse" file="ErrorUtil.java" line="78"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.apio.architect.internal.jaxrs.json.util.ErrorUtil" timestamp="1540245892481" level="ERROR" thread="http-nio-8080-exec-1">
+<log4j:message><![CDATA[No DDMFormInstance exists with the primary key 38395]]></log4j:message>
+<log4j:locationInfo class="com.liferay.apio.architect.internal.jaxrs.json.util.ErrorUtil" method="getErrorResponse" file="ErrorUtil.java" line="78"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1540246264546" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3m53s875ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1540246266637" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=3m53s865ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1540246511124" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=4m6s582ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1540246513213" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=4m6s577ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1540247830026" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=21m58s902ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1540247836331" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=22m3s118ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1540249392269" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=26m2s243ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1540249393908" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=25m57s577ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+

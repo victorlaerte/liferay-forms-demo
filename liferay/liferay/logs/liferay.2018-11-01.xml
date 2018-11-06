@@ -1,0 +1,505 @@
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1541033040531" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2h15m12s993ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1541033040531" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=2h15m13s832ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1541068180445" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9h45m40s30ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1541068180456" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=9h45m40s80ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1541069220793" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=16m49s894ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1541069220793" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m49s897ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1541072005632" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=46m24s846ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1541072005647" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=46m24s853ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1541073420435" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=2m59s843ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1541073420435" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m59s843ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1541074581636" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=1m51s72ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1541074581636" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m51s72ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1541077421474" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=2m19s676ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1541077421503" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m19s676ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1541079194586" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=10m33s12ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1541079194607" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=10m33s17ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.deploy.hot.HookHotDeployListener" timestamp="1541088720186" level="INFO" thread="Thread-46">
+<log4j:message><![CDATA[Hook for social-bookmarks-hook was unregistered]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.deploy.hot.HookHotDeployListener" method="doInvokeUndeploy" file="HookHotDeployListener.java" line="569"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.deploy.hot.PortletHotDeployListener" timestamp="1541088723770" level="INFO" thread="Thread-46">
+<log4j:message><![CDATA[2 portlets for powwow-portlet were unregistered]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.deploy.hot.PortletHotDeployListener" method="doInvokeUndeploy" file="PortletHotDeployListener.java" line="393"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.deploy.hot.HookHotDeployListener" timestamp="1541088723798" level="INFO" thread="Thread-46">
+<log4j:message><![CDATA[Hook for powwow-portlet was unregistered]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.deploy.hot.HookHotDeployListener" method="doInvokeUndeploy" file="HookHotDeployListener.java" line="569"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.deploy.hot.ThemeHotDeployListener" timestamp="1541088724361" level="INFO" thread="Thread-46">
+<log4j:message><![CDATA[1 theme for classic-theme was unregistered]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.deploy.hot.ThemeHotDeployListener" method="doInvokeUndeploy" file="ThemeHotDeployListener.java" line="170"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.deploy.hot.ThemeHotDeployListener" timestamp="1541088724580" level="INFO" thread="Thread-46">
+<log4j:message><![CDATA[1 theme for fjord-theme was unregistered]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.deploy.hot.ThemeHotDeployListener" method="doInvokeUndeploy" file="ThemeHotDeployListener.java" line="170"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.deploy.hot.PortletHotDeployListener" timestamp="1541088724951" level="INFO" thread="Thread-46">
+<log4j:message><![CDATA[2 portlets for tasks-portlet were unregistered]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.deploy.hot.PortletHotDeployListener" method="doInvokeUndeploy" file="PortletHotDeployListener.java" line="393"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.deploy.hot.HookHotDeployListener" timestamp="1541088724992" level="INFO" thread="Thread-46">
+<log4j:message><![CDATA[Hook for tasks-portlet was unregistered]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.deploy.hot.HookHotDeployListener" method="doInvokeUndeploy" file="HookHotDeployListener.java" line="569"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.deploy.hot.PortletHotDeployListener" timestamp="1541088725485" level="INFO" thread="Thread-46">
+<log4j:message><![CDATA[4 portlets for opensocial-portlet were unregistered]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.deploy.hot.PortletHotDeployListener" method="doInvokeUndeploy" file="PortletHotDeployListener.java" line="393"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.deploy.hot.HookHotDeployListener" timestamp="1541088725525" level="INFO" thread="Thread-46">
+<log4j:message><![CDATA[Hook for opensocial-portlet was unregistered]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.deploy.hot.HookHotDeployListener" method="doInvokeUndeploy" file="HookHotDeployListener.java" line="569"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.deploy.hot.ThemeHotDeployListener" timestamp="1541088725644" level="INFO" thread="Thread-46">
+<log4j:message><![CDATA[1 theme for westeros-bank-theme was unregistered]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.deploy.hot.ThemeHotDeployListener" method="doInvokeUndeploy" file="ThemeHotDeployListener.java" line="170"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.deploy.hot.ThemeHotDeployListener" timestamp="1541088725985" level="INFO" thread="Thread-46">
+<log4j:message><![CDATA[1 theme for admin-theme was unregistered]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.deploy.hot.ThemeHotDeployListener" method="doInvokeUndeploy" file="ThemeHotDeployListener.java" line="170"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.deploy.hot.ThemeHotDeployListener" timestamp="1541088726023" level="INFO" thread="Thread-46">
+<log4j:message><![CDATA[1 theme for porygon-theme was unregistered]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.deploy.hot.ThemeHotDeployListener" method="doInvokeUndeploy" file="ThemeHotDeployListener.java" line="170"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.spring.hibernate.DialectDetector" timestamp="1541095116812" level="INFO" thread="main">
+<log4j:message><![CDATA[Using dialect org.hibernate.dialect.MySQLDialect for MySQL 5.7]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.spring.hibernate.DialectDetector" method="getDialect" file="DialectDetector.java" line="158"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.bootstrap.ModuleFrameworkImpl" timestamp="1541095119104" level="INFO" thread="main">
+<log4j:message><![CDATA[Starting initial bundles]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.bootstrap.ModuleFrameworkImpl" method="_setUpInitialBundles" file="ModuleFrameworkImpl.java" line="1326"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.bootstrap.ModuleFrameworkImpl" timestamp="1541095119795" level="INFO" thread="main">
+<log4j:message><![CDATA[Started initial bundles]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.bootstrap.ModuleFrameworkImpl" method="_setUpInitialBundles" file="ModuleFrameworkImpl.java" line="1589"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.bootstrap.ModuleFrameworkImpl" timestamp="1541095119796" level="INFO" thread="main">
+<log4j:message><![CDATA[Starting dynamic bundles]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.bootstrap.ModuleFrameworkImpl" method="_startDynamicBundles" file="ModuleFrameworkImpl.java" line="1624"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.bootstrap.ModuleFrameworkImpl" timestamp="1541095134425" level="INFO" thread="main">
+<log4j:message><![CDATA[Started dynamic bundles]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.bootstrap.ModuleFrameworkImpl" method="_startDynamicBundles" file="ModuleFrameworkImpl.java" line="1736"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.bootstrap.ModuleFrameworkImpl" timestamp="1541095134427" level="INFO" thread="main">
+<log4j:message><![CDATA[Navigate to Control Panel > Configuration > Gogo Shell and enter "lb" to see all bundles]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.bootstrap.ModuleFrameworkImpl" method="startFramework" file="ModuleFrameworkImpl.java" line="413"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.search.elasticsearch6.internal.connection.EmbeddedElasticsearchConnection" timestamp="1541095138931" level="WARN" thread="Elasticsearch initialization thread">
+<log4j:message><![CDATA[Liferay is configured to use embedded Elasticsearch as its search engine. Do NOT use embedded Elasticsearch in production. Embedded Elasticsearch is useful for development and demonstration purposes. Remote Elasticsearch connections can be configured in the Control Panel.]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.search.elasticsearch6.internal.connection.EmbeddedElasticsearchConnection" method="createClient" file="EmbeddedElasticsearchConnection.java" line="286"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.events.StartupHelper" timestamp="1541095145561" level="INFO" thread="main">
+<log4j:message><![CDATA[There are no patches installed]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.events.StartupHelper" method="printPatchLevel" file="StartupHelper.java" line="72"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.kernel.deploy.auto.AutoDeployDir" timestamp="1541095146892" level="INFO" thread="main">
+<log4j:message><![CDATA[Auto deploy scanner started for /Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/deploy]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.kernel.deploy.auto.AutoDeployDir" method="start" file="AutoDeployDir.java" line="193"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.deploy.hot.ThemeHotDeployListener" timestamp="1541095174464" level="INFO" thread="main">
+<log4j:message><![CDATA[1 theme for classic-theme is available for use]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.deploy.hot.ThemeHotDeployListener" method="doInvokeDeploy" file="ThemeHotDeployListener.java" line="108"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.deploy.hot.ThemeHotDeployListener" timestamp="1541095175083" level="INFO" thread="main">
+<log4j:message><![CDATA[1 theme for admin-theme is available for use]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.deploy.hot.ThemeHotDeployListener" method="doInvokeDeploy" file="ThemeHotDeployListener.java" line="108"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.deploy.hot.ThemeHotDeployListener" timestamp="1541095175752" level="INFO" thread="main">
+<log4j:message><![CDATA[1 theme for fjord-theme is available for use]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.deploy.hot.ThemeHotDeployListener" method="doInvokeDeploy" file="ThemeHotDeployListener.java" line="108"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.deploy.hot.HookHotDeployListener" timestamp="1541095182289" level="INFO" thread="main">
+<log4j:message><![CDATA[Hook for opensocial-portlet is available for use]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.deploy.hot.HookHotDeployListener" method="doInvokeDeploy" file="HookHotDeployListener.java" line="521"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.deploy.hot.PortletHotDeployListener" timestamp="1541095182810" level="INFO" thread="main">
+<log4j:message><![CDATA[4 portlets for opensocial-portlet are available for use]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.deploy.hot.PortletHotDeployListener" method="doInvokeDeploy" file="PortletHotDeployListener.java" line="293"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.deploy.hot.ThemeHotDeployListener" timestamp="1541095184002" level="INFO" thread="main">
+<log4j:message><![CDATA[1 theme for porygon-theme is available for use]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.deploy.hot.ThemeHotDeployListener" method="doInvokeDeploy" file="ThemeHotDeployListener.java" line="108"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.deploy.hot.HookHotDeployListener" timestamp="1541095184598" level="INFO" thread="main">
+<log4j:message><![CDATA[Hook for powwow-portlet is available for use]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.deploy.hot.HookHotDeployListener" method="doInvokeDeploy" file="HookHotDeployListener.java" line="521"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.deploy.hot.PortletHotDeployListener" timestamp="1541095184691" level="INFO" thread="main">
+<log4j:message><![CDATA[2 portlets for powwow-portlet are available for use]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.deploy.hot.PortletHotDeployListener" method="doInvokeDeploy" file="PortletHotDeployListener.java" line="293"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.deploy.hot.HookHotDeployListener" timestamp="1541095184947" level="INFO" thread="main">
+<log4j:message><![CDATA[Hook for social-bookmarks-hook is available for use]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.deploy.hot.HookHotDeployListener" method="doInvokeDeploy" file="HookHotDeployListener.java" line="521"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.deploy.hot.HookHotDeployListener" timestamp="1541095185484" level="INFO" thread="main">
+<log4j:message><![CDATA[Hook for tasks-portlet is available for use]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.deploy.hot.HookHotDeployListener" method="doInvokeDeploy" file="HookHotDeployListener.java" line="521"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.deploy.hot.PortletHotDeployListener" timestamp="1541095185608" level="INFO" thread="main">
+<log4j:message><![CDATA[2 portlets for tasks-portlet are available for use]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.deploy.hot.PortletHotDeployListener" method="doInvokeDeploy" file="PortletHotDeployListener.java" line="293"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.deploy.hot.ThemeHotDeployListener" timestamp="1541095186264" level="INFO" thread="main">
+<log4j:message><![CDATA[1 theme for westeros-bank-theme is available for use]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.deploy.hot.ThemeHotDeployListener" method="doInvokeDeploy" file="ThemeHotDeployListener.java" line="108"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.osgi.debug.internal.osgi.commands.SystemCheckOSGiCommands" timestamp="1541095187493" level="INFO" thread="main">
+<log4j:message><![CDATA[System check is enabled. You can run a system check with the command "system:check" in Gogo shell.]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.osgi.debug.internal.osgi.commands.SystemCheckOSGiCommands" method="activate" file="SystemCheckOSGiCommands.java" line="54"/>
+</log4j:event>
+
+<log4j:event logger="org.apache.cxf.jaxrs.utils.JAXRSUtils" timestamp="1541095469022" level="ERROR" thread="http-nio-8080-exec-4">
+<log4j:message><![CDATA[Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.remote.jaxrs.whiteboard.internal.log.LiferayCXFLogger" method="internalLogFormatted" file="LiferayCXFLogger.java" line="83"/>
+</log4j:event>
+
+<log4j:event logger="org.apache.cxf.jaxrs.utils.JAXRSUtils" timestamp="1541095494926" level="ERROR" thread="http-nio-8080-exec-9">
+<log4j:message><![CDATA[Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.remote.jaxrs.whiteboard.internal.log.LiferayCXFLogger" method="internalLogFormatted" file="LiferayCXFLogger.java" line="83"/>
+</log4j:event>
+
+<log4j:event logger="org.apache.cxf.jaxrs.utils.JAXRSUtils" timestamp="1541095506064" level="ERROR" thread="http-nio-8080-exec-3">
+<log4j:message><![CDATA[Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.remote.jaxrs.whiteboard.internal.log.LiferayCXFLogger" method="internalLogFormatted" file="LiferayCXFLogger.java" line="83"/>
+</log4j:event>
+
+<log4j:event logger="org.apache.cxf.jaxrs.utils.JAXRSUtils" timestamp="1541095927885" level="ERROR" thread="http-nio-8080-exec-6">
+<log4j:message><![CDATA[Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.remote.jaxrs.whiteboard.internal.log.LiferayCXFLogger" method="internalLogFormatted" file="LiferayCXFLogger.java" line="83"/>
+</log4j:event>
+
+<log4j:event logger="org.apache.cxf.jaxrs.utils.JAXRSUtils" timestamp="1541095930114" level="ERROR" thread="http-nio-8080-exec-5">
+<log4j:message><![CDATA[Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.remote.jaxrs.whiteboard.internal.log.LiferayCXFLogger" method="internalLogFormatted" file="LiferayCXFLogger.java" line="83"/>
+</log4j:event>
+
+<log4j:event logger="org.apache.cxf.jaxrs.utils.JAXRSUtils" timestamp="1541096101882" level="ERROR" thread="http-nio-8080-exec-8">
+<log4j:message><![CDATA[Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.remote.jaxrs.whiteboard.internal.log.LiferayCXFLogger" method="internalLogFormatted" file="LiferayCXFLogger.java" line="83"/>
+</log4j:event>
+
+<log4j:event logger="org.apache.cxf.jaxrs.utils.JAXRSUtils" timestamp="1541096126019" level="ERROR" thread="http-nio-8080-exec-10">
+<log4j:message><![CDATA[Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.remote.jaxrs.whiteboard.internal.log.LiferayCXFLogger" method="internalLogFormatted" file="LiferayCXFLogger.java" line="83"/>
+</log4j:event>
+
+<log4j:event logger="org.apache.cxf.jaxrs.utils.JAXRSUtils" timestamp="1541096209313" level="ERROR" thread="http-nio-8080-exec-5">
+<log4j:message><![CDATA[Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.remote.jaxrs.whiteboard.internal.log.LiferayCXFLogger" method="internalLogFormatted" file="LiferayCXFLogger.java" line="83"/>
+</log4j:event>
+
+<log4j:event logger="org.apache.cxf.jaxrs.utils.JAXRSUtils" timestamp="1541096246131" level="ERROR" thread="http-nio-8080-exec-7">
+<log4j:message><![CDATA[Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.remote.jaxrs.whiteboard.internal.log.LiferayCXFLogger" method="internalLogFormatted" file="LiferayCXFLogger.java" line="83"/>
+</log4j:event>
+
+<log4j:event logger="org.apache.cxf.jaxrs.utils.JAXRSUtils" timestamp="1541096328090" level="ERROR" thread="http-nio-8080-exec-4">
+<log4j:message><![CDATA[Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.remote.jaxrs.whiteboard.internal.log.LiferayCXFLogger" method="internalLogFormatted" file="LiferayCXFLogger.java" line="83"/>
+</log4j:event>
+
+<log4j:event logger="org.apache.cxf.jaxrs.utils.JAXRSUtils" timestamp="1541096335847" level="ERROR" thread="http-nio-8080-exec-5">
+<log4j:message><![CDATA[Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.remote.jaxrs.whiteboard.internal.log.LiferayCXFLogger" method="internalLogFormatted" file="LiferayCXFLogger.java" line="83"/>
+</log4j:event>
+
+<log4j:event logger="org.apache.cxf.jaxrs.utils.JAXRSUtils" timestamp="1541096532012" level="ERROR" thread="http-nio-8080-exec-8">
+<log4j:message><![CDATA[Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.remote.jaxrs.whiteboard.internal.log.LiferayCXFLogger" method="internalLogFormatted" file="LiferayCXFLogger.java" line="83"/>
+</log4j:event>
+
+<log4j:event logger="org.apache.cxf.jaxrs.utils.JAXRSUtils" timestamp="1541096548026" level="ERROR" thread="http-nio-8080-exec-6">
+<log4j:message><![CDATA[Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.remote.jaxrs.whiteboard.internal.log.LiferayCXFLogger" method="internalLogFormatted" file="LiferayCXFLogger.java" line="83"/>
+</log4j:event>
+
+<log4j:event logger="org.apache.cxf.jaxrs.utils.JAXRSUtils" timestamp="1541096633427" level="ERROR" thread="http-nio-8080-exec-9">
+<log4j:message><![CDATA[Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.remote.jaxrs.whiteboard.internal.log.LiferayCXFLogger" method="internalLogFormatted" file="LiferayCXFLogger.java" line="83"/>
+</log4j:event>
+
+<log4j:event logger="org.apache.cxf.jaxrs.utils.JAXRSUtils" timestamp="1541096639312" level="ERROR" thread="http-nio-8080-exec-1">
+<log4j:message><![CDATA[Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.remote.jaxrs.whiteboard.internal.log.LiferayCXFLogger" method="internalLogFormatted" file="LiferayCXFLogger.java" line="83"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.apio.architect.internal.jaxrs.json.util.ErrorUtil" timestamp="1541097781118" level="ERROR" thread="http-nio-8080-exec-8">
+<log4j:message><![CDATA[No DDMFormInstance exists with the primary key 38395]]></log4j:message>
+<log4j:locationInfo class="com.liferay.apio.architect.internal.jaxrs.json.util.ErrorUtil" method="getErrorResponse" file="ErrorUtil.java" line="78"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.apio.architect.internal.jaxrs.json.util.ErrorUtil" timestamp="1541097782390" level="ERROR" thread="http-nio-8080-exec-9">
+<log4j:message><![CDATA[No DDMFormInstance exists with the primary key 38395]]></log4j:message>
+<log4j:locationInfo class="com.liferay.apio.architect.internal.jaxrs.json.util.ErrorUtil" method="getErrorResponse" file="ErrorUtil.java" line="78"/>
+</log4j:event>
+
+<log4j:event logger="org.apache.cxf.jaxrs.utils.JAXRSUtils" timestamp="1541098042049" level="ERROR" thread="http-nio-8080-exec-8">
+<log4j:message><![CDATA[Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.remote.jaxrs.whiteboard.internal.log.LiferayCXFLogger" method="internalLogFormatted" file="LiferayCXFLogger.java" line="83"/>
+</log4j:event>
+
+<log4j:event logger="org.apache.cxf.jaxrs.utils.JAXRSUtils" timestamp="1541098046387" level="ERROR" thread="http-nio-8080-exec-9">
+<log4j:message><![CDATA[Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.remote.jaxrs.whiteboard.internal.log.LiferayCXFLogger" method="internalLogFormatted" file="LiferayCXFLogger.java" line="83"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1541098913009" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=45s284ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="org.apache.cxf.jaxrs.utils.JAXRSUtils" timestamp="1541100296598" level="ERROR" thread="http-nio-8080-exec-10">
+<log4j:message><![CDATA[Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.remote.jaxrs.whiteboard.internal.log.LiferayCXFLogger" method="internalLogFormatted" file="LiferayCXFLogger.java" line="83"/>
+</log4j:event>
+
+<log4j:event logger="org.apache.cxf.jaxrs.utils.JAXRSUtils" timestamp="1541100923226" level="ERROR" thread="http-nio-8080-exec-9">
+<log4j:message><![CDATA[Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.remote.jaxrs.whiteboard.internal.log.LiferayCXFLogger" method="internalLogFormatted" file="LiferayCXFLogger.java" line="83"/>
+</log4j:event>
+
+<log4j:event logger="org.apache.cxf.jaxrs.utils.JAXRSUtils" timestamp="1541100940845" level="ERROR" thread="http-nio-8080-exec-2">
+<log4j:message><![CDATA[Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.remote.jaxrs.whiteboard.internal.log.LiferayCXFLogger" method="internalLogFormatted" file="LiferayCXFLogger.java" line="83"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1541101281340" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3m25s21ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1541101283475" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=3m24s952ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="org.apache.cxf.jaxrs.utils.JAXRSUtils" timestamp="1541102312775" level="ERROR" thread="http-nio-8080-exec-8">
+<log4j:message><![CDATA[Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.remote.jaxrs.whiteboard.internal.log.LiferayCXFLogger" method="internalLogFormatted" file="LiferayCXFLogger.java" line="83"/>
+</log4j:event>
+
+<log4j:event logger="org.apache.cxf.jaxrs.utils.JAXRSUtils" timestamp="1541102315046" level="ERROR" thread="http-nio-8080-exec-5">
+<log4j:message><![CDATA[Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.remote.jaxrs.whiteboard.internal.log.LiferayCXFLogger" method="internalLogFormatted" file="LiferayCXFLogger.java" line="83"/>
+</log4j:event>
+
+<log4j:event logger="org.apache.cxf.jaxrs.utils.JAXRSUtils" timestamp="1541102420345" level="ERROR" thread="http-nio-8080-exec-8">
+<log4j:message><![CDATA[Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.remote.jaxrs.whiteboard.internal.log.LiferayCXFLogger" method="internalLogFormatted" file="LiferayCXFLogger.java" line="83"/>
+</log4j:event>
+
+<log4j:event logger="org.apache.cxf.jaxrs.utils.JAXRSUtils" timestamp="1541102422368" level="ERROR" thread="http-nio-8080-exec-5">
+<log4j:message><![CDATA[Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.remote.jaxrs.whiteboard.internal.log.LiferayCXFLogger" method="internalLogFormatted" file="LiferayCXFLogger.java" line="83"/>
+</log4j:event>
+
+<log4j:event logger="org.apache.cxf.jaxrs.utils.JAXRSUtils" timestamp="1541102467151" level="ERROR" thread="http-nio-8080-exec-10">
+<log4j:message><![CDATA[Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.remote.jaxrs.whiteboard.internal.log.LiferayCXFLogger" method="internalLogFormatted" file="LiferayCXFLogger.java" line="83"/>
+</log4j:event>
+
+<log4j:event logger="org.apache.cxf.jaxrs.utils.JAXRSUtils" timestamp="1541102469032" level="ERROR" thread="http-nio-8080-exec-5">
+<log4j:message><![CDATA[Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.remote.jaxrs.whiteboard.internal.log.LiferayCXFLogger" method="internalLogFormatted" file="LiferayCXFLogger.java" line="83"/>
+</log4j:event>
+
+<log4j:event logger="org.apache.cxf.jaxrs.utils.JAXRSUtils" timestamp="1541102553586" level="ERROR" thread="http-nio-8080-exec-10">
+<log4j:message><![CDATA[Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.remote.jaxrs.whiteboard.internal.log.LiferayCXFLogger" method="internalLogFormatted" file="LiferayCXFLogger.java" line="83"/>
+</log4j:event>
+
+<log4j:event logger="org.apache.cxf.jaxrs.utils.JAXRSUtils" timestamp="1541102555185" level="ERROR" thread="http-nio-8080-exec-5">
+<log4j:message><![CDATA[Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.remote.jaxrs.whiteboard.internal.log.LiferayCXFLogger" method="internalLogFormatted" file="LiferayCXFLogger.java" line="83"/>
+</log4j:event>
+
+<log4j:event logger="org.apache.cxf.jaxrs.utils.JAXRSUtils" timestamp="1541102602623" level="ERROR" thread="http-nio-8080-exec-8">
+<log4j:message><![CDATA[Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.remote.jaxrs.whiteboard.internal.log.LiferayCXFLogger" method="internalLogFormatted" file="LiferayCXFLogger.java" line="83"/>
+</log4j:event>
+
+<log4j:event logger="org.apache.cxf.jaxrs.utils.JAXRSUtils" timestamp="1541102604649" level="ERROR" thread="http-nio-8080-exec-5">
+<log4j:message><![CDATA[Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.remote.jaxrs.whiteboard.internal.log.LiferayCXFLogger" method="internalLogFormatted" file="LiferayCXFLogger.java" line="83"/>
+</log4j:event>
+
+<log4j:event logger="org.apache.cxf.jaxrs.utils.JAXRSUtils" timestamp="1541102640067" level="ERROR" thread="http-nio-8080-exec-8">
+<log4j:message><![CDATA[Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.remote.jaxrs.whiteboard.internal.log.LiferayCXFLogger" method="internalLogFormatted" file="LiferayCXFLogger.java" line="83"/>
+</log4j:event>
+
+<log4j:event logger="org.apache.cxf.jaxrs.utils.JAXRSUtils" timestamp="1541102877077" level="ERROR" thread="http-nio-8080-exec-6">
+<log4j:message><![CDATA[Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.remote.jaxrs.whiteboard.internal.log.LiferayCXFLogger" method="internalLogFormatted" file="LiferayCXFLogger.java" line="83"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1541103541043" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=10m31s816ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1541103542081" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=10m31s823ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1541103825861" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=4m14s818ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1541103826901" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=4m14s817ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1541107456290" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h30s429ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1541107457334" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=1h30s433ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1541110693521" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=53m57s231ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1541110694574" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=53m57s240ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1541114012792" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=55m18s981ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1541114012792" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=55m17s919ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1541114069407" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=56s852ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1541114069426" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=56s844ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1541116652917" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=2m53s577ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1541116652917" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m53s577ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+

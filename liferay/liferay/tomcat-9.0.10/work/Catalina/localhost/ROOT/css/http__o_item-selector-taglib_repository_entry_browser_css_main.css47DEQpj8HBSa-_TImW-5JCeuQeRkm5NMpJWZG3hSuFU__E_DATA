@@ -1,0 +1,13 @@
+.lfr-item-viewer .search-info {
+  background: none;
+  font-size: 0.875rem;
+  margin-top: 20px; }
+  .lfr-item-viewer .search-info a:first-child {
+    margin-left: 16px;
+    margin-right: 8px; }
+  .lfr-item-viewer .search-info a.active {
+    cursor: default;
+    pointer-events: none; }
+
+.lfr-item-viewer .taglib-vertical-card-footer {
+  min-height: 3.6em; }

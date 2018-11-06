@@ -1,0 +1,998 @@
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1537920511712" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=7m12s607ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1537920511746" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=7m12s608ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="org.apache.cxf.jaxrs.utils.JAXRSUtils" timestamp="1537921160264" level="ERROR" thread="http-nio-8080-exec-7">
+<log4j:message><![CDATA[Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.remote.jaxrs.whiteboard.internal.log.LiferayCXFLogger" method="internalLogFormatted" file="LiferayCXFLogger.java" line="83"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.apio.architect.impl.jaxrs.json.util.ErrorUtil" timestamp="1537921160267" level="ERROR" thread="http-nio-8080-exec-7">
+<log4j:message><![CDATA[java.lang.NullPointerException]]></log4j:message>
+<log4j:locationInfo class="com.liferay.apio.architect.impl.jaxrs.json.util.ErrorUtil" method="getErrorResponse" file="ErrorUtil.java" line="79"/>
+</log4j:event>
+
+<log4j:event logger="org.apache.cxf.jaxrs.utils.JAXRSUtils" timestamp="1537921246956" level="ERROR" thread="http-nio-8080-exec-2">
+<log4j:message><![CDATA[Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.remote.jaxrs.whiteboard.internal.log.LiferayCXFLogger" method="internalLogFormatted" file="LiferayCXFLogger.java" line="83"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.apio.architect.impl.jaxrs.json.util.ErrorUtil" timestamp="1537921246957" level="ERROR" thread="http-nio-8080-exec-2">
+<log4j:message><![CDATA[java.lang.NullPointerException]]></log4j:message>
+<log4j:locationInfo class="com.liferay.apio.architect.impl.jaxrs.json.util.ErrorUtil" method="getErrorResponse" file="ErrorUtil.java" line="79"/>
+</log4j:event>
+
+<log4j:event logger="org.apache.cxf.jaxrs.utils.JAXRSUtils" timestamp="1537921262070" level="ERROR" thread="http-nio-8080-exec-9">
+<log4j:message><![CDATA[Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.remote.jaxrs.whiteboard.internal.log.LiferayCXFLogger" method="internalLogFormatted" file="LiferayCXFLogger.java" line="83"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.apio.architect.impl.jaxrs.json.util.ErrorUtil" timestamp="1537921262072" level="ERROR" thread="http-nio-8080-exec-9">
+<log4j:message><![CDATA[java.lang.NullPointerException]]></log4j:message>
+<log4j:locationInfo class="com.liferay.apio.architect.impl.jaxrs.json.util.ErrorUtil" method="getErrorResponse" file="ErrorUtil.java" line="79"/>
+</log4j:event>
+
+<log4j:event logger="org.apache.cxf.jaxrs.utils.JAXRSUtils" timestamp="1537921299854" level="ERROR" thread="http-nio-8080-exec-8">
+<log4j:message><![CDATA[Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.remote.jaxrs.whiteboard.internal.log.LiferayCXFLogger" method="internalLogFormatted" file="LiferayCXFLogger.java" line="83"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.apio.architect.impl.jaxrs.json.util.ErrorUtil" timestamp="1537921299855" level="ERROR" thread="http-nio-8080-exec-8">
+<log4j:message><![CDATA[java.lang.NullPointerException]]></log4j:message>
+<log4j:locationInfo class="com.liferay.apio.architect.impl.jaxrs.json.util.ErrorUtil" method="getErrorResponse" file="ErrorUtil.java" line="79"/>
+</log4j:event>
+
+<log4j:event logger="org.apache.cxf.jaxrs.utils.JAXRSUtils" timestamp="1537921657082" level="ERROR" thread="http-nio-8080-exec-5">
+<log4j:message><![CDATA[Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.remote.jaxrs.whiteboard.internal.log.LiferayCXFLogger" method="internalLogFormatted" file="LiferayCXFLogger.java" line="83"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.apio.architect.impl.jaxrs.json.util.ErrorUtil" timestamp="1537921657084" level="ERROR" thread="http-nio-8080-exec-5">
+<log4j:message><![CDATA[java.lang.NullPointerException]]></log4j:message>
+<log4j:locationInfo class="com.liferay.apio.architect.impl.jaxrs.json.util.ErrorUtil" method="getErrorResponse" file="ErrorUtil.java" line="79"/>
+</log4j:event>
+
+<log4j:event logger="org.apache.cxf.phase.PhaseInterceptorChain" timestamp="1537922109743" level="WARN" thread="http-nio-8080-exec-2">
+<log4j:message><![CDATA[Application {http://endpoint.impl.architect.apio.liferay.com/}RootEndpointImpl has thrown exception, unwinding now]]></log4j:message>
+<log4j:throwable><![CDATA[org.apache.cxf.interceptor.Fault: form-instance/<FORM-ID> path does not have a valid path mapper
+	at org.apache.cxf.service.invoker.AbstractInvoker.createFault(AbstractInvoker.java:162)
+	at org.apache.cxf.service.invoker.AbstractInvoker.invoke(AbstractInvoker.java:128)
+	at org.apache.cxf.jaxrs.JAXRSInvoker.invoke(JAXRSInvoker.java:192)
+	at org.apache.cxf.jaxrs.JAXRSInvoker.invoke(JAXRSInvoker.java:276)
+	at org.apache.cxf.jaxrs.JAXRSInvoker.invoke(JAXRSInvoker.java:103)
+	at org.apache.cxf.interceptor.ServiceInvokerInterceptor$1.run(ServiceInvokerInterceptor.java:59)
+	at org.apache.cxf.interceptor.ServiceInvokerInterceptor.handleMessage(ServiceInvokerInterceptor.java:96)
+	at org.apache.cxf.phase.PhaseInterceptorChain.doIntercept(PhaseInterceptorChain.java:308)
+	at org.apache.cxf.transport.ChainInitiationObserver.onMessage(ChainInitiationObserver.java:121)
+	at org.apache.cxf.transport.http.AbstractHTTPDestination.invoke(AbstractHTTPDestination.java:267)
+	at org.apache.cxf.transport.servlet.ServletController.invokeDestination(ServletController.java:234)
+	at org.apache.cxf.transport.servlet.ServletController.invoke(ServletController.java:208)
+	at org.apache.cxf.transport.servlet.ServletController.invoke(ServletController.java:160)
+	at org.apache.cxf.transport.servlet.CXFNonSpringServlet.invoke(CXFNonSpringServlet.java:216)
+	at org.apache.cxf.transport.servlet.AbstractHTTPServlet.handleRequest(AbstractHTTPServlet.java:301)
+	at org.apache.cxf.transport.servlet.AbstractHTTPServlet.doGet(AbstractHTTPServlet.java:225)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:634)
+	at org.apache.cxf.transport.servlet.AbstractHTTPServlet.service(AbstractHTTPServlet.java:276)
+	at org.eclipse.equinox.http.servlet.internal.registration.EndpointRegistration.service(EndpointRegistration.java:153)
+	at org.eclipse.equinox.http.servlet.internal.servlet.FilterChainImpl.doFilter(FilterChainImpl.java:50)
+	at com.liferay.portal.kernel.servlet.BaseFilter.processFilter(BaseFilter.java:144)
+	at com.liferay.portal.servlet.filters.authverifier.AuthVerifierFilter.processFilter(AuthVerifierFilter.java:188)
+	at com.liferay.portal.kernel.servlet.BaseFilter.doFilter(BaseFilter.java:49)
+	at org.eclipse.equinox.http.servlet.internal.registration.FilterRegistration.doFilter(FilterRegistration.java:121)
+	at org.eclipse.equinox.http.servlet.internal.servlet.FilterChainImpl.doFilter(FilterChainImpl.java:45)
+	at org.eclipse.equinox.http.servlet.internal.servlet.ResponseStateHandler.processRequest(ResponseStateHandler.java:70)
+	at org.eclipse.equinox.http.servlet.internal.context.DispatchTargets.doDispatch(DispatchTargets.java:118)
+	at org.eclipse.equinox.http.servlet.internal.HttpServiceRuntimeImpl.doDispatch(HttpServiceRuntimeImpl.java:373)
+	at org.eclipse.equinox.http.servlet.internal.servlet.ProxyServlet.service(ProxyServlet.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at com.liferay.portal.module.framework.ModuleFrameworkServletAdapter.service(ModuleFrameworkServletAdapter.java:51)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:119)
+	at com.liferay.portal.kernel.servlet.BaseFilter.processFilter(BaseFilter.java:144)
+	at com.liferay.portal.kernel.servlet.BaseFilter.processFilter(BaseFilter.java:103)
+	at com.liferay.portal.apio.internal.architect.servlet.filter.APIDocumentationFilter.processFilter(APIDocumentationFilter.java:74)
+	at com.liferay.portal.kernel.servlet.BaseFilter.doFilter(BaseFilter.java:49)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDoFilter(InvokerFilterChain.java:207)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:112)
+	at com.liferay.portal.kernel.servlet.BaseFilter.processFilter(BaseFilter.java:144)
+	at com.liferay.portal.sharepoint.SharepointFilter.processFilter(SharepointFilter.java:88)
+	at com.liferay.portal.kernel.servlet.BaseFilter.doFilter(BaseFilter.java:49)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDoFilter(InvokerFilterChain.java:207)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:112)
+	at com.liferay.portal.kernel.servlet.BaseFilter.processFilter(BaseFilter.java:144)
+	at com.liferay.portal.servlet.filters.virtualhost.VirtualHostFilter.processFilter(VirtualHostFilter.java:263)
+	at com.liferay.portal.kernel.servlet.BaseFilter.doFilter(BaseFilter.java:49)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDoFilter(InvokerFilterChain.java:207)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:112)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDirectCallFilter(InvokerFilterChain.java:188)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:96)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDirectCallFilter(InvokerFilterChain.java:188)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:96)
+	at org.tuckey.web.filters.urlrewrite.RuleChain.handleRewrite(RuleChain.java:176)
+	at org.tuckey.web.filters.urlrewrite.RuleChain.doRules(RuleChain.java:145)
+	at org.tuckey.web.filters.urlrewrite.UrlRewriter.processRequest(UrlRewriter.java:92)
+	at org.tuckey.web.filters.urlrewrite.UrlRewriteFilter.doFilter(UrlRewriteFilter.java:389)
+	at com.liferay.portal.servlet.filters.urlrewrite.UrlRewriteFilter.processFilter(UrlRewriteFilter.java:65)
+	at com.liferay.portal.kernel.servlet.BaseFilter.doFilter(BaseFilter.java:49)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDoFilter(InvokerFilterChain.java:207)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:112)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDirectCallFilter(InvokerFilterChain.java:168)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:96)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDirectCallFilter(InvokerFilterChain.java:168)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:96)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDirectCallFilter(InvokerFilterChain.java:188)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:96)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilter.doFilter(InvokerFilter.java:100)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:199)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:491)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:764)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1388)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: com.liferay.apio.architect.impl.wiring.osgi.error.ApioDeveloperError$MustHavePathIdentifierMapper: form-instance/<FORM-ID> path does not have a valid path mapper
+	at com.liferay.apio.architect.impl.wiring.osgi.manager.uri.mapper.PathIdentifierMapperManagerImpl.lambda$mapToIdentifierOrFail$1(PathIdentifierMapperManagerImpl.java:58)
+	at com.liferay.apio.architect.functional.Try$Failure.orElseThrow(Try.java:583)
+	at com.liferay.apio.architect.impl.wiring.osgi.manager.uri.mapper.PathIdentifierMapperManagerImpl.mapToIdentifierOrFail(PathIdentifierMapperManagerImpl.java:57)
+	at com.liferay.apio.architect.impl.entrypoint.CustomOperationsEndpoint.lambda$_getItemSingleModelTry$7(CustomOperationsEndpoint.java:192)
+	at com.liferay.apio.architect.functional.Try$Success.map(Try.java:733)
+	at com.liferay.apio.architect.impl.entrypoint.CustomOperationsEndpoint._getItemSingleModelTry(CustomOperationsEndpoint.java:190)
+	at com.liferay.apio.architect.impl.entrypoint.CustomOperationsEndpoint.addGetItem(CustomOperationsEndpoint.java:93)
+	at sun.reflect.GeneratedMethodAccessor1422.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.cxf.service.invoker.AbstractInvoker.performInvocation(AbstractInvoker.java:179)
+	at org.apache.cxf.service.invoker.AbstractInvoker.invoke(AbstractInvoker.java:96)
+	... 89 more
+]]></log4j:throwable>
+<log4j:locationInfo class="com.liferay.portal.remote.jaxrs.whiteboard.internal.log.LiferayCXFLogger" method="internalLogFormatted" file="LiferayCXFLogger.java" line="88"/>
+</log4j:event>
+
+<log4j:event logger="org.apache.cxf.phase.PhaseInterceptorChain" timestamp="1537922109816" level="WARN" thread="http-nio-8080-exec-2">
+<log4j:message><![CDATA[Exception in handleFault on interceptor org.apache.cxf.jaxrs.interceptor.JAXRSDefaultFaultOutInterceptor@1f8d67b8]]></log4j:message>
+<log4j:throwable><![CDATA[org.apache.cxf.interceptor.Fault: form-instance/<FORM-ID> path does not have a valid path mapper
+	at org.apache.cxf.service.invoker.AbstractInvoker.createFault(AbstractInvoker.java:162)
+	at org.apache.cxf.service.invoker.AbstractInvoker.invoke(AbstractInvoker.java:128)
+	at org.apache.cxf.jaxrs.JAXRSInvoker.invoke(JAXRSInvoker.java:192)
+	at org.apache.cxf.jaxrs.JAXRSInvoker.invoke(JAXRSInvoker.java:276)
+	at org.apache.cxf.jaxrs.JAXRSInvoker.invoke(JAXRSInvoker.java:103)
+	at org.apache.cxf.interceptor.ServiceInvokerInterceptor$1.run(ServiceInvokerInterceptor.java:59)
+	at org.apache.cxf.interceptor.ServiceInvokerInterceptor.handleMessage(ServiceInvokerInterceptor.java:96)
+	at org.apache.cxf.phase.PhaseInterceptorChain.doIntercept(PhaseInterceptorChain.java:308)
+	at org.apache.cxf.transport.ChainInitiationObserver.onMessage(ChainInitiationObserver.java:121)
+	at org.apache.cxf.transport.http.AbstractHTTPDestination.invoke(AbstractHTTPDestination.java:267)
+	at org.apache.cxf.transport.servlet.ServletController.invokeDestination(ServletController.java:234)
+	at org.apache.cxf.transport.servlet.ServletController.invoke(ServletController.java:208)
+	at org.apache.cxf.transport.servlet.ServletController.invoke(ServletController.java:160)
+	at org.apache.cxf.transport.servlet.CXFNonSpringServlet.invoke(CXFNonSpringServlet.java:216)
+	at org.apache.cxf.transport.servlet.AbstractHTTPServlet.handleRequest(AbstractHTTPServlet.java:301)
+	at org.apache.cxf.transport.servlet.AbstractHTTPServlet.doGet(AbstractHTTPServlet.java:225)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:634)
+	at org.apache.cxf.transport.servlet.AbstractHTTPServlet.service(AbstractHTTPServlet.java:276)
+	at org.eclipse.equinox.http.servlet.internal.registration.EndpointRegistration.service(EndpointRegistration.java:153)
+	at org.eclipse.equinox.http.servlet.internal.servlet.FilterChainImpl.doFilter(FilterChainImpl.java:50)
+	at com.liferay.portal.kernel.servlet.BaseFilter.processFilter(BaseFilter.java:144)
+	at com.liferay.portal.servlet.filters.authverifier.AuthVerifierFilter.processFilter(AuthVerifierFilter.java:188)
+	at com.liferay.portal.kernel.servlet.BaseFilter.doFilter(BaseFilter.java:49)
+	at org.eclipse.equinox.http.servlet.internal.registration.FilterRegistration.doFilter(FilterRegistration.java:121)
+	at org.eclipse.equinox.http.servlet.internal.servlet.FilterChainImpl.doFilter(FilterChainImpl.java:45)
+	at org.eclipse.equinox.http.servlet.internal.servlet.ResponseStateHandler.processRequest(ResponseStateHandler.java:70)
+	at org.eclipse.equinox.http.servlet.internal.context.DispatchTargets.doDispatch(DispatchTargets.java:118)
+	at org.eclipse.equinox.http.servlet.internal.HttpServiceRuntimeImpl.doDispatch(HttpServiceRuntimeImpl.java:373)
+	at org.eclipse.equinox.http.servlet.internal.servlet.ProxyServlet.service(ProxyServlet.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at com.liferay.portal.module.framework.ModuleFrameworkServletAdapter.service(ModuleFrameworkServletAdapter.java:51)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:119)
+	at com.liferay.portal.kernel.servlet.BaseFilter.processFilter(BaseFilter.java:144)
+	at com.liferay.portal.kernel.servlet.BaseFilter.processFilter(BaseFilter.java:103)
+	at com.liferay.portal.apio.internal.architect.servlet.filter.APIDocumentationFilter.processFilter(APIDocumentationFilter.java:74)
+	at com.liferay.portal.kernel.servlet.BaseFilter.doFilter(BaseFilter.java:49)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDoFilter(InvokerFilterChain.java:207)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:112)
+	at com.liferay.portal.kernel.servlet.BaseFilter.processFilter(BaseFilter.java:144)
+	at com.liferay.portal.sharepoint.SharepointFilter.processFilter(SharepointFilter.java:88)
+	at com.liferay.portal.kernel.servlet.BaseFilter.doFilter(BaseFilter.java:49)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDoFilter(InvokerFilterChain.java:207)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:112)
+	at com.liferay.portal.kernel.servlet.BaseFilter.processFilter(BaseFilter.java:144)
+	at com.liferay.portal.servlet.filters.virtualhost.VirtualHostFilter.processFilter(VirtualHostFilter.java:263)
+	at com.liferay.portal.kernel.servlet.BaseFilter.doFilter(BaseFilter.java:49)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDoFilter(InvokerFilterChain.java:207)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:112)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDirectCallFilter(InvokerFilterChain.java:188)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:96)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDirectCallFilter(InvokerFilterChain.java:188)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:96)
+	at org.tuckey.web.filters.urlrewrite.RuleChain.handleRewrite(RuleChain.java:176)
+	at org.tuckey.web.filters.urlrewrite.RuleChain.doRules(RuleChain.java:145)
+	at org.tuckey.web.filters.urlrewrite.UrlRewriter.processRequest(UrlRewriter.java:92)
+	at org.tuckey.web.filters.urlrewrite.UrlRewriteFilter.doFilter(UrlRewriteFilter.java:389)
+	at com.liferay.portal.servlet.filters.urlrewrite.UrlRewriteFilter.processFilter(UrlRewriteFilter.java:65)
+	at com.liferay.portal.kernel.servlet.BaseFilter.doFilter(BaseFilter.java:49)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDoFilter(InvokerFilterChain.java:207)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:112)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDirectCallFilter(InvokerFilterChain.java:168)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:96)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDirectCallFilter(InvokerFilterChain.java:168)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:96)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDirectCallFilter(InvokerFilterChain.java:188)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:96)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilter.doFilter(InvokerFilter.java:100)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:199)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:491)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:764)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1388)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: com.liferay.apio.architect.impl.wiring.osgi.error.ApioDeveloperError$MustHavePathIdentifierMapper: form-instance/<FORM-ID> path does not have a valid path mapper
+	at com.liferay.apio.architect.impl.wiring.osgi.manager.uri.mapper.PathIdentifierMapperManagerImpl.lambda$mapToIdentifierOrFail$1(PathIdentifierMapperManagerImpl.java:58)
+	at com.liferay.apio.architect.functional.Try$Failure.orElseThrow(Try.java:583)
+	at com.liferay.apio.architect.impl.wiring.osgi.manager.uri.mapper.PathIdentifierMapperManagerImpl.mapToIdentifierOrFail(PathIdentifierMapperManagerImpl.java:57)
+	at com.liferay.apio.architect.impl.entrypoint.CustomOperationsEndpoint.lambda$_getItemSingleModelTry$7(CustomOperationsEndpoint.java:192)
+	at com.liferay.apio.architect.functional.Try$Success.map(Try.java:733)
+	at com.liferay.apio.architect.impl.entrypoint.CustomOperationsEndpoint._getItemSingleModelTry(CustomOperationsEndpoint.java:190)
+	at com.liferay.apio.architect.impl.entrypoint.CustomOperationsEndpoint.addGetItem(CustomOperationsEndpoint.java:93)
+	at sun.reflect.GeneratedMethodAccessor1422.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.cxf.service.invoker.AbstractInvoker.performInvocation(AbstractInvoker.java:179)
+	at org.apache.cxf.service.invoker.AbstractInvoker.invoke(AbstractInvoker.java:96)
+	... 89 more
+]]></log4j:throwable>
+<log4j:locationInfo class="com.liferay.portal.remote.jaxrs.whiteboard.internal.log.LiferayCXFLogger" method="internalLogFormatted" file="LiferayCXFLogger.java" line="88"/>
+</log4j:event>
+
+<log4j:event logger="org.apache.cxf.interceptor.AbstractFaultChainInitiatorObserver" timestamp="1537922109819" level="ERROR" thread="http-nio-8080-exec-2">
+<log4j:message><![CDATA[An unexpected error occurred during error handling. No further error processing will occur.]]></log4j:message>
+<log4j:throwable><![CDATA[org.apache.cxf.interceptor.Fault: form-instance/<FORM-ID> path does not have a valid path mapper
+	at org.apache.cxf.service.invoker.AbstractInvoker.createFault(AbstractInvoker.java:162)
+	at org.apache.cxf.service.invoker.AbstractInvoker.invoke(AbstractInvoker.java:128)
+	at org.apache.cxf.jaxrs.JAXRSInvoker.invoke(JAXRSInvoker.java:192)
+	at org.apache.cxf.jaxrs.JAXRSInvoker.invoke(JAXRSInvoker.java:276)
+	at org.apache.cxf.jaxrs.JAXRSInvoker.invoke(JAXRSInvoker.java:103)
+	at org.apache.cxf.interceptor.ServiceInvokerInterceptor$1.run(ServiceInvokerInterceptor.java:59)
+	at org.apache.cxf.interceptor.ServiceInvokerInterceptor.handleMessage(ServiceInvokerInterceptor.java:96)
+	at org.apache.cxf.phase.PhaseInterceptorChain.doIntercept(PhaseInterceptorChain.java:308)
+	at org.apache.cxf.transport.ChainInitiationObserver.onMessage(ChainInitiationObserver.java:121)
+	at org.apache.cxf.transport.http.AbstractHTTPDestination.invoke(AbstractHTTPDestination.java:267)
+	at org.apache.cxf.transport.servlet.ServletController.invokeDestination(ServletController.java:234)
+	at org.apache.cxf.transport.servlet.ServletController.invoke(ServletController.java:208)
+	at org.apache.cxf.transport.servlet.ServletController.invoke(ServletController.java:160)
+	at org.apache.cxf.transport.servlet.CXFNonSpringServlet.invoke(CXFNonSpringServlet.java:216)
+	at org.apache.cxf.transport.servlet.AbstractHTTPServlet.handleRequest(AbstractHTTPServlet.java:301)
+	at org.apache.cxf.transport.servlet.AbstractHTTPServlet.doGet(AbstractHTTPServlet.java:225)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:634)
+	at org.apache.cxf.transport.servlet.AbstractHTTPServlet.service(AbstractHTTPServlet.java:276)
+	at org.eclipse.equinox.http.servlet.internal.registration.EndpointRegistration.service(EndpointRegistration.java:153)
+	at org.eclipse.equinox.http.servlet.internal.servlet.FilterChainImpl.doFilter(FilterChainImpl.java:50)
+	at com.liferay.portal.kernel.servlet.BaseFilter.processFilter(BaseFilter.java:144)
+	at com.liferay.portal.servlet.filters.authverifier.AuthVerifierFilter.processFilter(AuthVerifierFilter.java:188)
+	at com.liferay.portal.kernel.servlet.BaseFilter.doFilter(BaseFilter.java:49)
+	at org.eclipse.equinox.http.servlet.internal.registration.FilterRegistration.doFilter(FilterRegistration.java:121)
+	at org.eclipse.equinox.http.servlet.internal.servlet.FilterChainImpl.doFilter(FilterChainImpl.java:45)
+	at org.eclipse.equinox.http.servlet.internal.servlet.ResponseStateHandler.processRequest(ResponseStateHandler.java:70)
+	at org.eclipse.equinox.http.servlet.internal.context.DispatchTargets.doDispatch(DispatchTargets.java:118)
+	at org.eclipse.equinox.http.servlet.internal.HttpServiceRuntimeImpl.doDispatch(HttpServiceRuntimeImpl.java:373)
+	at org.eclipse.equinox.http.servlet.internal.servlet.ProxyServlet.service(ProxyServlet.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at com.liferay.portal.module.framework.ModuleFrameworkServletAdapter.service(ModuleFrameworkServletAdapter.java:51)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:119)
+	at com.liferay.portal.kernel.servlet.BaseFilter.processFilter(BaseFilter.java:144)
+	at com.liferay.portal.kernel.servlet.BaseFilter.processFilter(BaseFilter.java:103)
+	at com.liferay.portal.apio.internal.architect.servlet.filter.APIDocumentationFilter.processFilter(APIDocumentationFilter.java:74)
+	at com.liferay.portal.kernel.servlet.BaseFilter.doFilter(BaseFilter.java:49)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDoFilter(InvokerFilterChain.java:207)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:112)
+	at com.liferay.portal.kernel.servlet.BaseFilter.processFilter(BaseFilter.java:144)
+	at com.liferay.portal.sharepoint.SharepointFilter.processFilter(SharepointFilter.java:88)
+	at com.liferay.portal.kernel.servlet.BaseFilter.doFilter(BaseFilter.java:49)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDoFilter(InvokerFilterChain.java:207)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:112)
+	at com.liferay.portal.kernel.servlet.BaseFilter.processFilter(BaseFilter.java:144)
+	at com.liferay.portal.servlet.filters.virtualhost.VirtualHostFilter.processFilter(VirtualHostFilter.java:263)
+	at com.liferay.portal.kernel.servlet.BaseFilter.doFilter(BaseFilter.java:49)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDoFilter(InvokerFilterChain.java:207)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:112)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDirectCallFilter(InvokerFilterChain.java:188)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:96)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDirectCallFilter(InvokerFilterChain.java:188)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:96)
+	at org.tuckey.web.filters.urlrewrite.RuleChain.handleRewrite(RuleChain.java:176)
+	at org.tuckey.web.filters.urlrewrite.RuleChain.doRules(RuleChain.java:145)
+	at org.tuckey.web.filters.urlrewrite.UrlRewriter.processRequest(UrlRewriter.java:92)
+	at org.tuckey.web.filters.urlrewrite.UrlRewriteFilter.doFilter(UrlRewriteFilter.java:389)
+	at com.liferay.portal.servlet.filters.urlrewrite.UrlRewriteFilter.processFilter(UrlRewriteFilter.java:65)
+	at com.liferay.portal.kernel.servlet.BaseFilter.doFilter(BaseFilter.java:49)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDoFilter(InvokerFilterChain.java:207)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:112)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDirectCallFilter(InvokerFilterChain.java:168)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:96)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDirectCallFilter(InvokerFilterChain.java:168)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:96)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDirectCallFilter(InvokerFilterChain.java:188)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:96)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilter.doFilter(InvokerFilter.java:100)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:199)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:491)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:764)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1388)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: com.liferay.apio.architect.impl.wiring.osgi.error.ApioDeveloperError$MustHavePathIdentifierMapper: form-instance/<FORM-ID> path does not have a valid path mapper
+	at com.liferay.apio.architect.impl.wiring.osgi.manager.uri.mapper.PathIdentifierMapperManagerImpl.lambda$mapToIdentifierOrFail$1(PathIdentifierMapperManagerImpl.java:58)
+	at com.liferay.apio.architect.functional.Try$Failure.orElseThrow(Try.java:583)
+	at com.liferay.apio.architect.impl.wiring.osgi.manager.uri.mapper.PathIdentifierMapperManagerImpl.mapToIdentifierOrFail(PathIdentifierMapperManagerImpl.java:57)
+	at com.liferay.apio.architect.impl.entrypoint.CustomOperationsEndpoint.lambda$_getItemSingleModelTry$7(CustomOperationsEndpoint.java:192)
+	at com.liferay.apio.architect.functional.Try$Success.map(Try.java:733)
+	at com.liferay.apio.architect.impl.entrypoint.CustomOperationsEndpoint._getItemSingleModelTry(CustomOperationsEndpoint.java:190)
+	at com.liferay.apio.architect.impl.entrypoint.CustomOperationsEndpoint.addGetItem(CustomOperationsEndpoint.java:93)
+	at sun.reflect.GeneratedMethodAccessor1422.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.cxf.service.invoker.AbstractInvoker.performInvocation(AbstractInvoker.java:179)
+	at org.apache.cxf.service.invoker.AbstractInvoker.invoke(AbstractInvoker.java:96)
+	... 89 more
+]]></log4j:throwable>
+<log4j:locationInfo class="com.liferay.portal.remote.jaxrs.whiteboard.internal.log.LiferayCXFLogger" method="internalLogFormatted" file="LiferayCXFLogger.java" line="83"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.servlet.filters.authverifier.AuthVerifierFilter" timestamp="1537922109822" level="ERROR" thread="http-nio-8080-exec-2">
+<log4j:message><![CDATA[org.apache.cxf.interceptor.Fault: form-instance/<FORM-ID> path does not have a valid path mapper]]></log4j:message>
+<log4j:throwable><![CDATA[org.apache.cxf.interceptor.Fault: form-instance/<FORM-ID> path does not have a valid path mapper
+	at org.apache.cxf.service.invoker.AbstractInvoker.createFault(AbstractInvoker.java:162)
+	at org.apache.cxf.service.invoker.AbstractInvoker.invoke(AbstractInvoker.java:128)
+	at org.apache.cxf.jaxrs.JAXRSInvoker.invoke(JAXRSInvoker.java:192)
+	at org.apache.cxf.jaxrs.JAXRSInvoker.invoke(JAXRSInvoker.java:276)
+	at org.apache.cxf.jaxrs.JAXRSInvoker.invoke(JAXRSInvoker.java:103)
+	at org.apache.cxf.interceptor.ServiceInvokerInterceptor$1.run(ServiceInvokerInterceptor.java:59)
+	at org.apache.cxf.interceptor.ServiceInvokerInterceptor.handleMessage(ServiceInvokerInterceptor.java:96)
+	at org.apache.cxf.phase.PhaseInterceptorChain.doIntercept(PhaseInterceptorChain.java:308)
+	at org.apache.cxf.transport.ChainInitiationObserver.onMessage(ChainInitiationObserver.java:121)
+	at org.apache.cxf.transport.http.AbstractHTTPDestination.invoke(AbstractHTTPDestination.java:267)
+	at org.apache.cxf.transport.servlet.ServletController.invokeDestination(ServletController.java:234)
+	at org.apache.cxf.transport.servlet.ServletController.invoke(ServletController.java:208)
+	at org.apache.cxf.transport.servlet.ServletController.invoke(ServletController.java:160)
+	at org.apache.cxf.transport.servlet.CXFNonSpringServlet.invoke(CXFNonSpringServlet.java:216)
+	at org.apache.cxf.transport.servlet.AbstractHTTPServlet.handleRequest(AbstractHTTPServlet.java:301)
+	at org.apache.cxf.transport.servlet.AbstractHTTPServlet.doGet(AbstractHTTPServlet.java:225)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:634)
+	at org.apache.cxf.transport.servlet.AbstractHTTPServlet.service(AbstractHTTPServlet.java:276)
+	at org.eclipse.equinox.http.servlet.internal.registration.EndpointRegistration.service(EndpointRegistration.java:153)
+	at org.eclipse.equinox.http.servlet.internal.servlet.FilterChainImpl.doFilter(FilterChainImpl.java:50)
+	at com.liferay.portal.kernel.servlet.BaseFilter.processFilter(BaseFilter.java:144)
+	at com.liferay.portal.servlet.filters.authverifier.AuthVerifierFilter.processFilter(AuthVerifierFilter.java:188)
+	at com.liferay.portal.kernel.servlet.BaseFilter.doFilter(BaseFilter.java:49)
+	at org.eclipse.equinox.http.servlet.internal.registration.FilterRegistration.doFilter(FilterRegistration.java:121)
+	at org.eclipse.equinox.http.servlet.internal.servlet.FilterChainImpl.doFilter(FilterChainImpl.java:45)
+	at org.eclipse.equinox.http.servlet.internal.servlet.ResponseStateHandler.processRequest(ResponseStateHandler.java:70)
+	at org.eclipse.equinox.http.servlet.internal.context.DispatchTargets.doDispatch(DispatchTargets.java:118)
+	at org.eclipse.equinox.http.servlet.internal.HttpServiceRuntimeImpl.doDispatch(HttpServiceRuntimeImpl.java:373)
+	at org.eclipse.equinox.http.servlet.internal.servlet.ProxyServlet.service(ProxyServlet.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at com.liferay.portal.module.framework.ModuleFrameworkServletAdapter.service(ModuleFrameworkServletAdapter.java:51)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:119)
+	at com.liferay.portal.kernel.servlet.BaseFilter.processFilter(BaseFilter.java:144)
+	at com.liferay.portal.kernel.servlet.BaseFilter.processFilter(BaseFilter.java:103)
+	at com.liferay.portal.apio.internal.architect.servlet.filter.APIDocumentationFilter.processFilter(APIDocumentationFilter.java:74)
+	at com.liferay.portal.kernel.servlet.BaseFilter.doFilter(BaseFilter.java:49)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDoFilter(InvokerFilterChain.java:207)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:112)
+	at com.liferay.portal.kernel.servlet.BaseFilter.processFilter(BaseFilter.java:144)
+	at com.liferay.portal.sharepoint.SharepointFilter.processFilter(SharepointFilter.java:88)
+	at com.liferay.portal.kernel.servlet.BaseFilter.doFilter(BaseFilter.java:49)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDoFilter(InvokerFilterChain.java:207)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:112)
+	at com.liferay.portal.kernel.servlet.BaseFilter.processFilter(BaseFilter.java:144)
+	at com.liferay.portal.servlet.filters.virtualhost.VirtualHostFilter.processFilter(VirtualHostFilter.java:263)
+	at com.liferay.portal.kernel.servlet.BaseFilter.doFilter(BaseFilter.java:49)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDoFilter(InvokerFilterChain.java:207)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:112)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDirectCallFilter(InvokerFilterChain.java:188)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:96)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDirectCallFilter(InvokerFilterChain.java:188)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:96)
+	at org.tuckey.web.filters.urlrewrite.RuleChain.handleRewrite(RuleChain.java:176)
+	at org.tuckey.web.filters.urlrewrite.RuleChain.doRules(RuleChain.java:145)
+	at org.tuckey.web.filters.urlrewrite.UrlRewriter.processRequest(UrlRewriter.java:92)
+	at org.tuckey.web.filters.urlrewrite.UrlRewriteFilter.doFilter(UrlRewriteFilter.java:389)
+	at com.liferay.portal.servlet.filters.urlrewrite.UrlRewriteFilter.processFilter(UrlRewriteFilter.java:65)
+	at com.liferay.portal.kernel.servlet.BaseFilter.doFilter(BaseFilter.java:49)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDoFilter(InvokerFilterChain.java:207)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:112)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDirectCallFilter(InvokerFilterChain.java:168)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:96)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDirectCallFilter(InvokerFilterChain.java:168)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:96)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDirectCallFilter(InvokerFilterChain.java:188)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:96)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilter.doFilter(InvokerFilter.java:100)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:199)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:491)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:764)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1388)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: com.liferay.apio.architect.impl.wiring.osgi.error.ApioDeveloperError$MustHavePathIdentifierMapper: form-instance/<FORM-ID> path does not have a valid path mapper
+	at com.liferay.apio.architect.impl.wiring.osgi.manager.uri.mapper.PathIdentifierMapperManagerImpl.lambda$mapToIdentifierOrFail$1(PathIdentifierMapperManagerImpl.java:58)
+	at com.liferay.apio.architect.functional.Try$Failure.orElseThrow(Try.java:583)
+	at com.liferay.apio.architect.impl.wiring.osgi.manager.uri.mapper.PathIdentifierMapperManagerImpl.mapToIdentifierOrFail(PathIdentifierMapperManagerImpl.java:57)
+	at com.liferay.apio.architect.impl.entrypoint.CustomOperationsEndpoint.lambda$_getItemSingleModelTry$7(CustomOperationsEndpoint.java:192)
+	at com.liferay.apio.architect.functional.Try$Success.map(Try.java:733)
+	at com.liferay.apio.architect.impl.entrypoint.CustomOperationsEndpoint._getItemSingleModelTry(CustomOperationsEndpoint.java:190)
+	at com.liferay.apio.architect.impl.entrypoint.CustomOperationsEndpoint.addGetItem(CustomOperationsEndpoint.java:93)
+	at sun.reflect.GeneratedMethodAccessor1422.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.cxf.service.invoker.AbstractInvoker.performInvocation(AbstractInvoker.java:179)
+	at org.apache.cxf.service.invoker.AbstractInvoker.invoke(AbstractInvoker.java:96)
+	... 89 more
+]]></log4j:throwable>
+<log4j:locationInfo class="com.liferay.portal.kernel.servlet.BaseFilter" method="doFilter" file="BaseFilter.java" line="62"/>
+</log4j:event>
+
+<log4j:event logger="org.apache.cxf.jaxrs.utils.JAXRSUtils" timestamp="1537922325417" level="ERROR" thread="http-nio-8080-exec-4">
+<log4j:message><![CDATA[No message body reader has been found for class com.liferay.apio.architect.form.Body, ContentType: application/octet-stream]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.remote.jaxrs.whiteboard.internal.log.LiferayCXFLogger" method="internalLogFormatted" file="LiferayCXFLogger.java" line="83"/>
+</log4j:event>
+
+<log4j:event logger="org.apache.cxf.jaxrs.impl.WebApplicationExceptionMapper" timestamp="1537922325423" level="WARN" thread="http-nio-8080-exec-4">
+<log4j:message><![CDATA[javax.ws.rs.WebApplicationException: HTTP 415 Unsupported Media Type_	at org.apache.cxf.jaxrs.utils.JAXRSUtils.readFromMessageBody(JAXRSUtils.java:1328)_	at org.apache.cxf.jaxrs.utils.JAXRSUtils.processParameter(JAXRSUtils.java:836)_	at org.apache.cxf.jaxrs.utils.JAXRSUtils.processParameters(JAXRSUtils.java:795)_	at org.apache.cxf.jaxrs.JAXRSInvoker.invoke(JAXRSInvoker.java:273)_	at org.apache.cxf.jaxrs.JAXRSInvoker.invoke(JAXRSInvoker.java:103)_	at org.apache.cxf.interceptor.ServiceInvokerInterceptor$1.run(ServiceInvokerInterceptor.java:59)_	at org.apache.cxf.interceptor.ServiceInvokerInterceptor.handleMessage(ServiceInvokerInterceptor.java:96)_	at org.apache.cxf.phase.PhaseInterceptorChain.doIntercept(PhaseInterceptorChain.java:308)_	at org.apache.cxf.transport.ChainInitiationObserver.onMessage(ChainInitiationObserver.java:121)_	at org.apache.cxf.transport.http.AbstractHTTPDestination.invoke(AbstractHTTPDestination.java:267)_	at org.apache.cxf.transport.servlet.ServletController.invokeDestination(ServletController.java:234)_	at org.apache.cxf.transport.servlet.ServletController.invoke(ServletController.java:208)_	at org.apache.cxf.transport.servlet.ServletController.invoke(ServletController.java:160)_	at org.apache.cxf.transport.servlet.CXFNonSpringServlet.invoke(CXFNonSpringServlet.java:216)_	at org.apache.cxf.transport.servlet.AbstractHTTPServlet.handleRequest(AbstractHTTPServlet.java:301)_	at org.apache.cxf.transport.servlet.AbstractHTTPServlet.doPost(AbstractHTTPServlet.java:220)_	at javax.servlet.http.HttpServlet.service(HttpServlet.java:660)_	at org.apache.cxf.transport.servlet.AbstractHTTPServlet.service(AbstractHTTPServlet.java:276)_	at org.eclipse.equinox.http.servlet.internal.registration.EndpointRegistration.service(EndpointRegistration.java:153)_	at org.eclipse.equinox.http.servlet.internal.servlet.FilterChainImpl.doFilter(FilterChainImpl.java:50)_	at com.liferay.portal.kernel.servlet.BaseFilter.processFilter(BaseFilter.java:144)_	at com.liferay.portal.servlet.filters.authverifier.AuthVerifierFilter.processFilter(AuthVerifierFilter.java:188)_	at com.liferay.portal.kernel.servlet.BaseFilter.doFilter(BaseFilter.java:49)_	at org.eclipse.equinox.http.servlet.internal.registration.FilterRegistration.doFilter(FilterRegistration.java:121)_	at org.eclipse.equinox.http.servlet.internal.servlet.FilterChainImpl.doFilter(FilterChainImpl.java:45)_	at org.eclipse.equinox.http.servlet.internal.servlet.ResponseStateHandler.processRequest(ResponseStateHandler.java:70)_	at org.eclipse.equinox.http.servlet.internal.context.DispatchTargets.doDispatch(DispatchTargets.java:118)_	at org.eclipse.equinox.http.servlet.internal.HttpServiceRuntimeImpl.doDispatch(HttpServiceRuntimeImpl.java:373)_	at org.eclipse.equinox.http.servlet.internal.servlet.ProxyServlet.service(ProxyServlet.java:70)_	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)_	at com.liferay.portal.module.framework.ModuleFrameworkServletAdapter.service(ModuleFrameworkServletAdapter.java:51)_	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)_	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)_	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)_	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)_	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)_	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:119)_	at com.liferay.portal.kernel.servlet.BaseFilter.processFilter(BaseFilter.java:144)_	at com.liferay.portal.kernel.servlet.BaseFilter.processFilter(BaseFilter.java:103)_	at com.liferay.portal.apio.internal.architect.servlet.filter.APIDocumentationFilter.processFilter(APIDocumentationFilter.java:74)_	at com.liferay.portal.kernel.servlet.BaseFilter.doFilter(BaseFilter.java:49)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDoFilter(InvokerFilterChain.java:207)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:112)_	at com.liferay.portal.kernel.servlet.BaseFilter.processFilter(BaseFilter.java:144)_	at com.liferay.portal.sharepoint.SharepointFilter.processFilter(SharepointFilter.java:88)_	at com.liferay.portal.kernel.servlet.BaseFilter.doFilter(BaseFilter.java:49)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDoFilter(InvokerFilterChain.java:207)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:112)_	at com.liferay.portal.kernel.servlet.BaseFilter.processFilter(BaseFilter.java:144)_	at com.liferay.portal.servlet.filters.virtualhost.VirtualHostFilter.processFilter(VirtualHostFilter.java:263)_	at com.liferay.portal.kernel.servlet.BaseFilter.doFilter(BaseFilter.java:49)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDoFilter(InvokerFilterChain.java:207)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:112)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDirectCallFilter(InvokerFilterChain.java:188)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:96)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDirectCallFilter(InvokerFilterChain.java:188)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:96)_	at org.tuckey.web.filters.urlrewrite.RuleChain.handleRewrite(RuleChain.java:176)_	at org.tuckey.web.filters.urlrewrite.RuleChain.doRules(RuleChain.java:145)_	at org.tuckey.web.filters.urlrewrite.UrlRewriter.processRequest(UrlRewriter.java:92)_	at org.tuckey.web.filters.urlrewrite.UrlRewriteFilter.doFilter(UrlRewriteFilter.java:389)_	at com.liferay.portal.servlet.filters.urlrewrite.UrlRewriteFilter.processFilter(UrlRewriteFilter.java:65)_	at com.liferay.portal.kernel.servlet.BaseFilter.doFilter(BaseFilter.java:49)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDoFilter(InvokerFilterChain.java:207)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:112)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDirectCallFilter(InvokerFilterChain.java:168)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:96)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDirectCallFilter(InvokerFilterChain.java:168)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:96)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDirectCallFilter(InvokerFilterChain.java:188)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:96)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilter.doFilter(InvokerFilter.java:100)_	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)_	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)_	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:199)_	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)_	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:491)_	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)_	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)_	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)_	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)_	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408)_	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)_	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:764)_	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1388)_	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)_	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)_	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)_	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)_	at java.lang.Thread.run(Thread.java:748)_ [Sanitized]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.remote.jaxrs.whiteboard.internal.log.LiferayCXFLogger" method="internalLogFormatted" file="LiferayCXFLogger.java" line="88"/>
+</log4j:event>
+
+<log4j:event logger="org.apache.cxf.jaxrs.utils.JAXRSUtils" timestamp="1537922332398" level="ERROR" thread="http-nio-8080-exec-5">
+<log4j:message><![CDATA[No message body reader has been found for class com.liferay.apio.architect.form.Body, ContentType: application/octet-stream]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.remote.jaxrs.whiteboard.internal.log.LiferayCXFLogger" method="internalLogFormatted" file="LiferayCXFLogger.java" line="83"/>
+</log4j:event>
+
+<log4j:event logger="org.apache.cxf.jaxrs.impl.WebApplicationExceptionMapper" timestamp="1537922332399" level="WARN" thread="http-nio-8080-exec-5">
+<log4j:message><![CDATA[javax.ws.rs.WebApplicationException: HTTP 415 Unsupported Media Type_	at org.apache.cxf.jaxrs.utils.JAXRSUtils.readFromMessageBody(JAXRSUtils.java:1328)_	at org.apache.cxf.jaxrs.utils.JAXRSUtils.processParameter(JAXRSUtils.java:836)_	at org.apache.cxf.jaxrs.utils.JAXRSUtils.processParameters(JAXRSUtils.java:795)_	at org.apache.cxf.jaxrs.JAXRSInvoker.invoke(JAXRSInvoker.java:273)_	at org.apache.cxf.jaxrs.JAXRSInvoker.invoke(JAXRSInvoker.java:103)_	at org.apache.cxf.interceptor.ServiceInvokerInterceptor$1.run(ServiceInvokerInterceptor.java:59)_	at org.apache.cxf.interceptor.ServiceInvokerInterceptor.handleMessage(ServiceInvokerInterceptor.java:96)_	at org.apache.cxf.phase.PhaseInterceptorChain.doIntercept(PhaseInterceptorChain.java:308)_	at org.apache.cxf.transport.ChainInitiationObserver.onMessage(ChainInitiationObserver.java:121)_	at org.apache.cxf.transport.http.AbstractHTTPDestination.invoke(AbstractHTTPDestination.java:267)_	at org.apache.cxf.transport.servlet.ServletController.invokeDestination(ServletController.java:234)_	at org.apache.cxf.transport.servlet.ServletController.invoke(ServletController.java:208)_	at org.apache.cxf.transport.servlet.ServletController.invoke(ServletController.java:160)_	at org.apache.cxf.transport.servlet.CXFNonSpringServlet.invoke(CXFNonSpringServlet.java:216)_	at org.apache.cxf.transport.servlet.AbstractHTTPServlet.handleRequest(AbstractHTTPServlet.java:301)_	at org.apache.cxf.transport.servlet.AbstractHTTPServlet.doPost(AbstractHTTPServlet.java:220)_	at javax.servlet.http.HttpServlet.service(HttpServlet.java:660)_	at org.apache.cxf.transport.servlet.AbstractHTTPServlet.service(AbstractHTTPServlet.java:276)_	at org.eclipse.equinox.http.servlet.internal.registration.EndpointRegistration.service(EndpointRegistration.java:153)_	at org.eclipse.equinox.http.servlet.internal.servlet.FilterChainImpl.doFilter(FilterChainImpl.java:50)_	at com.liferay.portal.kernel.servlet.BaseFilter.processFilter(BaseFilter.java:144)_	at com.liferay.portal.servlet.filters.authverifier.AuthVerifierFilter.processFilter(AuthVerifierFilter.java:188)_	at com.liferay.portal.kernel.servlet.BaseFilter.doFilter(BaseFilter.java:49)_	at org.eclipse.equinox.http.servlet.internal.registration.FilterRegistration.doFilter(FilterRegistration.java:121)_	at org.eclipse.equinox.http.servlet.internal.servlet.FilterChainImpl.doFilter(FilterChainImpl.java:45)_	at org.eclipse.equinox.http.servlet.internal.servlet.ResponseStateHandler.processRequest(ResponseStateHandler.java:70)_	at org.eclipse.equinox.http.servlet.internal.context.DispatchTargets.doDispatch(DispatchTargets.java:118)_	at org.eclipse.equinox.http.servlet.internal.HttpServiceRuntimeImpl.doDispatch(HttpServiceRuntimeImpl.java:373)_	at org.eclipse.equinox.http.servlet.internal.servlet.ProxyServlet.service(ProxyServlet.java:70)_	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)_	at com.liferay.portal.module.framework.ModuleFrameworkServletAdapter.service(ModuleFrameworkServletAdapter.java:51)_	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)_	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)_	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)_	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)_	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)_	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:119)_	at com.liferay.portal.kernel.servlet.BaseFilter.processFilter(BaseFilter.java:144)_	at com.liferay.portal.kernel.servlet.BaseFilter.processFilter(BaseFilter.java:103)_	at com.liferay.portal.apio.internal.architect.servlet.filter.APIDocumentationFilter.processFilter(APIDocumentationFilter.java:74)_	at com.liferay.portal.kernel.servlet.BaseFilter.doFilter(BaseFilter.java:49)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDoFilter(InvokerFilterChain.java:207)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:112)_	at com.liferay.portal.kernel.servlet.BaseFilter.processFilter(BaseFilter.java:144)_	at com.liferay.portal.sharepoint.SharepointFilter.processFilter(SharepointFilter.java:88)_	at com.liferay.portal.kernel.servlet.BaseFilter.doFilter(BaseFilter.java:49)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDoFilter(InvokerFilterChain.java:207)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:112)_	at com.liferay.portal.kernel.servlet.BaseFilter.processFilter(BaseFilter.java:144)_	at com.liferay.portal.servlet.filters.virtualhost.VirtualHostFilter.processFilter(VirtualHostFilter.java:263)_	at com.liferay.portal.kernel.servlet.BaseFilter.doFilter(BaseFilter.java:49)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDoFilter(InvokerFilterChain.java:207)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:112)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDirectCallFilter(InvokerFilterChain.java:188)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:96)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDirectCallFilter(InvokerFilterChain.java:188)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:96)_	at org.tuckey.web.filters.urlrewrite.RuleChain.handleRewrite(RuleChain.java:176)_	at org.tuckey.web.filters.urlrewrite.RuleChain.doRules(RuleChain.java:145)_	at org.tuckey.web.filters.urlrewrite.UrlRewriter.processRequest(UrlRewriter.java:92)_	at org.tuckey.web.filters.urlrewrite.UrlRewriteFilter.doFilter(UrlRewriteFilter.java:389)_	at com.liferay.portal.servlet.filters.urlrewrite.UrlRewriteFilter.processFilter(UrlRewriteFilter.java:65)_	at com.liferay.portal.kernel.servlet.BaseFilter.doFilter(BaseFilter.java:49)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDoFilter(InvokerFilterChain.java:207)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:112)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDirectCallFilter(InvokerFilterChain.java:168)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:96)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDirectCallFilter(InvokerFilterChain.java:168)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:96)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDirectCallFilter(InvokerFilterChain.java:188)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:96)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilter.doFilter(InvokerFilter.java:100)_	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)_	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)_	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:199)_	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)_	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:491)_	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)_	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)_	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)_	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)_	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408)_	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)_	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:764)_	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1388)_	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)_	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)_	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)_	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)_	at java.lang.Thread.run(Thread.java:748)_ [Sanitized]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.remote.jaxrs.whiteboard.internal.log.LiferayCXFLogger" method="internalLogFormatted" file="LiferayCXFLogger.java" line="88"/>
+</log4j:event>
+
+<log4j:event logger="org.apache.cxf.jaxrs.utils.JAXRSUtils" timestamp="1537922338053" level="ERROR" thread="http-nio-8080-exec-7">
+<log4j:message><![CDATA[No message body reader has been found for class com.liferay.apio.architect.form.Body, ContentType: application/octet-stream]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.remote.jaxrs.whiteboard.internal.log.LiferayCXFLogger" method="internalLogFormatted" file="LiferayCXFLogger.java" line="83"/>
+</log4j:event>
+
+<log4j:event logger="org.apache.cxf.jaxrs.impl.WebApplicationExceptionMapper" timestamp="1537922338056" level="WARN" thread="http-nio-8080-exec-7">
+<log4j:message><![CDATA[javax.ws.rs.WebApplicationException: HTTP 415 Unsupported Media Type_	at org.apache.cxf.jaxrs.utils.JAXRSUtils.readFromMessageBody(JAXRSUtils.java:1328)_	at org.apache.cxf.jaxrs.utils.JAXRSUtils.processParameter(JAXRSUtils.java:836)_	at org.apache.cxf.jaxrs.utils.JAXRSUtils.processParameters(JAXRSUtils.java:795)_	at org.apache.cxf.jaxrs.JAXRSInvoker.invoke(JAXRSInvoker.java:273)_	at org.apache.cxf.jaxrs.JAXRSInvoker.invoke(JAXRSInvoker.java:103)_	at org.apache.cxf.interceptor.ServiceInvokerInterceptor$1.run(ServiceInvokerInterceptor.java:59)_	at org.apache.cxf.interceptor.ServiceInvokerInterceptor.handleMessage(ServiceInvokerInterceptor.java:96)_	at org.apache.cxf.phase.PhaseInterceptorChain.doIntercept(PhaseInterceptorChain.java:308)_	at org.apache.cxf.transport.ChainInitiationObserver.onMessage(ChainInitiationObserver.java:121)_	at org.apache.cxf.transport.http.AbstractHTTPDestination.invoke(AbstractHTTPDestination.java:267)_	at org.apache.cxf.transport.servlet.ServletController.invokeDestination(ServletController.java:234)_	at org.apache.cxf.transport.servlet.ServletController.invoke(ServletController.java:208)_	at org.apache.cxf.transport.servlet.ServletController.invoke(ServletController.java:160)_	at org.apache.cxf.transport.servlet.CXFNonSpringServlet.invoke(CXFNonSpringServlet.java:216)_	at org.apache.cxf.transport.servlet.AbstractHTTPServlet.handleRequest(AbstractHTTPServlet.java:301)_	at org.apache.cxf.transport.servlet.AbstractHTTPServlet.doPost(AbstractHTTPServlet.java:220)_	at javax.servlet.http.HttpServlet.service(HttpServlet.java:660)_	at org.apache.cxf.transport.servlet.AbstractHTTPServlet.service(AbstractHTTPServlet.java:276)_	at org.eclipse.equinox.http.servlet.internal.registration.EndpointRegistration.service(EndpointRegistration.java:153)_	at org.eclipse.equinox.http.servlet.internal.servlet.FilterChainImpl.doFilter(FilterChainImpl.java:50)_	at com.liferay.portal.kernel.servlet.BaseFilter.processFilter(BaseFilter.java:144)_	at com.liferay.portal.servlet.filters.authverifier.AuthVerifierFilter.processFilter(AuthVerifierFilter.java:188)_	at com.liferay.portal.kernel.servlet.BaseFilter.doFilter(BaseFilter.java:49)_	at org.eclipse.equinox.http.servlet.internal.registration.FilterRegistration.doFilter(FilterRegistration.java:121)_	at org.eclipse.equinox.http.servlet.internal.servlet.FilterChainImpl.doFilter(FilterChainImpl.java:45)_	at org.eclipse.equinox.http.servlet.internal.servlet.ResponseStateHandler.processRequest(ResponseStateHandler.java:70)_	at org.eclipse.equinox.http.servlet.internal.context.DispatchTargets.doDispatch(DispatchTargets.java:118)_	at org.eclipse.equinox.http.servlet.internal.HttpServiceRuntimeImpl.doDispatch(HttpServiceRuntimeImpl.java:373)_	at org.eclipse.equinox.http.servlet.internal.servlet.ProxyServlet.service(ProxyServlet.java:70)_	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)_	at com.liferay.portal.module.framework.ModuleFrameworkServletAdapter.service(ModuleFrameworkServletAdapter.java:51)_	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)_	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)_	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)_	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)_	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)_	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:119)_	at com.liferay.portal.kernel.servlet.BaseFilter.processFilter(BaseFilter.java:144)_	at com.liferay.portal.kernel.servlet.BaseFilter.processFilter(BaseFilter.java:103)_	at com.liferay.portal.apio.internal.architect.servlet.filter.APIDocumentationFilter.processFilter(APIDocumentationFilter.java:74)_	at com.liferay.portal.kernel.servlet.BaseFilter.doFilter(BaseFilter.java:49)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDoFilter(InvokerFilterChain.java:207)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:112)_	at com.liferay.portal.kernel.servlet.BaseFilter.processFilter(BaseFilter.java:144)_	at com.liferay.portal.sharepoint.SharepointFilter.processFilter(SharepointFilter.java:88)_	at com.liferay.portal.kernel.servlet.BaseFilter.doFilter(BaseFilter.java:49)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDoFilter(InvokerFilterChain.java:207)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:112)_	at com.liferay.portal.kernel.servlet.BaseFilter.processFilter(BaseFilter.java:144)_	at com.liferay.portal.servlet.filters.virtualhost.VirtualHostFilter.processFilter(VirtualHostFilter.java:263)_	at com.liferay.portal.kernel.servlet.BaseFilter.doFilter(BaseFilter.java:49)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDoFilter(InvokerFilterChain.java:207)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:112)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDirectCallFilter(InvokerFilterChain.java:188)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:96)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDirectCallFilter(InvokerFilterChain.java:188)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:96)_	at org.tuckey.web.filters.urlrewrite.RuleChain.handleRewrite(RuleChain.java:176)_	at org.tuckey.web.filters.urlrewrite.RuleChain.doRules(RuleChain.java:145)_	at org.tuckey.web.filters.urlrewrite.UrlRewriter.processRequest(UrlRewriter.java:92)_	at org.tuckey.web.filters.urlrewrite.UrlRewriteFilter.doFilter(UrlRewriteFilter.java:389)_	at com.liferay.portal.servlet.filters.urlrewrite.UrlRewriteFilter.processFilter(UrlRewriteFilter.java:65)_	at com.liferay.portal.kernel.servlet.BaseFilter.doFilter(BaseFilter.java:49)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDoFilter(InvokerFilterChain.java:207)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:112)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDirectCallFilter(InvokerFilterChain.java:168)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:96)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDirectCallFilter(InvokerFilterChain.java:168)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:96)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDirectCallFilter(InvokerFilterChain.java:188)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:96)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilter.doFilter(InvokerFilter.java:100)_	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)_	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)_	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:199)_	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)_	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:491)_	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)_	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)_	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)_	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)_	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408)_	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)_	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:764)_	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1388)_	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)_	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)_	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)_	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)_	at java.lang.Thread.run(Thread.java:748)_ [Sanitized]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.remote.jaxrs.whiteboard.internal.log.LiferayCXFLogger" method="internalLogFormatted" file="LiferayCXFLogger.java" line="88"/>
+</log4j:event>
+
+<log4j:event logger="org.apache.cxf.jaxrs.utils.JAXRSUtils" timestamp="1537922359929" level="ERROR" thread="http-nio-8080-exec-6">
+<log4j:message><![CDATA[No message body reader has been found for class com.liferay.apio.architect.form.Body, ContentType: application/octet-stream]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.remote.jaxrs.whiteboard.internal.log.LiferayCXFLogger" method="internalLogFormatted" file="LiferayCXFLogger.java" line="83"/>
+</log4j:event>
+
+<log4j:event logger="org.apache.cxf.jaxrs.impl.WebApplicationExceptionMapper" timestamp="1537922359932" level="WARN" thread="http-nio-8080-exec-6">
+<log4j:message><![CDATA[javax.ws.rs.WebApplicationException: HTTP 415 Unsupported Media Type_	at org.apache.cxf.jaxrs.utils.JAXRSUtils.readFromMessageBody(JAXRSUtils.java:1328)_	at org.apache.cxf.jaxrs.utils.JAXRSUtils.processParameter(JAXRSUtils.java:836)_	at org.apache.cxf.jaxrs.utils.JAXRSUtils.processParameters(JAXRSUtils.java:795)_	at org.apache.cxf.jaxrs.JAXRSInvoker.invoke(JAXRSInvoker.java:273)_	at org.apache.cxf.jaxrs.JAXRSInvoker.invoke(JAXRSInvoker.java:103)_	at org.apache.cxf.interceptor.ServiceInvokerInterceptor$1.run(ServiceInvokerInterceptor.java:59)_	at org.apache.cxf.interceptor.ServiceInvokerInterceptor.handleMessage(ServiceInvokerInterceptor.java:96)_	at org.apache.cxf.phase.PhaseInterceptorChain.doIntercept(PhaseInterceptorChain.java:308)_	at org.apache.cxf.transport.ChainInitiationObserver.onMessage(ChainInitiationObserver.java:121)_	at org.apache.cxf.transport.http.AbstractHTTPDestination.invoke(AbstractHTTPDestination.java:267)_	at org.apache.cxf.transport.servlet.ServletController.invokeDestination(ServletController.java:234)_	at org.apache.cxf.transport.servlet.ServletController.invoke(ServletController.java:208)_	at org.apache.cxf.transport.servlet.ServletController.invoke(ServletController.java:160)_	at org.apache.cxf.transport.servlet.CXFNonSpringServlet.invoke(CXFNonSpringServlet.java:216)_	at org.apache.cxf.transport.servlet.AbstractHTTPServlet.handleRequest(AbstractHTTPServlet.java:301)_	at org.apache.cxf.transport.servlet.AbstractHTTPServlet.doPost(AbstractHTTPServlet.java:220)_	at javax.servlet.http.HttpServlet.service(HttpServlet.java:660)_	at org.apache.cxf.transport.servlet.AbstractHTTPServlet.service(AbstractHTTPServlet.java:276)_	at org.eclipse.equinox.http.servlet.internal.registration.EndpointRegistration.service(EndpointRegistration.java:153)_	at org.eclipse.equinox.http.servlet.internal.servlet.FilterChainImpl.doFilter(FilterChainImpl.java:50)_	at com.liferay.portal.kernel.servlet.BaseFilter.processFilter(BaseFilter.java:144)_	at com.liferay.portal.servlet.filters.authverifier.AuthVerifierFilter.processFilter(AuthVerifierFilter.java:188)_	at com.liferay.portal.kernel.servlet.BaseFilter.doFilter(BaseFilter.java:49)_	at org.eclipse.equinox.http.servlet.internal.registration.FilterRegistration.doFilter(FilterRegistration.java:121)_	at org.eclipse.equinox.http.servlet.internal.servlet.FilterChainImpl.doFilter(FilterChainImpl.java:45)_	at org.eclipse.equinox.http.servlet.internal.servlet.ResponseStateHandler.processRequest(ResponseStateHandler.java:70)_	at org.eclipse.equinox.http.servlet.internal.context.DispatchTargets.doDispatch(DispatchTargets.java:118)_	at org.eclipse.equinox.http.servlet.internal.HttpServiceRuntimeImpl.doDispatch(HttpServiceRuntimeImpl.java:373)_	at org.eclipse.equinox.http.servlet.internal.servlet.ProxyServlet.service(ProxyServlet.java:70)_	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)_	at com.liferay.portal.module.framework.ModuleFrameworkServletAdapter.service(ModuleFrameworkServletAdapter.java:51)_	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)_	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)_	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)_	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)_	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)_	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:119)_	at com.liferay.portal.kernel.servlet.BaseFilter.processFilter(BaseFilter.java:144)_	at com.liferay.portal.kernel.servlet.BaseFilter.processFilter(BaseFilter.java:103)_	at com.liferay.portal.apio.internal.architect.servlet.filter.APIDocumentationFilter.processFilter(APIDocumentationFilter.java:74)_	at com.liferay.portal.kernel.servlet.BaseFilter.doFilter(BaseFilter.java:49)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDoFilter(InvokerFilterChain.java:207)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:112)_	at com.liferay.portal.kernel.servlet.BaseFilter.processFilter(BaseFilter.java:144)_	at com.liferay.portal.sharepoint.SharepointFilter.processFilter(SharepointFilter.java:88)_	at com.liferay.portal.kernel.servlet.BaseFilter.doFilter(BaseFilter.java:49)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDoFilter(InvokerFilterChain.java:207)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:112)_	at com.liferay.portal.kernel.servlet.BaseFilter.processFilter(BaseFilter.java:144)_	at com.liferay.portal.servlet.filters.virtualhost.VirtualHostFilter.processFilter(VirtualHostFilter.java:263)_	at com.liferay.portal.kernel.servlet.BaseFilter.doFilter(BaseFilter.java:49)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDoFilter(InvokerFilterChain.java:207)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:112)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDirectCallFilter(InvokerFilterChain.java:188)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:96)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDirectCallFilter(InvokerFilterChain.java:188)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:96)_	at org.tuckey.web.filters.urlrewrite.RuleChain.handleRewrite(RuleChain.java:176)_	at org.tuckey.web.filters.urlrewrite.RuleChain.doRules(RuleChain.java:145)_	at org.tuckey.web.filters.urlrewrite.UrlRewriter.processRequest(UrlRewriter.java:92)_	at org.tuckey.web.filters.urlrewrite.UrlRewriteFilter.doFilter(UrlRewriteFilter.java:389)_	at com.liferay.portal.servlet.filters.urlrewrite.UrlRewriteFilter.processFilter(UrlRewriteFilter.java:65)_	at com.liferay.portal.kernel.servlet.BaseFilter.doFilter(BaseFilter.java:49)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDoFilter(InvokerFilterChain.java:207)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:112)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDirectCallFilter(InvokerFilterChain.java:168)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:96)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDirectCallFilter(InvokerFilterChain.java:168)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:96)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDirectCallFilter(InvokerFilterChain.java:188)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:96)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilter.doFilter(InvokerFilter.java:100)_	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)_	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)_	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:199)_	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)_	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:491)_	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)_	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)_	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)_	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)_	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408)_	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)_	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:764)_	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1388)_	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)_	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)_	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)_	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)_	at java.lang.Thread.run(Thread.java:748)_ [Sanitized]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.remote.jaxrs.whiteboard.internal.log.LiferayCXFLogger" method="internalLogFormatted" file="LiferayCXFLogger.java" line="88"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.apio.architect.impl.jaxrs.json.util.ErrorUtil" timestamp="1537922386384" level="ERROR" thread="http-nio-8080-exec-1">
+<log4j:message><![CDATA[Field "isDraft" is required]]></log4j:message>
+<log4j:locationInfo class="com.liferay.apio.architect.impl.jaxrs.json.util.ErrorUtil" method="getErrorResponse" file="ErrorUtil.java" line="79"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.apio.architect.impl.jaxrs.json.util.ErrorUtil" timestamp="1537922395380" level="ERROR" thread="http-nio-8080-exec-2">
+<log4j:message><![CDATA[com.google.gson.stream.MalformedJsonException: Unterminated string at line 1 column 32 path $[0].name]]></log4j:message>
+<log4j:locationInfo class="com.liferay.apio.architect.impl.jaxrs.json.util.ErrorUtil" method="getErrorResponse" file="ErrorUtil.java" line="79"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.apio.architect.impl.jaxrs.json.util.ErrorUtil" timestamp="1537922418662" level="ERROR" thread="http-nio-8080-exec-8">
+<log4j:message><![CDATA[com.google.gson.stream.MalformedJsonException: Unterminated string at line 1 column 32 path $[0].name]]></log4j:message>
+<log4j:locationInfo class="com.liferay.apio.architect.impl.jaxrs.json.util.ErrorUtil" method="getErrorResponse" file="ErrorUtil.java" line="79"/>
+</log4j:event>
+
+<log4j:event logger="org.apache.cxf.jaxrs.impl.WebApplicationExceptionMapper" timestamp="1537922520813" level="WARN" thread="http-nio-8080-exec-3">
+<log4j:message><![CDATA[javax.ws.rs.ClientErrorException: HTTP 415 Unsupported Media Type_	at org.apache.cxf.jaxrs.utils.SpecExceptions.toHttpException(SpecExceptions.java:117)_	at org.apache.cxf.jaxrs.utils.ExceptionUtils.toHttpException(ExceptionUtils.java:167)_	at org.apache.cxf.jaxrs.utils.JAXRSUtils.findTargetMethod(JAXRSUtils.java:514)_	at org.apache.cxf.jaxrs.utils.JAXRSUtils.findTargetMethod(JAXRSUtils.java:363)_	at org.apache.cxf.jaxrs.JAXRSInvoker.invoke(JAXRSInvoker.java:253)_	at org.apache.cxf.jaxrs.JAXRSInvoker.invoke(JAXRSInvoker.java:103)_	at org.apache.cxf.interceptor.ServiceInvokerInterceptor$1.run(ServiceInvokerInterceptor.java:59)_	at org.apache.cxf.interceptor.ServiceInvokerInterceptor.handleMessage(ServiceInvokerInterceptor.java:96)_	at org.apache.cxf.phase.PhaseInterceptorChain.doIntercept(PhaseInterceptorChain.java:308)_	at org.apache.cxf.transport.ChainInitiationObserver.onMessage(ChainInitiationObserver.java:121)_	at org.apache.cxf.transport.http.AbstractHTTPDestination.invoke(AbstractHTTPDestination.java:267)_	at org.apache.cxf.transport.servlet.ServletController.invokeDestination(ServletController.java:234)_	at org.apache.cxf.transport.servlet.ServletController.invoke(ServletController.java:208)_	at org.apache.cxf.transport.servlet.ServletController.invoke(ServletController.java:160)_	at org.apache.cxf.transport.servlet.CXFNonSpringServlet.invoke(CXFNonSpringServlet.java:216)_	at org.apache.cxf.transport.servlet.AbstractHTTPServlet.handleRequest(AbstractHTTPServlet.java:301)_	at org.apache.cxf.transport.servlet.AbstractHTTPServlet.doPost(AbstractHTTPServlet.java:220)_	at javax.servlet.http.HttpServlet.service(HttpServlet.java:660)_	at org.apache.cxf.transport.servlet.AbstractHTTPServlet.service(AbstractHTTPServlet.java:276)_	at org.eclipse.equinox.http.servlet.internal.registration.EndpointRegistration.service(EndpointRegistration.java:153)_	at org.eclipse.equinox.http.servlet.internal.servlet.FilterChainImpl.doFilter(FilterChainImpl.java:50)_	at com.liferay.portal.kernel.servlet.BaseFilter.processFilter(BaseFilter.java:144)_	at com.liferay.portal.servlet.filters.authverifier.AuthVerifierFilter.processFilter(AuthVerifierFilter.java:188)_	at com.liferay.portal.kernel.servlet.BaseFilter.doFilter(BaseFilter.java:49)_	at org.eclipse.equinox.http.servlet.internal.registration.FilterRegistration.doFilter(FilterRegistration.java:121)_	at org.eclipse.equinox.http.servlet.internal.servlet.FilterChainImpl.doFilter(FilterChainImpl.java:45)_	at org.eclipse.equinox.http.servlet.internal.servlet.ResponseStateHandler.processRequest(ResponseStateHandler.java:70)_	at org.eclipse.equinox.http.servlet.internal.context.DispatchTargets.doDispatch(DispatchTargets.java:118)_	at org.eclipse.equinox.http.servlet.internal.HttpServiceRuntimeImpl.doDispatch(HttpServiceRuntimeImpl.java:373)_	at org.eclipse.equinox.http.servlet.internal.servlet.ProxyServlet.service(ProxyServlet.java:70)_	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)_	at com.liferay.portal.module.framework.ModuleFrameworkServletAdapter.service(ModuleFrameworkServletAdapter.java:51)_	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)_	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)_	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)_	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)_	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)_	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:119)_	at com.liferay.portal.kernel.servlet.BaseFilter.processFilter(BaseFilter.java:144)_	at com.liferay.portal.kernel.servlet.BaseFilter.processFilter(BaseFilter.java:103)_	at com.liferay.portal.apio.internal.architect.servlet.filter.APIDocumentationFilter.processFilter(APIDocumentationFilter.java:74)_	at com.liferay.portal.kernel.servlet.BaseFilter.doFilter(BaseFilter.java:49)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDoFilter(InvokerFilterChain.java:207)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:112)_	at com.liferay.portal.kernel.servlet.BaseFilter.processFilter(BaseFilter.java:144)_	at com.liferay.portal.sharepoint.SharepointFilter.processFilter(SharepointFilter.java:88)_	at com.liferay.portal.kernel.servlet.BaseFilter.doFilter(BaseFilter.java:49)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDoFilter(InvokerFilterChain.java:207)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:112)_	at com.liferay.portal.kernel.servlet.BaseFilter.processFilter(BaseFilter.java:144)_	at com.liferay.portal.servlet.filters.virtualhost.VirtualHostFilter.processFilter(VirtualHostFilter.java:263)_	at com.liferay.portal.kernel.servlet.BaseFilter.doFilter(BaseFilter.java:49)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDoFilter(InvokerFilterChain.java:207)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:112)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDirectCallFilter(InvokerFilterChain.java:188)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:96)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDirectCallFilter(InvokerFilterChain.java:188)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:96)_	at org.tuckey.web.filters.urlrewrite.RuleChain.handleRewrite(RuleChain.java:176)_	at org.tuckey.web.filters.urlrewrite.RuleChain.doRules(RuleChain.java:145)_	at org.tuckey.web.filters.urlrewrite.UrlRewriter.processRequest(UrlRewriter.java:92)_	at org.tuckey.web.filters.urlrewrite.UrlRewriteFilter.doFilter(UrlRewriteFilter.java:389)_	at com.liferay.portal.servlet.filters.urlrewrite.UrlRewriteFilter.processFilter(UrlRewriteFilter.java:65)_	at com.liferay.portal.kernel.servlet.BaseFilter.doFilter(BaseFilter.java:49)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDoFilter(InvokerFilterChain.java:207)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:112)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDirectCallFilter(InvokerFilterChain.java:168)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:96)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDirectCallFilter(InvokerFilterChain.java:168)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:96)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDirectCallFilter(InvokerFilterChain.java:188)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:96)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilter.doFilter(InvokerFilter.java:100)_	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)_	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)_	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:199)_	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)_	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:491)_	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)_	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)_	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)_	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)_	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408)_	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)_	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:764)_	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1388)_	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)_	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)_	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)_	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)_	at java.lang.Thread.run(Thread.java:748)_ [Sanitized]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.remote.jaxrs.whiteboard.internal.log.LiferayCXFLogger" method="internalLogFormatted" file="LiferayCXFLogger.java" line="88"/>
+</log4j:event>
+
+<log4j:event logger="org.apache.cxf.jaxrs.impl.WebApplicationExceptionMapper" timestamp="1537922526610" level="WARN" thread="http-nio-8080-exec-4">
+<log4j:message><![CDATA[javax.ws.rs.ClientErrorException: HTTP 415 Unsupported Media Type_	at org.apache.cxf.jaxrs.utils.SpecExceptions.toHttpException(SpecExceptions.java:117)_	at org.apache.cxf.jaxrs.utils.ExceptionUtils.toHttpException(ExceptionUtils.java:167)_	at org.apache.cxf.jaxrs.utils.JAXRSUtils.findTargetMethod(JAXRSUtils.java:514)_	at org.apache.cxf.jaxrs.utils.JAXRSUtils.findTargetMethod(JAXRSUtils.java:363)_	at org.apache.cxf.jaxrs.JAXRSInvoker.invoke(JAXRSInvoker.java:253)_	at org.apache.cxf.jaxrs.JAXRSInvoker.invoke(JAXRSInvoker.java:103)_	at org.apache.cxf.interceptor.ServiceInvokerInterceptor$1.run(ServiceInvokerInterceptor.java:59)_	at org.apache.cxf.interceptor.ServiceInvokerInterceptor.handleMessage(ServiceInvokerInterceptor.java:96)_	at org.apache.cxf.phase.PhaseInterceptorChain.doIntercept(PhaseInterceptorChain.java:308)_	at org.apache.cxf.transport.ChainInitiationObserver.onMessage(ChainInitiationObserver.java:121)_	at org.apache.cxf.transport.http.AbstractHTTPDestination.invoke(AbstractHTTPDestination.java:267)_	at org.apache.cxf.transport.servlet.ServletController.invokeDestination(ServletController.java:234)_	at org.apache.cxf.transport.servlet.ServletController.invoke(ServletController.java:208)_	at org.apache.cxf.transport.servlet.ServletController.invoke(ServletController.java:160)_	at org.apache.cxf.transport.servlet.CXFNonSpringServlet.invoke(CXFNonSpringServlet.java:216)_	at org.apache.cxf.transport.servlet.AbstractHTTPServlet.handleRequest(AbstractHTTPServlet.java:301)_	at org.apache.cxf.transport.servlet.AbstractHTTPServlet.doPost(AbstractHTTPServlet.java:220)_	at javax.servlet.http.HttpServlet.service(HttpServlet.java:660)_	at org.apache.cxf.transport.servlet.AbstractHTTPServlet.service(AbstractHTTPServlet.java:276)_	at org.eclipse.equinox.http.servlet.internal.registration.EndpointRegistration.service(EndpointRegistration.java:153)_	at org.eclipse.equinox.http.servlet.internal.servlet.FilterChainImpl.doFilter(FilterChainImpl.java:50)_	at com.liferay.portal.kernel.servlet.BaseFilter.processFilter(BaseFilter.java:144)_	at com.liferay.portal.servlet.filters.authverifier.AuthVerifierFilter.processFilter(AuthVerifierFilter.java:188)_	at com.liferay.portal.kernel.servlet.BaseFilter.doFilter(BaseFilter.java:49)_	at org.eclipse.equinox.http.servlet.internal.registration.FilterRegistration.doFilter(FilterRegistration.java:121)_	at org.eclipse.equinox.http.servlet.internal.servlet.FilterChainImpl.doFilter(FilterChainImpl.java:45)_	at org.eclipse.equinox.http.servlet.internal.servlet.ResponseStateHandler.processRequest(ResponseStateHandler.java:70)_	at org.eclipse.equinox.http.servlet.internal.context.DispatchTargets.doDispatch(DispatchTargets.java:118)_	at org.eclipse.equinox.http.servlet.internal.HttpServiceRuntimeImpl.doDispatch(HttpServiceRuntimeImpl.java:373)_	at org.eclipse.equinox.http.servlet.internal.servlet.ProxyServlet.service(ProxyServlet.java:70)_	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)_	at com.liferay.portal.module.framework.ModuleFrameworkServletAdapter.service(ModuleFrameworkServletAdapter.java:51)_	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)_	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)_	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)_	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)_	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)_	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:119)_	at com.liferay.portal.kernel.servlet.BaseFilter.processFilter(BaseFilter.java:144)_	at com.liferay.portal.kernel.servlet.BaseFilter.processFilter(BaseFilter.java:103)_	at com.liferay.portal.apio.internal.architect.servlet.filter.APIDocumentationFilter.processFilter(APIDocumentationFilter.java:74)_	at com.liferay.portal.kernel.servlet.BaseFilter.doFilter(BaseFilter.java:49)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDoFilter(InvokerFilterChain.java:207)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:112)_	at com.liferay.portal.kernel.servlet.BaseFilter.processFilter(BaseFilter.java:144)_	at com.liferay.portal.sharepoint.SharepointFilter.processFilter(SharepointFilter.java:88)_	at com.liferay.portal.kernel.servlet.BaseFilter.doFilter(BaseFilter.java:49)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDoFilter(InvokerFilterChain.java:207)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:112)_	at com.liferay.portal.kernel.servlet.BaseFilter.processFilter(BaseFilter.java:144)_	at com.liferay.portal.servlet.filters.virtualhost.VirtualHostFilter.processFilter(VirtualHostFilter.java:263)_	at com.liferay.portal.kernel.servlet.BaseFilter.doFilter(BaseFilter.java:49)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDoFilter(InvokerFilterChain.java:207)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:112)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDirectCallFilter(InvokerFilterChain.java:188)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:96)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDirectCallFilter(InvokerFilterChain.java:188)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:96)_	at org.tuckey.web.filters.urlrewrite.RuleChain.handleRewrite(RuleChain.java:176)_	at org.tuckey.web.filters.urlrewrite.RuleChain.doRules(RuleChain.java:145)_	at org.tuckey.web.filters.urlrewrite.UrlRewriter.processRequest(UrlRewriter.java:92)_	at org.tuckey.web.filters.urlrewrite.UrlRewriteFilter.doFilter(UrlRewriteFilter.java:389)_	at com.liferay.portal.servlet.filters.urlrewrite.UrlRewriteFilter.processFilter(UrlRewriteFilter.java:65)_	at com.liferay.portal.kernel.servlet.BaseFilter.doFilter(BaseFilter.java:49)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDoFilter(InvokerFilterChain.java:207)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:112)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDirectCallFilter(InvokerFilterChain.java:168)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:96)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDirectCallFilter(InvokerFilterChain.java:168)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:96)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDirectCallFilter(InvokerFilterChain.java:188)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:96)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilter.doFilter(InvokerFilter.java:100)_	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)_	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)_	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:199)_	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)_	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:491)_	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)_	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)_	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)_	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)_	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408)_	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)_	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:764)_	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1388)_	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)_	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)_	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)_	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)_	at java.lang.Thread.run(Thread.java:748)_ [Sanitized]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.remote.jaxrs.whiteboard.internal.log.LiferayCXFLogger" method="internalLogFormatted" file="LiferayCXFLogger.java" line="88"/>
+</log4j:event>
+
+<log4j:event logger="org.apache.cxf.jaxrs.impl.WebApplicationExceptionMapper" timestamp="1537922546361" level="WARN" thread="http-nio-8080-exec-5">
+<log4j:message><![CDATA[javax.ws.rs.BadRequestException: Body is not a valid JSON_	at com.liferay.apio.architect.impl.jaxrs.json.reader.JSONBodyMessageBodyReader.lambda$_getBody$2(JSONBodyMessageBodyReader.java:88)_	at com.liferay.apio.architect.functional.Try$Failure.orElseThrow(Try.java:583)_	at com.liferay.apio.architect.impl.jaxrs.json.reader.JSONBodyMessageBodyReader._getBody(JSONBodyMessageBodyReader.java:87)_	at com.liferay.apio.architect.impl.jaxrs.json.reader.JSONBodyMessageBodyReader.readFrom(JSONBodyMessageBodyReader.java:76)_	at com.liferay.apio.architect.impl.jaxrs.json.reader.JSONBodyMessageBodyReader.readFrom(JSONBodyMessageBodyReader.java:51)_	at org.apache.cxf.jaxrs.utils.JAXRSUtils.readFromMessageBodyReader(JAXRSUtils.java:1355)_	at org.apache.cxf.jaxrs.utils.JAXRSUtils.readFromMessageBody(JAXRSUtils.java:1307)_	at org.apache.cxf.jaxrs.utils.JAXRSUtils.processParameter(JAXRSUtils.java:836)_	at org.apache.cxf.jaxrs.utils.JAXRSUtils.processParameters(JAXRSUtils.java:795)_	at org.apache.cxf.jaxrs.JAXRSInvoker.invoke(JAXRSInvoker.java:273)_	at org.apache.cxf.jaxrs.JAXRSInvoker.invoke(JAXRSInvoker.java:103)_	at org.apache.cxf.interceptor.ServiceInvokerInterceptor$1.run(ServiceInvokerInterceptor.java:59)_	at org.apache.cxf.interceptor.ServiceInvokerInterceptor.handleMessage(ServiceInvokerInterceptor.java:96)_	at org.apache.cxf.phase.PhaseInterceptorChain.doIntercept(PhaseInterceptorChain.java:308)_	at org.apache.cxf.transport.ChainInitiationObserver.onMessage(ChainInitiationObserver.java:121)_	at org.apache.cxf.transport.http.AbstractHTTPDestination.invoke(AbstractHTTPDestination.java:267)_	at org.apache.cxf.transport.servlet.ServletController.invokeDestination(ServletController.java:234)_	at org.apache.cxf.transport.servlet.ServletController.invoke(ServletController.java:208)_	at org.apache.cxf.transport.servlet.ServletController.invoke(ServletController.java:160)_	at org.apache.cxf.transport.servlet.CXFNonSpringServlet.invoke(CXFNonSpringServlet.java:216)_	at org.apache.cxf.transport.servlet.AbstractHTTPServlet.handleRequest(AbstractHTTPServlet.java:301)_	at org.apache.cxf.transport.servlet.AbstractHTTPServlet.doPost(AbstractHTTPServlet.java:220)_	at javax.servlet.http.HttpServlet.service(HttpServlet.java:660)_	at org.apache.cxf.transport.servlet.AbstractHTTPServlet.service(AbstractHTTPServlet.java:276)_	at org.eclipse.equinox.http.servlet.internal.registration.EndpointRegistration.service(EndpointRegistration.java:153)_	at org.eclipse.equinox.http.servlet.internal.servlet.FilterChainImpl.doFilter(FilterChainImpl.java:50)_	at com.liferay.portal.kernel.servlet.BaseFilter.processFilter(BaseFilter.java:144)_	at com.liferay.portal.servlet.filters.authverifier.AuthVerifierFilter.processFilter(AuthVerifierFilter.java:188)_	at com.liferay.portal.kernel.servlet.BaseFilter.doFilter(BaseFilter.java:49)_	at org.eclipse.equinox.http.servlet.internal.registration.FilterRegistration.doFilter(FilterRegistration.java:121)_	at org.eclipse.equinox.http.servlet.internal.servlet.FilterChainImpl.doFilter(FilterChainImpl.java:45)_	at org.eclipse.equinox.http.servlet.internal.servlet.ResponseStateHandler.processRequest(ResponseStateHandler.java:70)_	at org.eclipse.equinox.http.servlet.internal.context.DispatchTargets.doDispatch(DispatchTargets.java:118)_	at org.eclipse.equinox.http.servlet.internal.HttpServiceRuntimeImpl.doDispatch(HttpServiceRuntimeImpl.java:373)_	at org.eclipse.equinox.http.servlet.internal.servlet.ProxyServlet.service(ProxyServlet.java:70)_	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)_	at com.liferay.portal.module.framework.ModuleFrameworkServletAdapter.service(ModuleFrameworkServletAdapter.java:51)_	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)_	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)_	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)_	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)_	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)_	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:119)_	at com.liferay.portal.kernel.servlet.BaseFilter.processFilter(BaseFilter.java:144)_	at com.liferay.portal.kernel.servlet.BaseFilter.processFilter(BaseFilter.java:103)_	at com.liferay.portal.apio.internal.architect.servlet.filter.APIDocumentationFilter.processFilter(APIDocumentationFilter.java:74)_	at com.liferay.portal.kernel.servlet.BaseFilter.doFilter(BaseFilter.java:49)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDoFilter(InvokerFilterChain.java:207)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:112)_	at com.liferay.portal.kernel.servlet.BaseFilter.processFilter(BaseFilter.java:144)_	at com.liferay.portal.sharepoint.SharepointFilter.processFilter(SharepointFilter.java:88)_	at com.liferay.portal.kernel.servlet.BaseFilter.doFilter(BaseFilter.java:49)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDoFilter(InvokerFilterChain.java:207)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:112)_	at com.liferay.portal.kernel.servlet.BaseFilter.processFilter(BaseFilter.java:144)_	at com.liferay.portal.servlet.filters.virtualhost.VirtualHostFilter.processFilter(VirtualHostFilter.java:263)_	at com.liferay.portal.kernel.servlet.BaseFilter.doFilter(BaseFilter.java:49)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDoFilter(InvokerFilterChain.java:207)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:112)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDirectCallFilter(InvokerFilterChain.java:188)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:96)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDirectCallFilter(InvokerFilterChain.java:188)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:96)_	at org.tuckey.web.filters.urlrewrite.RuleChain.handleRewrite(RuleChain.java:176)_	at org.tuckey.web.filters.urlrewrite.RuleChain.doRules(RuleChain.java:145)_	at org.tuckey.web.filters.urlrewrite.UrlRewriter.processRequest(UrlRewriter.java:92)_	at org.tuckey.web.filters.urlrewrite.UrlRewriteFilter.doFilter(UrlRewriteFilter.java:389)_	at com.liferay.portal.servlet.filters.urlrewrite.UrlRewriteFilter.processFilter(UrlRewriteFilter.java:65)_	at com.liferay.portal.kernel.servlet.BaseFilter.doFilter(BaseFilter.java:49)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDoFilter(InvokerFilterChain.java:207)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:112)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDirectCallFilter(InvokerFilterChain.java:168)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:96)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDirectCallFilter(InvokerFilterChain.java:168)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:96)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDirectCallFilter(InvokerFilterChain.java:188)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:96)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilter.doFilter(InvokerFilter.java:100)_	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)_	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)_	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:199)_	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)_	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:491)_	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)_	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)_	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)_	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)_	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408)_	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)_	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:764)_	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1388)_	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)_	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)_	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)_	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)_	at java.lang.Thread.run(Thread.java:748)_ [Sanitized]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.remote.jaxrs.whiteboard.internal.log.LiferayCXFLogger" method="internalLogFormatted" file="LiferayCXFLogger.java" line="88"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.apio.architect.impl.jaxrs.json.util.ErrorUtil" timestamp="1537922577619" level="ERROR" thread="http-nio-8080-exec-7">
+<log4j:message><![CDATA[Field "fieldValues" is required]]></log4j:message>
+<log4j:locationInfo class="com.liferay.apio.architect.impl.jaxrs.json.util.ErrorUtil" method="getErrorResponse" file="ErrorUtil.java" line="79"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.apio.architect.impl.jaxrs.json.util.ErrorUtil" timestamp="1537922601593" level="ERROR" thread="http-nio-8080-exec-10">
+<log4j:message><![CDATA[Field "fieldValues" is required]]></log4j:message>
+<log4j:locationInfo class="com.liferay.apio.architect.impl.jaxrs.json.util.ErrorUtil" method="getErrorResponse" file="ErrorUtil.java" line="79"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.apio.architect.impl.jaxrs.json.util.ErrorUtil" timestamp="1537922612390" level="ERROR" thread="http-nio-8080-exec-6">
+<log4j:message><![CDATA[com.google.gson.stream.MalformedJsonException: Unterminated string at line 1 column 32 path $[0].name]]></log4j:message>
+<log4j:locationInfo class="com.liferay.apio.architect.impl.jaxrs.json.util.ErrorUtil" method="getErrorResponse" file="ErrorUtil.java" line="79"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.apio.architect.impl.jaxrs.json.util.ErrorUtil" timestamp="1537922616255" level="ERROR" thread="http-nio-8080-exec-9">
+<log4j:message><![CDATA[com.google.gson.stream.MalformedJsonException: Unterminated string at line 1 column 32 path $[0].name]]></log4j:message>
+<log4j:locationInfo class="com.liferay.apio.architect.impl.jaxrs.json.util.ErrorUtil" method="getErrorResponse" file="ErrorUtil.java" line="79"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.apio.architect.impl.jaxrs.json.util.ErrorUtil" timestamp="1537922623411" level="ERROR" thread="http-nio-8080-exec-1">
+<log4j:message><![CDATA[com.google.gson.stream.MalformedJsonException: Unterminated string at line 1 column 32 path $[0].name]]></log4j:message>
+<log4j:locationInfo class="com.liferay.apio.architect.impl.jaxrs.json.util.ErrorUtil" method="getErrorResponse" file="ErrorUtil.java" line="79"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.apio.architect.impl.jaxrs.json.util.ErrorUtil" timestamp="1537922655197" level="ERROR" thread="http-nio-8080-exec-2">
+<log4j:message><![CDATA[com.google.gson.stream.MalformedJsonException: Unterminated string at line 1 column 32 path $[0].name]]></log4j:message>
+<log4j:locationInfo class="com.liferay.apio.architect.impl.jaxrs.json.util.ErrorUtil" method="getErrorResponse" file="ErrorUtil.java" line="79"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.apio.architect.impl.jaxrs.json.util.ErrorUtil" timestamp="1537922660270" level="ERROR" thread="http-nio-8080-exec-8">
+<log4j:message><![CDATA[com.google.gson.stream.MalformedJsonException: Unterminated string at line 1 column 32 path $[0].name]]></log4j:message>
+<log4j:locationInfo class="com.liferay.apio.architect.impl.jaxrs.json.util.ErrorUtil" method="getErrorResponse" file="ErrorUtil.java" line="79"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.apio.architect.impl.jaxrs.json.util.ErrorUtil" timestamp="1537922690705" level="ERROR" thread="http-nio-8080-exec-3">
+<log4j:message><![CDATA[com.google.gson.stream.MalformedJsonException: Unterminated string at line 1 column 32 path $[0].name]]></log4j:message>
+<log4j:locationInfo class="com.liferay.apio.architect.impl.jaxrs.json.util.ErrorUtil" method="getErrorResponse" file="ErrorUtil.java" line="79"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.apio.architect.impl.jaxrs.json.util.ErrorUtil" timestamp="1537922729105" level="ERROR" thread="http-nio-8080-exec-4">
+<log4j:message><![CDATA[com.google.gson.stream.MalformedJsonException: Unterminated string at line 1 column 32 path $[0].name]]></log4j:message>
+<log4j:locationInfo class="com.liferay.apio.architect.impl.jaxrs.json.util.ErrorUtil" method="getErrorResponse" file="ErrorUtil.java" line="79"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.apio.architect.impl.jaxrs.json.util.ErrorUtil" timestamp="1537922795809" level="ERROR" thread="http-nio-8080-exec-5">
+<log4j:message><![CDATA[com.google.gson.stream.MalformedJsonException: Unterminated string at line 1 column 32 path $[0].name]]></log4j:message>
+<log4j:locationInfo class="com.liferay.apio.architect.impl.jaxrs.json.util.ErrorUtil" method="getErrorResponse" file="ErrorUtil.java" line="79"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.apio.architect.impl.jaxrs.json.util.ErrorUtil" timestamp="1537922807366" level="ERROR" thread="http-nio-8080-exec-7">
+<log4j:message><![CDATA[com.google.gson.stream.MalformedJsonException: Unterminated string at line 1 column 32 path $[0].name]]></log4j:message>
+<log4j:locationInfo class="com.liferay.apio.architect.impl.jaxrs.json.util.ErrorUtil" method="getErrorResponse" file="ErrorUtil.java" line="79"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.apio.architect.impl.jaxrs.json.util.ErrorUtil" timestamp="1537922821088" level="ERROR" thread="http-nio-8080-exec-10">
+<log4j:message><![CDATA[Field "isDraft" is required]]></log4j:message>
+<log4j:locationInfo class="com.liferay.apio.architect.impl.jaxrs.json.util.ErrorUtil" method="getErrorResponse" file="ErrorUtil.java" line="79"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.apio.architect.impl.jaxrs.json.util.ErrorUtil" timestamp="1537922826643" level="ERROR" thread="http-nio-8080-exec-6">
+<log4j:message><![CDATA[com.google.gson.stream.MalformedJsonException: Unterminated string at line 1 column 32 path $[0].name]]></log4j:message>
+<log4j:locationInfo class="com.liferay.apio.architect.impl.jaxrs.json.util.ErrorUtil" method="getErrorResponse" file="ErrorUtil.java" line="79"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.apio.architect.impl.jaxrs.json.util.ErrorUtil" timestamp="1537922939326" level="ERROR" thread="http-nio-8080-exec-9">
+<log4j:message><![CDATA[com.google.gson.stream.MalformedJsonException: Unterminated string at line 1 column 32 path $[0].name]]></log4j:message>
+<log4j:locationInfo class="com.liferay.apio.architect.impl.jaxrs.json.util.ErrorUtil" method="getErrorResponse" file="ErrorUtil.java" line="79"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.apio.architect.impl.jaxrs.json.util.ErrorUtil" timestamp="1537922944550" level="ERROR" thread="http-nio-8080-exec-9">
+<log4j:message><![CDATA[com.google.gson.stream.MalformedJsonException: Unterminated string at line 1 column 32 path $[0].name]]></log4j:message>
+<log4j:locationInfo class="com.liferay.apio.architect.impl.jaxrs.json.util.ErrorUtil" method="getErrorResponse" file="ErrorUtil.java" line="79"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.apio.architect.impl.jaxrs.json.util.ErrorUtil" timestamp="1537922949532" level="ERROR" thread="http-nio-8080-exec-1">
+<log4j:message><![CDATA[com.google.gson.stream.MalformedJsonException: Unterminated string at line 1 column 32 path $[0].name]]></log4j:message>
+<log4j:locationInfo class="com.liferay.apio.architect.impl.jaxrs.json.util.ErrorUtil" method="getErrorResponse" file="ErrorUtil.java" line="79"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.apio.architect.impl.jaxrs.json.util.ErrorUtil" timestamp="1537922966126" level="ERROR" thread="http-nio-8080-exec-4">
+<log4j:message><![CDATA[com.google.gson.stream.MalformedJsonException: Unterminated string at line 1 column 32 path $[0].name]]></log4j:message>
+<log4j:locationInfo class="com.liferay.apio.architect.impl.jaxrs.json.util.ErrorUtil" method="getErrorResponse" file="ErrorUtil.java" line="79"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.apio.architect.impl.jaxrs.json.util.ErrorUtil" timestamp="1537922981633" level="ERROR" thread="http-nio-8080-exec-10">
+<log4j:message><![CDATA[com.google.gson.stream.MalformedJsonException: Unterminated string at line 1 column 32 path $[0].name]]></log4j:message>
+<log4j:locationInfo class="com.liferay.apio.architect.impl.jaxrs.json.util.ErrorUtil" method="getErrorResponse" file="ErrorUtil.java" line="79"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.apio.architect.impl.jaxrs.json.util.ErrorUtil" timestamp="1537922989958" level="ERROR" thread="http-nio-8080-exec-6">
+<log4j:message><![CDATA[com.google.gson.stream.MalformedJsonException: Unterminated string at line 1 column 32 path $[0].name]]></log4j:message>
+<log4j:locationInfo class="com.liferay.apio.architect.impl.jaxrs.json.util.ErrorUtil" method="getErrorResponse" file="ErrorUtil.java" line="79"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.apio.architect.impl.jaxrs.json.util.ErrorUtil" timestamp="1537923570171" level="ERROR" thread="http-nio-8080-exec-3">
+<log4j:message><![CDATA[com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 33 path $]]></log4j:message>
+<log4j:locationInfo class="com.liferay.apio.architect.impl.jaxrs.json.util.ErrorUtil" method="getErrorResponse" file="ErrorUtil.java" line="79"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.apio.architect.impl.jaxrs.json.util.ErrorUtil" timestamp="1537923596779" level="ERROR" thread="http-nio-8080-exec-7">
+<log4j:message><![CDATA[java.lang.IllegalStateException: Expected BEGIN_ARRAY but was STRING at line 1 column 2 path $]]></log4j:message>
+<log4j:locationInfo class="com.liferay.apio.architect.impl.jaxrs.json.util.ErrorUtil" method="getErrorResponse" file="ErrorUtil.java" line="79"/>
+</log4j:event>
+
+<log4j:event logger="org.apache.cxf.jaxrs.utils.JAXRSUtils" timestamp="1537923672426" level="ERROR" thread="http-nio-8080-exec-5">
+<log4j:message><![CDATA[Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.remote.jaxrs.whiteboard.internal.log.LiferayCXFLogger" method="internalLogFormatted" file="LiferayCXFLogger.java" line="83"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.apio.architect.impl.jaxrs.json.util.ErrorUtil" timestamp="1537923672427" level="ERROR" thread="http-nio-8080-exec-5">
+<log4j:message><![CDATA[java.lang.NullPointerException]]></log4j:message>
+<log4j:locationInfo class="com.liferay.apio.architect.impl.jaxrs.json.util.ErrorUtil" method="getErrorResponse" file="ErrorUtil.java" line="79"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.apio.architect.impl.jaxrs.json.util.ErrorUtil" timestamp="1537923757003" level="ERROR" thread="http-nio-8080-exec-9">
+<log4j:message><![CDATA[User 20103 must have ADD_FORM_INSTANCE_RECORD permission for com.liferay.dynamic.data.mapping.model.DDMFormInstance 36432]]></log4j:message>
+<log4j:locationInfo class="com.liferay.apio.architect.impl.jaxrs.json.util.ErrorUtil" method="getErrorResponse" file="ErrorUtil.java" line="79"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1537930640845" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=1h40m18s744ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1537930640872" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h40m18s742ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1537933861422" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=53m40s520ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1537933861503" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=53m40s658ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1537937098356" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=53m56s839ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1537937098374" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=53m56s945ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1537940335324" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=53m56s937ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1537940335343" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=53m56s930ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1537943582649" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=54m7s361ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1537943582649" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=54m7s364ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1537946809372" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=53m46s708ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1537946809372" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=53m46s703ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1537947133415" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m24s2ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1537947133420" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=5m24s17ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1537947215481" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m22s28ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1537947215485" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=1m22s8ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1537954434370" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=2h18s936ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1537954434394" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2h18s913ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1537957673364" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=53m58s962ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1537957673364" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=53m58s992ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1537959447410" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=28m54s365ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1537959447420" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=28m54s351ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1537961876212" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=40m28s936ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1537961876218" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=40m28s928ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.netflix.config.sources.URLConfigurationSource" timestamp="1537979627384" level="WARN" thread="http-nio-8080-exec-1">
+<log4j:message><![CDATA[No URLs will be polled as dynamic configuration sources.]]></log4j:message>
+<log4j:locationInfo class="com.netflix.config.sources.URLConfigurationSource" method="&lt;init&gt;" file="URLConfigurationSource.java" line="122"/>
+</log4j:event>
+
+<log4j:event logger="com.netflix.config.sources.URLConfigurationSource" timestamp="1537979627387" level="INFO" thread="http-nio-8080-exec-1">
+<log4j:message><![CDATA[To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.]]></log4j:message>
+<log4j:locationInfo class="com.netflix.config.sources.URLConfigurationSource" method="&lt;init&gt;" file="URLConfigurationSource.java" line="123"/>
+</log4j:event>
+
+<log4j:event logger="com.netflix.config.DynamicPropertyFactory" timestamp="1537979627402" level="INFO" thread="http-nio-8080-exec-1">
+<log4j:message><![CDATA[DynamicPropertyFactory is initialized with configuration sources: com.netflix.config.ConcurrentCompositeConfiguration@40664be4]]></log4j:message>
+<log4j:locationInfo class="com.netflix.config.DynamicPropertyFactory" method="getInstance" file="DynamicPropertyFactory.java" line="266"/>
+</log4j:event>
+
+<log4j:event logger="org.apache.cxf.jaxrs.utils.JAXRSUtils" timestamp="1537979799884" level="ERROR" thread="http-nio-8080-exec-5">
+<log4j:message><![CDATA[Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.remote.jaxrs.whiteboard.internal.log.LiferayCXFLogger" method="internalLogFormatted" file="LiferayCXFLogger.java" line="83"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.apio.architect.impl.jaxrs.json.util.ErrorUtil" timestamp="1537979799887" level="ERROR" thread="http-nio-8080-exec-5">
+<log4j:message><![CDATA[java.lang.NullPointerException]]></log4j:message>
+<log4j:locationInfo class="com.liferay.apio.architect.impl.jaxrs.json.util.ErrorUtil" method="getErrorResponse" file="ErrorUtil.java" line="79"/>
+</log4j:event>
+
+<log4j:event logger="org.apache.cxf.jaxrs.utils.JAXRSUtils" timestamp="1537980175478" level="ERROR" thread="http-nio-8080-exec-2">
+<log4j:message><![CDATA[Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.remote.jaxrs.whiteboard.internal.log.LiferayCXFLogger" method="internalLogFormatted" file="LiferayCXFLogger.java" line="83"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.apio.architect.impl.jaxrs.json.util.ErrorUtil" timestamp="1537980175481" level="ERROR" thread="http-nio-8080-exec-2">
+<log4j:message><![CDATA[java.lang.NullPointerException]]></log4j:message>
+<log4j:locationInfo class="com.liferay.apio.architect.impl.jaxrs.json.util.ErrorUtil" method="getErrorResponse" file="ErrorUtil.java" line="79"/>
+</log4j:event>
+
+<log4j:event logger="org.apache.cxf.jaxrs.utils.JAXRSUtils" timestamp="1537980240850" level="ERROR" thread="http-nio-8080-exec-5">
+<log4j:message><![CDATA[Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.remote.jaxrs.whiteboard.internal.log.LiferayCXFLogger" method="internalLogFormatted" file="LiferayCXFLogger.java" line="83"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.apio.architect.impl.jaxrs.json.util.ErrorUtil" timestamp="1537980240852" level="ERROR" thread="http-nio-8080-exec-5">
+<log4j:message><![CDATA[java.lang.NullPointerException]]></log4j:message>
+<log4j:locationInfo class="com.liferay.apio.architect.impl.jaxrs.json.util.ErrorUtil" method="getErrorResponse" file="ErrorUtil.java" line="79"/>
+</log4j:event>
+
+<log4j:event logger="org.apache.cxf.jaxrs.utils.JAXRSUtils" timestamp="1537980428748" level="ERROR" thread="http-nio-8080-exec-6">
+<log4j:message><![CDATA[Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.remote.jaxrs.whiteboard.internal.log.LiferayCXFLogger" method="internalLogFormatted" file="LiferayCXFLogger.java" line="83"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.apio.architect.impl.jaxrs.json.util.ErrorUtil" timestamp="1537980428749" level="ERROR" thread="http-nio-8080-exec-6">
+<log4j:message><![CDATA[java.lang.NullPointerException]]></log4j:message>
+<log4j:locationInfo class="com.liferay.apio.architect.impl.jaxrs.json.util.ErrorUtil" method="getErrorResponse" file="ErrorUtil.java" line="79"/>
+</log4j:event>
+
+<log4j:event logger="org.hibernate.util.JDBCExceptionReporter" timestamp="1537983207535" level="ERROR" thread="http-nio-8080-exec-9">
+<log4j:message><![CDATA[Duplicate entry '36429-1.7' for key 'IX_64C3C42']]></log4j:message>
+<log4j:locationInfo class="org.hibernate.util.JDBCExceptionReporter" method="logExceptions" file="JDBCExceptionReporter.java" line="234"/>
+</log4j:event>
+
+<log4j:event logger="org.apache.cxf.jaxrs.utils.JAXRSUtils" timestamp="1537995794344" level="ERROR" thread="http-nio-8080-exec-5">
+<log4j:message><![CDATA[Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.remote.jaxrs.whiteboard.internal.log.LiferayCXFLogger" method="internalLogFormatted" file="LiferayCXFLogger.java" line="83"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.apio.architect.impl.jaxrs.json.util.ErrorUtil" timestamp="1537995794346" level="ERROR" thread="http-nio-8080-exec-5">
+<log4j:message><![CDATA[java.lang.NullPointerException]]></log4j:message>
+<log4j:locationInfo class="com.liferay.apio.architect.impl.jaxrs.json.util.ErrorUtil" method="getErrorResponse" file="ErrorUtil.java" line="79"/>
+</log4j:event>
+
+<log4j:event logger="org.apache.cxf.jaxrs.utils.JAXRSUtils" timestamp="1537995800986" level="ERROR" thread="http-nio-8080-exec-8">
+<log4j:message><![CDATA[Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.remote.jaxrs.whiteboard.internal.log.LiferayCXFLogger" method="internalLogFormatted" file="LiferayCXFLogger.java" line="83"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.apio.architect.impl.jaxrs.json.util.ErrorUtil" timestamp="1537995800987" level="ERROR" thread="http-nio-8080-exec-8">
+<log4j:message><![CDATA[java.lang.NullPointerException]]></log4j:message>
+<log4j:locationInfo class="com.liferay.apio.architect.impl.jaxrs.json.util.ErrorUtil" method="getErrorResponse" file="ErrorUtil.java" line="79"/>
+</log4j:event>
+
+<log4j:event logger="org.apache.cxf.jaxrs.utils.JAXRSUtils" timestamp="1537997390292" level="ERROR" thread="http-nio-8080-exec-8">
+<log4j:message><![CDATA[Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.remote.jaxrs.whiteboard.internal.log.LiferayCXFLogger" method="internalLogFormatted" file="LiferayCXFLogger.java" line="83"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.apio.architect.impl.jaxrs.json.util.ErrorUtil" timestamp="1537997390295" level="ERROR" thread="http-nio-8080-exec-8">
+<log4j:message><![CDATA[java.lang.NullPointerException]]></log4j:message>
+<log4j:locationInfo class="com.liferay.apio.architect.impl.jaxrs.json.util.ErrorUtil" method="getErrorResponse" file="ErrorUtil.java" line="79"/>
+</log4j:event>
+
+<log4j:event logger="org.apache.cxf.jaxrs.utils.JAXRSUtils" timestamp="1537997391814" level="ERROR" thread="http-nio-8080-exec-5">
+<log4j:message><![CDATA[Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.remote.jaxrs.whiteboard.internal.log.LiferayCXFLogger" method="internalLogFormatted" file="LiferayCXFLogger.java" line="83"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.apio.architect.impl.jaxrs.json.util.ErrorUtil" timestamp="1537997391814" level="ERROR" thread="http-nio-8080-exec-5">
+<log4j:message><![CDATA[java.lang.NullPointerException]]></log4j:message>
+<log4j:locationInfo class="com.liferay.apio.architect.impl.jaxrs.json.util.ErrorUtil" method="getErrorResponse" file="ErrorUtil.java" line="79"/>
+</log4j:event>
+
+<log4j:event logger="org.apache.cxf.jaxrs.utils.JAXRSUtils" timestamp="1537997457003" level="ERROR" thread="http-nio-8080-exec-10">
+<log4j:message><![CDATA[Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.remote.jaxrs.whiteboard.internal.log.LiferayCXFLogger" method="internalLogFormatted" file="LiferayCXFLogger.java" line="83"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.apio.architect.impl.jaxrs.json.util.ErrorUtil" timestamp="1537997457005" level="ERROR" thread="http-nio-8080-exec-10">
+<log4j:message><![CDATA[java.lang.NullPointerException]]></log4j:message>
+<log4j:locationInfo class="com.liferay.apio.architect.impl.jaxrs.json.util.ErrorUtil" method="getErrorResponse" file="ErrorUtil.java" line="79"/>
+</log4j:event>
+
+<log4j:event logger="org.apache.cxf.jaxrs.utils.JAXRSUtils" timestamp="1537997526528" level="ERROR" thread="http-nio-8080-exec-1">
+<log4j:message><![CDATA[Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.remote.jaxrs.whiteboard.internal.log.LiferayCXFLogger" method="internalLogFormatted" file="LiferayCXFLogger.java" line="83"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.apio.architect.impl.jaxrs.json.util.ErrorUtil" timestamp="1537997526530" level="ERROR" thread="http-nio-8080-exec-1">
+<log4j:message><![CDATA[java.lang.NullPointerException]]></log4j:message>
+<log4j:locationInfo class="com.liferay.apio.architect.impl.jaxrs.json.util.ErrorUtil" method="getErrorResponse" file="ErrorUtil.java" line="79"/>
+</log4j:event>
+
+<log4j:event logger="org.apache.cxf.jaxrs.utils.JAXRSUtils" timestamp="1537997680066" level="ERROR" thread="http-nio-8080-exec-2">
+<log4j:message><![CDATA[Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.remote.jaxrs.whiteboard.internal.log.LiferayCXFLogger" method="internalLogFormatted" file="LiferayCXFLogger.java" line="83"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.apio.architect.impl.jaxrs.json.util.ErrorUtil" timestamp="1537997680068" level="ERROR" thread="http-nio-8080-exec-2">
+<log4j:message><![CDATA[java.lang.NullPointerException]]></log4j:message>
+<log4j:locationInfo class="com.liferay.apio.architect.impl.jaxrs.json.util.ErrorUtil" method="getErrorResponse" file="ErrorUtil.java" line="79"/>
+</log4j:event>
+
+<log4j:event logger="org.apache.cxf.jaxrs.utils.JAXRSUtils" timestamp="1537997767512" level="ERROR" thread="http-nio-8080-exec-4">
+<log4j:message><![CDATA[Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.remote.jaxrs.whiteboard.internal.log.LiferayCXFLogger" method="internalLogFormatted" file="LiferayCXFLogger.java" line="83"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.apio.architect.impl.jaxrs.json.util.ErrorUtil" timestamp="1537997767527" level="ERROR" thread="http-nio-8080-exec-4">
+<log4j:message><![CDATA[java.lang.NullPointerException]]></log4j:message>
+<log4j:locationInfo class="com.liferay.apio.architect.impl.jaxrs.json.util.ErrorUtil" method="getErrorResponse" file="ErrorUtil.java" line="79"/>
+</log4j:event>
+
+<log4j:event logger="org.apache.cxf.jaxrs.utils.JAXRSUtils" timestamp="1537997769535" level="ERROR" thread="http-nio-8080-exec-7">
+<log4j:message><![CDATA[Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.remote.jaxrs.whiteboard.internal.log.LiferayCXFLogger" method="internalLogFormatted" file="LiferayCXFLogger.java" line="83"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.apio.architect.impl.jaxrs.json.util.ErrorUtil" timestamp="1537997769537" level="ERROR" thread="http-nio-8080-exec-7">
+<log4j:message><![CDATA[java.lang.NullPointerException]]></log4j:message>
+<log4j:locationInfo class="com.liferay.apio.architect.impl.jaxrs.json.util.ErrorUtil" method="getErrorResponse" file="ErrorUtil.java" line="79"/>
+</log4j:event>
+
+<log4j:event logger="org.apache.cxf.jaxrs.utils.JAXRSUtils" timestamp="1537997803612" level="ERROR" thread="http-nio-8080-exec-8">
+<log4j:message><![CDATA[Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.remote.jaxrs.whiteboard.internal.log.LiferayCXFLogger" method="internalLogFormatted" file="LiferayCXFLogger.java" line="83"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.apio.architect.impl.jaxrs.json.util.ErrorUtil" timestamp="1537997803614" level="ERROR" thread="http-nio-8080-exec-8">
+<log4j:message><![CDATA[java.lang.NullPointerException]]></log4j:message>
+<log4j:locationInfo class="com.liferay.apio.architect.impl.jaxrs.json.util.ErrorUtil" method="getErrorResponse" file="ErrorUtil.java" line="79"/>
+</log4j:event>
+
+<log4j:event logger="org.apache.cxf.jaxrs.utils.JAXRSUtils" timestamp="1537997807056" level="ERROR" thread="http-nio-8080-exec-4">
+<log4j:message><![CDATA[Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.remote.jaxrs.whiteboard.internal.log.LiferayCXFLogger" method="internalLogFormatted" file="LiferayCXFLogger.java" line="83"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.apio.architect.impl.jaxrs.json.util.ErrorUtil" timestamp="1537997807057" level="ERROR" thread="http-nio-8080-exec-4">
+<log4j:message><![CDATA[java.lang.NullPointerException]]></log4j:message>
+<log4j:locationInfo class="com.liferay.apio.architect.impl.jaxrs.json.util.ErrorUtil" method="getErrorResponse" file="ErrorUtil.java" line="79"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1538001855162" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=1h2m5s721ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1538001855162" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h2m5s721ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+

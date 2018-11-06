@@ -1,0 +1,172 @@
+2018-10-10 12:16:33.186 INFO  [main][DialectDetector:158] Using dialect org.hibernate.dialect.MySQLDialect for MySQL 5.7
+2018-10-10 12:16:35.511 INFO  [main][ModuleFrameworkImpl:1292] Starting initial bundles
+2018-10-10 12:16:37.004 INFO  [main][ModuleFrameworkImpl:1555] Started initial bundles
+2018-10-10 12:16:37.005 INFO  [main][ModuleFrameworkImpl:1590] Starting dynamic bundles
+2018-10-10 12:16:45.824 INFO  [main][ModuleFrameworkImpl:1679] Started dynamic bundles
+2018-10-10 12:16:45.826 INFO  [main][ModuleFrameworkImpl:414] Navigate to Control Panel > Configuration > Gogo Shell and enter "lb" to see all bundles
+2018-10-10 12:16:51.749 WARN  [Elasticsearch initialization thread][EmbeddedElasticsearchConnection:286] Liferay is configured to use embedded Elasticsearch as its search engine. Do NOT use embedded Elasticsearch in production. Embedded Elasticsearch is useful for development and demonstration purposes. Remote Elasticsearch connections can be configured in the Control Panel.
+2018-10-10 12:16:58.455 INFO  [main][StartupHelper:72] There are no patches installed
+2018-10-10 12:16:59.810 INFO  [main][AutoDeployDir:193] Auto deploy scanner started for /Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/deploy
+2018-10-10 12:17:38.584 INFO  [main][ThemeHotDeployListener:108] 1 theme for classic-theme is available for use
+2018-10-10 12:17:39.121 INFO  [main][ThemeHotDeployListener:108] 1 theme for admin-theme is available for use
+2018-10-10 12:17:39.599 INFO  [main][ThemeHotDeployListener:108] 1 theme for fjord-theme is available for use
+2018-10-10 12:17:46.268 INFO  [main][HookHotDeployListener:521] Hook for opensocial-portlet is available for use
+2018-10-10 12:17:46.756 INFO  [main][PortletHotDeployListener:329] 4 portlets for opensocial-portlet are available for use
+2018-10-10 12:17:47.887 INFO  [main][ThemeHotDeployListener:108] 1 theme for porygon-theme is available for use
+2018-10-10 12:17:48.456 INFO  [main][HookHotDeployListener:521] Hook for powwow-portlet is available for use
+2018-10-10 12:17:48.568 INFO  [main][PortletHotDeployListener:329] 2 portlets for powwow-portlet are available for use
+2018-10-10 12:17:48.832 INFO  [main][HookHotDeployListener:521] Hook for social-bookmarks-hook is available for use
+2018-10-10 12:17:49.273 INFO  [main][HookHotDeployListener:521] Hook for tasks-portlet is available for use
+2018-10-10 12:17:49.400 INFO  [main][PortletHotDeployListener:329] 2 portlets for tasks-portlet are available for use
+2018-10-10 12:17:49.856 INFO  [main][ThemeHotDeployListener:108] 1 theme for westeros-bank-theme is available for use
+2018-10-10 12:17:49.892 INFO  [main][SystemCheckOSGiCommands:54] System check is enabled. You can run a system check with the command "system:check" in Gogo shell.
+2018-10-10 16:32:31.743 WARN  [HikariPool-2 housekeeper][HikariPool:686] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=2m25s429ms).
+2018-10-10 16:33:00.711 WARN  [HikariPool-1 housekeeper][HikariPool:686] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m26s572ms).
+2018-10-10 17:05:29.480 WARN  [HikariPool-1 housekeeper][HikariPool:686] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=10m28s699ms).
+2018-10-10 17:05:32.160 WARN  [HikariPool-2 housekeeper][HikariPool:686] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=10m28s702ms).
+2018-10-10 17:11:54.704 WARN  [HikariPool-1 housekeeper][HikariPool:686] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=6m25s224ms).
+2018-10-10 17:11:57.375 WARN  [HikariPool-2 housekeeper][HikariPool:686] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=6m25s215ms).
+2018-10-10 17:35:41.705 WARN  [HikariPool-1 housekeeper][HikariPool:686] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=46s829ms).
+2018-10-10 17:35:44.413 WARN  [HikariPool-2 housekeeper][HikariPool:686] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=46s829ms).
+2018-10-10 18:01:29.350 ERROR [http-nio-8080-exec-7][JAXRSUtils:83] Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json
+2018-10-10 18:01:29.362 ERROR [http-nio-8080-exec-7][ErrorUtil:79] java.lang.NullPointerException
+2018-10-10 18:03:23.208 ERROR [http-nio-8080-exec-4][ErrorUtil:79] No endpoint found at path form
+2018-10-10 18:03:31.136 ERROR [http-nio-8080-exec-7][ErrorUtil:79] No endpoint found at path form
+2018-10-10 18:03:42.786 ERROR [http-nio-8080-exec-10][ErrorUtil:79] No endpoint found at path form
+2018-10-10 18:04:15.941 ERROR [http-nio-8080-exec-6][ErrorUtil:79] POST method is not allowed for path content-space
+2018-10-10 18:04:21.837 WARN  [http-nio-8080-exec-10][WebApplicationExceptionMapper:88] javax.ws.rs.ClientErrorException: HTTP 405 Method Not Allowed_	at org.apache.cxf.jaxrs.utils.SpecExceptions.toHttpException(SpecExceptions.java:117)_	at org.apache.cxf.jaxrs.utils.ExceptionUtils.toHttpException(ExceptionUtils.java:167)_	at org.apache.cxf.jaxrs.utils.JAXRSUtils.findTargetMethod(JAXRSUtils.java:514)_	at org.apache.cxf.jaxrs.interceptor.JAXRSInInterceptor.processRequest(JAXRSInInterceptor.java:181)_	at org.apache.cxf.jaxrs.interceptor.JAXRSInInterceptor.handleMessage(JAXRSInInterceptor.java:78)_	at org.apache.cxf.phase.PhaseInterceptorChain.doIntercept(PhaseInterceptorChain.java:308)_	at org.apache.cxf.transport.ChainInitiationObserver.onMessage(ChainInitiationObserver.java:121)_	at org.apache.cxf.transport.http.AbstractHTTPDestination.invoke(AbstractHTTPDestination.java:267)_	at org.apache.cxf.transport.servlet.ServletController.invokeDestination(ServletController.java:234)_	at org.apache.cxf.transport.servlet.ServletController.invoke(ServletController.java:208)_	at org.apache.cxf.transport.servlet.ServletController.invoke(ServletController.java:160)_	at org.apache.cxf.transport.servlet.CXFNonSpringServlet.invoke(CXFNonSpringServlet.java:216)_	at org.apache.cxf.transport.servlet.AbstractHTTPServlet.handleRequest(AbstractHTTPServlet.java:301)_	at org.apache.cxf.transport.servlet.AbstractHTTPServlet.doPost(AbstractHTTPServlet.java:220)_	at javax.servlet.http.HttpServlet.service(HttpServlet.java:660)_	at org.apache.cxf.transport.servlet.AbstractHTTPServlet.service(AbstractHTTPServlet.java:276)_	at org.eclipse.equinox.http.servlet.internal.registration.EndpointRegistration.service(EndpointRegistration.java:153)_	at org.eclipse.equinox.http.servlet.internal.servlet.FilterChainImpl.doFilter(FilterChainImpl.java:50)_	at com.liferay.portal.kernel.servlet.BaseFilter.processFilter(BaseFilter.java:144)_	at com.liferay.portal.servlet.filters.authverifier.AuthVerifierFilter.processFilter(AuthVerifierFilter.java:188)_	at com.liferay.portal.kernel.servlet.BaseFilter.doFilter(BaseFilter.java:49)_	at org.eclipse.equinox.http.servlet.internal.registration.FilterRegistration.doFilter(FilterRegistration.java:121)_	at org.eclipse.equinox.http.servlet.internal.servlet.FilterChainImpl.doFilter(FilterChainImpl.java:45)_	at org.eclipse.equinox.http.servlet.internal.servlet.ResponseStateHandler.processRequest(ResponseStateHandler.java:70)_	at org.eclipse.equinox.http.servlet.internal.context.DispatchTargets.doDispatch(DispatchTargets.java:118)_	at org.eclipse.equinox.http.servlet.internal.HttpServiceRuntimeImpl.doDispatch(HttpServiceRuntimeImpl.java:373)_	at org.eclipse.equinox.http.servlet.internal.servlet.ProxyServlet.service(ProxyServlet.java:70)_	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)_	at com.liferay.portal.module.framework.ModuleFrameworkServletAdapter.service(ModuleFrameworkServletAdapter.java:51)_	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)_	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)_	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)_	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)_	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)_	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:119)_	at com.liferay.portal.kernel.servlet.BaseFilter.processFilter(BaseFilter.java:144)_	at com.liferay.portal.kernel.servlet.BaseFilter.processFilter(BaseFilter.java:103)_	at com.liferay.portal.apio.internal.architect.servlet.filter.APIDocumentationFilter.processFilter(APIDocumentationFilter.java:74)_	at com.liferay.portal.kernel.servlet.BaseFilter.doFilter(BaseFilter.java:49)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDoFilter(InvokerFilterChain.java:207)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:112)_	at com.liferay.portal.kernel.servlet.BaseFilter.processFilter(BaseFilter.java:144)_	at com.liferay.portal.sharepoint.SharepointFilter.processFilter(SharepointFilter.java:88)_	at com.liferay.portal.kernel.servlet.BaseFilter.doFilter(BaseFilter.java:49)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDoFilter(InvokerFilterChain.java:207)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:112)_	at com.liferay.portal.kernel.servlet.BaseFilter.processFilter(BaseFilter.java:144)_	at com.liferay.portal.servlet.filters.virtualhost.VirtualHostFilter.processFilter(VirtualHostFilter.java:263)_	at com.liferay.portal.kernel.servlet.BaseFilter.doFilter(BaseFilter.java:49)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDoFilter(InvokerFilterChain.java:207)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:112)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDirectCallFilter(InvokerFilterChain.java:188)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:96)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDirectCallFilter(InvokerFilterChain.java:188)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:96)_	at org.tuckey.web.filters.urlrewrite.RuleChain.handleRewrite(RuleChain.java:176)_	at org.tuckey.web.filters.urlrewrite.RuleChain.doRules(RuleChain.java:145)_	at org.tuckey.web.filters.urlrewrite.UrlRewriter.processRequest(UrlRewriter.java:92)_	at org.tuckey.web.filters.urlrewrite.UrlRewriteFilter.doFilter(UrlRewriteFilter.java:389)_	at com.liferay.portal.servlet.filters.urlrewrite.UrlRewriteFilter.processFilter(UrlRewriteFilter.java:65)_	at com.liferay.portal.kernel.servlet.BaseFilter.doFilter(BaseFilter.java:49)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDoFilter(InvokerFilterChain.java:207)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:112)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDirectCallFilter(InvokerFilterChain.java:168)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:96)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDirectCallFilter(InvokerFilterChain.java:168)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:96)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDirectCallFilter(InvokerFilterChain.java:188)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:96)_	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilter.doFilter(InvokerFilter.java:100)_	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)_	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)_	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:199)_	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)_	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:491)_	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)_	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)_	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)_	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)_	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408)_	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)_	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:764)_	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1388)_	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)_	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)_	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)_	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)_	at java.lang.Thread.run(Thread.java:748)_ [Sanitized]
+2018-10-10 18:04:36.854 ERROR [http-nio-8080-exec-5][ErrorUtil:79] User 20103 must have VIEW permission for com.liferay.portal.kernel.model.Group 
+2018-10-10 18:04:43.964 ERROR [http-nio-8080-exec-4][ErrorUtil:79] User 20103 must have VIEW permission for com.liferay.portal.kernel.model.Group 
+2018-10-10 18:08:32.010 ERROR [http-nio-8080-exec-9][ErrorUtil:79] No endpoint found at path form
+2018-10-10 18:08:35.582 ERROR [http-nio-8080-exec-5][ErrorUtil:79] No endpoint found at path form
+2018-10-10 18:11:17.696 ERROR [http-nio-8080-exec-8][ErrorUtil:79] No endpoint found at path form
+2018-10-10 18:11:56.282 ERROR [http-nio-8080-exec-2][JAXRSUtils:83] Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json
+2018-10-10 18:11:56.283 ERROR [http-nio-8080-exec-2][ErrorUtil:79] java.lang.NullPointerException
+2018-10-10 18:21:52.381 ERROR [http-nio-8080-exec-9][JAXRSUtils:83] Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json
+2018-10-10 18:21:52.383 ERROR [http-nio-8080-exec-9][ErrorUtil:79] java.lang.NullPointerException
+2018-10-10 18:23:04.468 ERROR [http-nio-8080-exec-2][JAXRSUtils:83] Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json
+2018-10-10 18:23:04.469 ERROR [http-nio-8080-exec-2][ErrorUtil:79] java.lang.NullPointerException
+2018-10-10 18:26:55.605 ERROR [http-nio-8080-exec-9][JAXRSUtils:83] Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json
+2018-10-10 18:26:55.607 ERROR [http-nio-8080-exec-9][ErrorUtil:79] java.lang.NullPointerException
+2018-10-10 18:26:57.236 ERROR [http-nio-8080-exec-1][JAXRSUtils:83] Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json
+2018-10-10 18:26:57.237 ERROR [http-nio-8080-exec-1][ErrorUtil:79] java.lang.NullPointerException
+2018-10-10 18:27:03.685 ERROR [http-nio-8080-exec-7][JAXRSUtils:83] Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json
+2018-10-10 18:27:03.686 ERROR [http-nio-8080-exec-7][ErrorUtil:79] java.lang.NullPointerException
+2018-10-10 18:27:16.483 ERROR [http-nio-8080-exec-2][JAXRSUtils:83] Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json
+2018-10-10 18:27:16.484 ERROR [http-nio-8080-exec-2][ErrorUtil:79] java.lang.NullPointerException
+2018-10-10 18:27:27.951 ERROR [http-nio-8080-exec-4][JAXRSUtils:83] Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json
+2018-10-10 18:27:27.952 ERROR [http-nio-8080-exec-4][ErrorUtil:79] java.lang.NullPointerException
+2018-10-10 18:27:45.230 ERROR [http-nio-8080-exec-3][JAXRSUtils:83] Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json
+2018-10-10 18:27:45.232 ERROR [http-nio-8080-exec-3][ErrorUtil:79] java.lang.NullPointerException
+2018-10-10 18:27:46.316 ERROR [http-nio-8080-exec-6][JAXRSUtils:83] Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json
+2018-10-10 18:27:46.317 ERROR [http-nio-8080-exec-6][ErrorUtil:79] java.lang.NullPointerException
+2018-10-10 18:27:47.175 ERROR [http-nio-8080-exec-9][JAXRSUtils:83] Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json
+2018-10-10 18:27:47.176 ERROR [http-nio-8080-exec-9][ErrorUtil:79] java.lang.NullPointerException
+2018-10-10 18:27:48.585 ERROR [http-nio-8080-exec-8][JAXRSUtils:83] Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json
+2018-10-10 18:27:48.586 ERROR [http-nio-8080-exec-8][ErrorUtil:79] java.lang.NullPointerException
+2018-10-10 18:27:52.069 ERROR [http-nio-8080-exec-1][JAXRSUtils:83] Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json
+2018-10-10 18:27:52.071 ERROR [http-nio-8080-exec-1][ErrorUtil:79] java.lang.NullPointerException
+2018-10-10 18:28:22.250 ERROR [http-nio-8080-exec-7][JAXRSUtils:83] Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json
+2018-10-10 18:28:22.252 ERROR [http-nio-8080-exec-7][ErrorUtil:79] java.lang.NullPointerException
+2018-10-10 18:28:59.202 ERROR [http-nio-8080-exec-10][JAXRSUtils:83] Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json
+2018-10-10 18:28:59.204 ERROR [http-nio-8080-exec-10][ErrorUtil:79] java.lang.NullPointerException
+2018-10-10 18:29:15.656 ERROR [http-nio-8080-exec-2][JAXRSUtils:83] Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json
+2018-10-10 18:29:15.658 ERROR [http-nio-8080-exec-2][ErrorUtil:79] java.lang.NullPointerException
+2018-10-10 18:29:25.422 ERROR [http-nio-8080-exec-5][JAXRSUtils:83] Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json
+2018-10-10 18:29:25.423 ERROR [http-nio-8080-exec-5][ErrorUtil:79] java.lang.NullPointerException
+2018-10-10 18:29:36.596 ERROR [http-nio-8080-exec-4][JAXRSUtils:83] Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json
+2018-10-10 18:29:36.596 ERROR [http-nio-8080-exec-4][ErrorUtil:79] java.lang.NullPointerException
+2018-10-10 18:37:39.807 ERROR [http-nio-8080-exec-1][JAXRSUtils:83] Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json
+2018-10-10 18:37:39.809 ERROR [http-nio-8080-exec-1][ErrorUtil:79] java.lang.NullPointerException
+2018-10-10 18:37:42.055 ERROR [http-nio-8080-exec-7][JAXRSUtils:83] Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json
+2018-10-10 18:37:42.056 ERROR [http-nio-8080-exec-7][ErrorUtil:79] java.lang.NullPointerException
+2018-10-10 18:39:41.229 ERROR [http-nio-8080-exec-3][JAXRSUtils:83] Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json
+2018-10-10 18:39:41.231 ERROR [http-nio-8080-exec-3][ErrorUtil:79] java.lang.NullPointerException
+2018-10-10 18:39:43.710 ERROR [http-nio-8080-exec-7][JAXRSUtils:83] Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json
+2018-10-10 18:39:43.711 ERROR [http-nio-8080-exec-7][ErrorUtil:79] java.lang.NullPointerException
+2018-10-10 18:39:51.602 ERROR [http-nio-8080-exec-9][JAXRSUtils:83] Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json
+2018-10-10 18:39:51.603 ERROR [http-nio-8080-exec-9][ErrorUtil:79] java.lang.NullPointerException
+2018-10-10 18:39:54.977 ERROR [http-nio-8080-exec-2][JAXRSUtils:83] Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json
+2018-10-10 18:39:54.977 ERROR [http-nio-8080-exec-2][ErrorUtil:79] java.lang.NullPointerException
+2018-10-10 18:40:02.417 ERROR [http-nio-8080-exec-3][JAXRSUtils:83] Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json
+2018-10-10 18:40:02.418 ERROR [http-nio-8080-exec-3][ErrorUtil:79] java.lang.NullPointerException
+2018-10-10 18:40:18.838 ERROR [http-nio-8080-exec-7][JAXRSUtils:83] Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json
+2018-10-10 18:40:18.839 ERROR [http-nio-8080-exec-7][ErrorUtil:79] java.lang.NullPointerException
+2018-10-10 18:40:26.870 ERROR [http-nio-8080-exec-2][JAXRSUtils:83] Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json
+2018-10-10 18:40:26.871 ERROR [http-nio-8080-exec-2][ErrorUtil:79] java.lang.NullPointerException
+2018-10-10 18:46:59.615 WARN  [HikariPool-1 housekeeper][HikariPool:686] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=6m47s642ms).
+2018-10-10 18:47:02.308 WARN  [HikariPool-2 housekeeper][HikariPool:686] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=6m47s641ms).
+2018-10-10 18:47:37.687 ERROR [http-nio-8080-exec-5][JAXRSUtils:83] Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json
+2018-10-10 18:47:37.694 ERROR [http-nio-8080-exec-5][ErrorUtil:79] java.lang.NullPointerException
+2018-10-10 18:49:39.576 ERROR [http-nio-8080-exec-8][JAXRSUtils:83] Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json
+2018-10-10 18:49:39.576 ERROR [http-nio-8080-exec-8][ErrorUtil:79] java.lang.NullPointerException
+2018-10-10 18:49:43.154 ERROR [http-nio-8080-exec-4][JAXRSUtils:83] Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json
+2018-10-10 18:49:43.155 ERROR [http-nio-8080-exec-4][ErrorUtil:79] java.lang.NullPointerException
+2018-10-10 18:49:55.749 ERROR [http-nio-8080-exec-7][JAXRSUtils:83] Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json
+2018-10-10 18:49:55.750 ERROR [http-nio-8080-exec-7][ErrorUtil:79] java.lang.NullPointerException
+2018-10-10 18:50:00.444 ERROR [http-nio-8080-exec-2][JAXRSUtils:83] Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json
+2018-10-10 18:50:00.444 ERROR [http-nio-8080-exec-2][ErrorUtil:79] java.lang.NullPointerException
+2018-10-10 18:50:40.389 ERROR [http-nio-8080-exec-5][JAXRSUtils:83] Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json
+2018-10-10 18:50:40.389 ERROR [http-nio-8080-exec-5][ErrorUtil:79] java.lang.NullPointerException
+2018-10-10 18:50:43.809 ERROR [http-nio-8080-exec-10][JAXRSUtils:83] Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json
+2018-10-10 18:50:43.810 ERROR [http-nio-8080-exec-10][ErrorUtil:79] java.lang.NullPointerException
+2018-10-10 18:50:56.656 ERROR [http-nio-8080-exec-4][JAXRSUtils:83] Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json
+2018-10-10 18:50:56.657 ERROR [http-nio-8080-exec-4][ErrorUtil:79] java.lang.NullPointerException
+2018-10-10 19:09:30.550 ERROR [http-nio-8080-exec-8][JAXRSUtils:83] Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json
+2018-10-10 19:09:31.026 ERROR [http-nio-8080-exec-8][ErrorUtil:79] java.lang.NullPointerException
+2018-10-10 19:09:51.215 WARN  [HikariPool-1 housekeeper][HikariPool:686] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=51s503ms).
+2018-10-10 19:09:53.937 WARN  [HikariPool-2 housekeeper][HikariPool:686] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=51s503ms).
+2018-10-10 19:10:01.598 ERROR [http-nio-8080-exec-4][JAXRSUtils:83] Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json
+2018-10-10 19:10:01.599 ERROR [http-nio-8080-exec-4][ErrorUtil:79] java.lang.NullPointerException
+2018-10-10 19:10:11.230 ERROR [http-nio-8080-exec-5][JAXRSUtils:83] Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json
+2018-10-10 19:10:11.231 ERROR [http-nio-8080-exec-5][ErrorUtil:79] java.lang.NullPointerException
+2018-10-10 19:10:25.182 ERROR [http-nio-8080-exec-2][JAXRSUtils:83] Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json
+2018-10-10 19:10:25.183 ERROR [http-nio-8080-exec-2][ErrorUtil:79] java.lang.NullPointerException
+2018-10-10 19:10:46.220 ERROR [http-nio-8080-exec-8][JAXRSUtils:83] Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json
+2018-10-10 19:10:46.221 ERROR [http-nio-8080-exec-8][ErrorUtil:79] java.lang.NullPointerException
+2018-10-10 19:10:52.986 ERROR [http-nio-8080-exec-6][JAXRSUtils:83] Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json
+2018-10-10 19:10:52.988 ERROR [http-nio-8080-exec-6][ErrorUtil:79] java.lang.NullPointerException
+2018-10-10 19:11:04.576 ERROR [http-nio-8080-exec-4][JAXRSUtils:83] Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json
+2018-10-10 19:11:04.578 ERROR [http-nio-8080-exec-4][ErrorUtil:79] java.lang.NullPointerException
+2018-10-10 19:11:40.777 ERROR [http-nio-8080-exec-9][JAXRSUtils:83] Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json
+2018-10-10 19:11:40.778 ERROR [http-nio-8080-exec-9][ErrorUtil:79] java.lang.NullPointerException
+2018-10-10 19:17:52.692 ERROR [http-nio-8080-exec-10][JAXRSUtils:83] Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json
+2018-10-10 19:17:52.692 ERROR [http-nio-8080-exec-10][ErrorUtil:79] java.lang.NullPointerException
+2018-10-10 19:19:23.889 WARN  [HikariPool-1 housekeeper][HikariPool:686] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m2s616ms).
+2018-10-10 19:19:27.801 WARN  [HikariPool-2 housekeeper][HikariPool:686] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=1m3s835ms).
+2018-10-10 19:21:06.711 ERROR [http-nio-8080-exec-10][JAXRSUtils:83] Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json
+2018-10-10 19:21:06.713 ERROR [http-nio-8080-exec-10][ErrorUtil:79] java.lang.NullPointerException
+2018-10-10 19:21:08.483 ERROR [http-nio-8080-exec-6][JAXRSUtils:83] Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json
+2018-10-10 19:21:08.483 ERROR [http-nio-8080-exec-6][ErrorUtil:79] java.lang.NullPointerException
+2018-10-10 19:21:31.831 ERROR [http-nio-8080-exec-9][JAXRSUtils:83] Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json
+2018-10-10 19:21:31.833 ERROR [http-nio-8080-exec-9][ErrorUtil:79] java.lang.NullPointerException
+2018-10-10 21:26:45.220 WARN  [HikariPool-1 housekeeper][HikariPool:686] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=7m49s478ms).
+2018-10-10 21:26:47.830 WARN  [HikariPool-2 housekeeper][HikariPool:686] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=7m49s479ms).
+2018-10-10 21:37:10.620 WARN  [HikariPool-1 housekeeper][HikariPool:686] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=10m25s400ms).
+2018-10-10 21:37:12.093 WARN  [HikariPool-2 housekeeper][HikariPool:686] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=10m24s262ms).
+2018-10-10 21:48:09.914 WARN  [HikariPool-1 housekeeper][HikariPool:686] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=10m27s226ms).
+2018-10-10 21:48:11.373 WARN  [HikariPool-2 housekeeper][HikariPool:686] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=10m27s217ms).
+2018-10-10 21:59:07.255 WARN  [HikariPool-1 housekeeper][HikariPool:686] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=10m27s331ms).
+2018-10-10 21:59:08.702 WARN  [HikariPool-2 housekeeper][HikariPool:686] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=10m27s325ms).
+2018-10-10 22:10:04.581 WARN  [HikariPool-1 housekeeper][HikariPool:686] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=10m27s318ms).
+2018-10-10 22:10:06.016 WARN  [HikariPool-2 housekeeper][HikariPool:686] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=10m27s310ms).
+2018-10-10 22:20:32.613 WARN  [HikariPool-1 housekeeper][HikariPool:686] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=10m28s32ms).
+2018-10-10 22:20:33.117 WARN  [HikariPool-2 housekeeper][HikariPool:686] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=10m27s101ms).
+2018-10-10 22:31:31.372 WARN  [HikariPool-1 housekeeper][HikariPool:686] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=10m26s993ms).
+2018-10-10 22:31:31.861 WARN  [HikariPool-2 housekeeper][HikariPool:686] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=10m26s987ms).
+2018-10-10 22:42:35.404 WARN  [HikariPool-1 housekeeper][HikariPool:686] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=10m34s22ms).
+2018-10-10 22:42:35.889 WARN  [HikariPool-2 housekeeper][HikariPool:686] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=10m34s20ms).
+2018-10-10 22:48:49.793 WARN  [HikariPool-1 housekeeper][HikariPool:686] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m44s388ms).
+2018-10-10 22:48:50.276 WARN  [HikariPool-2 housekeeper][HikariPool:686] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=5m44s379ms).
+2018-10-10 22:58:33.606 WARN  [HikariPool-1 housekeeper][HikariPool:686] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m43s813ms).
+2018-10-10 22:58:33.607 WARN  [HikariPool-2 housekeeper][HikariPool:686] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=9m43s331ms).
+2018-10-10 23:09:38.211 WARN  [HikariPool-2 housekeeper][HikariPool:686] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=10m32s239ms).
+2018-10-10 23:09:38.211 WARN  [HikariPool-1 housekeeper][HikariPool:686] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=10m32s239ms).
+2018-10-10 23:18:34.127 WARN  [HikariPool-2 housekeeper][HikariPool:686] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=8m25s913ms).
+2018-10-10 23:18:34.137 WARN  [HikariPool-1 housekeeper][HikariPool:686] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=8m25s915ms).
+2018-10-10 23:29:32.845 WARN  [HikariPool-2 housekeeper][HikariPool:686] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=10m28s710ms).
+2018-10-10 23:29:32.856 WARN  [HikariPool-1 housekeeper][HikariPool:686] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=10m28s709ms).
+2018-10-10 23:40:02.598 WARN  [HikariPool-1 housekeeper][HikariPool:686] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=10m29s742ms).
+2018-10-10 23:40:02.599 WARN  [HikariPool-2 housekeeper][HikariPool:686] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=10m29s754ms).
+2018-10-10 23:51:01.244 WARN  [HikariPool-2 housekeeper][HikariPool:686] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=10m27s187ms).
+2018-10-10 23:51:01.244 WARN  [HikariPool-1 housekeeper][HikariPool:686] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=10m27s187ms).

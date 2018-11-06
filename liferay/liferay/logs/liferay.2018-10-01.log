@@ -1,0 +1,24 @@
+2018-10-01 17:52:04.736 INFO  [main][DialectDetector:158] Using dialect org.hibernate.dialect.MySQLDialect for MySQL 5.7
+2018-10-01 17:52:07.478 INFO  [main][ModuleFrameworkImpl:1292] Starting initial bundles
+2018-10-01 17:52:09.087 INFO  [main][ModuleFrameworkImpl:1555] Started initial bundles
+2018-10-01 17:52:09.088 INFO  [main][ModuleFrameworkImpl:1590] Starting dynamic bundles
+2018-10-01 17:52:19.687 INFO  [main][ModuleFrameworkImpl:1679] Started dynamic bundles
+2018-10-01 17:52:19.691 INFO  [main][ModuleFrameworkImpl:414] Navigate to Control Panel > Configuration > Gogo Shell and enter "lb" to see all bundles
+2018-10-01 17:52:25.687 WARN  [Elasticsearch initialization thread][EmbeddedElasticsearchConnection:286] Liferay is configured to use embedded Elasticsearch as its search engine. Do NOT use embedded Elasticsearch in production. Embedded Elasticsearch is useful for development and demonstration purposes. Remote Elasticsearch connections can be configured in the Control Panel.
+2018-10-01 17:52:32.696 INFO  [main][StartupHelper:72] There are no patches installed
+2018-10-01 17:52:34.282 INFO  [main][AutoDeployDir:193] Auto deploy scanner started for /Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/deploy
+2018-10-01 17:53:05.490 INFO  [main][ThemeHotDeployListener:108] 1 theme for classic-theme is available for use
+2018-10-01 17:53:05.969 INFO  [main][ThemeHotDeployListener:108] 1 theme for admin-theme is available for use
+2018-10-01 17:53:06.548 INFO  [main][ThemeHotDeployListener:108] 1 theme for fjord-theme is available for use
+2018-10-01 17:53:12.794 INFO  [main][HookHotDeployListener:521] Hook for opensocial-portlet is available for use
+2018-10-01 17:53:13.295 INFO  [main][PortletHotDeployListener:329] 4 portlets for opensocial-portlet are available for use
+2018-10-01 17:53:14.241 INFO  [main][ThemeHotDeployListener:108] 1 theme for porygon-theme is available for use
+2018-10-01 17:53:14.953 INFO  [main][HookHotDeployListener:521] Hook for powwow-portlet is available for use
+2018-10-01 17:53:15.066 INFO  [main][PortletHotDeployListener:329] 2 portlets for powwow-portlet are available for use
+2018-10-01 17:53:15.293 INFO  [main][HookHotDeployListener:521] Hook for social-bookmarks-hook is available for use
+2018-10-01 17:53:15.719 INFO  [main][HookHotDeployListener:521] Hook for tasks-portlet is available for use
+2018-10-01 17:53:15.817 INFO  [main][PortletHotDeployListener:329] 2 portlets for tasks-portlet are available for use
+2018-10-01 17:53:16.271 INFO  [main][ThemeHotDeployListener:108] 1 theme for westeros-bank-theme is available for use
+2018-10-01 17:53:21.047 INFO  [main][SystemCheckOSGiCommands:54] System check is enabled. You can run a system check with the command "system:check" in Gogo shell.
+2018-10-01 18:09:16.040 ERROR [http-nio-8080-exec-6][JAXRSUtils:83] Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json
+2018-10-01 18:09:16.055 ERROR [http-nio-8080-exec-6][ErrorUtil:79] java.lang.NullPointerException

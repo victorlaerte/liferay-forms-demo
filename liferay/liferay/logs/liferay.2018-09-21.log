@@ -1,0 +1,120 @@
+2018-09-21 00:32:01.161 WARN  [HikariPool-1 housekeeper][HikariPool:686] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2h27s845ms).
+2018-09-21 00:32:03.042 WARN  [HikariPool-2 housekeeper][HikariPool:686] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=2h27s844ms).
+2018-09-21 00:53:04.857 WARN  [HikariPool-1 housekeeper][HikariPool:686] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=20m33s684ms).
+2018-09-21 00:53:06.733 WARN  [HikariPool-2 housekeeper][HikariPool:686] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=20m33s677ms).
+2018-09-21 02:54:03.430 WARN  [HikariPool-1 housekeeper][HikariPool:686] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2h28s565ms).
+2018-09-21 02:54:05.311 WARN  [HikariPool-2 housekeeper][HikariPool:686] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=2h28s569ms).
+2018-09-21 03:14:37.593 WARN  [HikariPool-1 housekeeper][HikariPool:686] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=20m34s163ms).
+2018-09-21 03:14:39.478 WARN  [HikariPool-2 housekeeper][HikariPool:686] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=20m34s167ms).
+2018-09-21 05:15:36.038 WARN  [HikariPool-1 housekeeper][HikariPool:686] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2h28s436ms).
+2018-09-21 05:15:37.923 WARN  [HikariPool-2 housekeeper][HikariPool:686] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=2h28s435ms).
+2018-09-21 05:36:39.622 WARN  [HikariPool-1 housekeeper][HikariPool:686] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=20m33s578ms).
+2018-09-21 05:36:41.502 WARN  [HikariPool-2 housekeeper][HikariPool:686] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=20m33s572ms).
+2018-09-21 07:37:38.314 WARN  [HikariPool-1 housekeeper][HikariPool:686] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2h28s688ms).
+2018-09-21 07:37:40.200 WARN  [HikariPool-2 housekeeper][HikariPool:686] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=2h28s685ms).
+2018-09-21 07:58:08.745 WARN  [HikariPool-1 housekeeper][HikariPool:686] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=20m30s432ms).
+2018-09-21 07:58:14.428 WARN  [HikariPool-2 housekeeper][HikariPool:686] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=20m34s229ms).
+2018-09-21 09:59:11.661 WARN  [HikariPool-1 housekeeper][HikariPool:686] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2h29s110ms).
+2018-09-21 09:59:13.558 WARN  [HikariPool-2 housekeeper][HikariPool:686] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=2h29s118ms).
+2018-09-21 10:20:16.044 WARN  [HikariPool-1 housekeeper][HikariPool:686] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=20m34s367ms).
+2018-09-21 10:20:17.944 WARN  [HikariPool-2 housekeeper][HikariPool:686] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=20m34s371ms).
+2018-09-21 11:27:45.660 WARN  [HikariPool-1 housekeeper][HikariPool:686] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h6m59s613ms).
+2018-09-21 11:27:47.563 WARN  [HikariPool-2 housekeeper][HikariPool:686] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=1h6m59s611ms).
+2018-09-21 11:40:17.121 WARN  [http-nio-8080-exec-5][SecurityPortletContainerWrapper:393] User 0 is not allowed to access URL http://localhost:8080/web/guest/home and portlet com_liferay_login_web_portlet_LoginPortlet
+2018-09-21 12:27:28.429 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:39] STARTED com.liferay.forms.apio.api_1.1.2 [854]
+2018-09-21 12:27:33.947 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:39] STARTED com.liferay.forms.apio.impl_1.0.16 [855]
+2018-09-21 12:29:46.414 ERROR [http-nio-8080-exec-8][JAXRSUtils:83] Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json
+2018-09-21 12:29:46.459 ERROR [http-nio-8080-exec-8][ErrorUtil:79] java.lang.NullPointerException
+2018-09-21 12:29:47.168 ERROR [http-nio-8080-exec-1][JAXRSUtils:83] Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json
+2018-09-21 12:29:47.169 ERROR [http-nio-8080-exec-1][ErrorUtil:79] java.lang.NullPointerException
+2018-09-21 12:30:05.817 ERROR [http-nio-8080-exec-4][JAXRSUtils:83] Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json
+2018-09-21 12:30:05.819 ERROR [http-nio-8080-exec-4][ErrorUtil:79] java.lang.NullPointerException
+2018-09-21 12:31:45.137 ERROR [http-nio-8080-exec-4][JAXRSUtils:83] Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json
+2018-09-21 12:31:45.138 ERROR [http-nio-8080-exec-4][ErrorUtil:79] java.lang.NullPointerException
+2018-09-21 13:10:51.228 ERROR [http-nio-8080-exec-9][JAXRSUtils:83] Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json
+2018-09-21 13:10:51.231 ERROR [http-nio-8080-exec-9][ErrorUtil:79] java.lang.NullPointerException
+2018-09-21 13:18:14.669 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:42] STOPPED com.liferay.forms.apio.impl_1.0.16 [855]
+2018-09-21 13:18:19.892 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:42] STOPPED com.liferay.forms.apio.api_1.1.2 [854]
+2018-09-21 13:18:20.017 INFO  [Refresh Thread: Equinox Container: 8a9ece53-4221-4e77-aa85-7886d38e312e][BundleStartStopLogger:39] STARTED com.liferay.forms.apio.api_1.1.2 [854]
+2018-09-21 13:18:25.331 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:39] STARTED com.liferay.forms.apio.impl_1.0.16 [856]
+2018-09-21 13:56:40.811 ERROR [http-nio-8080-exec-10][ErrorUtil:79] Invalid value set for field name CarPhoto
+2018-09-21 14:00:54.184 INFO  [Thread-44][HookHotDeployListener:569] Hook for social-bookmarks-hook was unregistered
+2018-09-21 14:00:54.512 INFO  [Thread-44][ThemeHotDeployListener:170] 1 theme for westeros-bank-theme was unregistered
+2018-09-21 14:00:55.593 INFO  [Thread-44][PortletHotDeployListener:429] 2 portlets for tasks-portlet were unregistered
+2018-09-21 14:00:55.627 INFO  [Thread-44][HookHotDeployListener:569] Hook for tasks-portlet was unregistered
+2018-09-21 14:00:55.737 INFO  [Thread-44][ThemeHotDeployListener:170] 1 theme for porygon-theme was unregistered
+2018-09-21 14:00:55.974 INFO  [Thread-44][ThemeHotDeployListener:170] 1 theme for classic-theme was unregistered
+2018-09-21 14:00:55.985 INFO  [Thread-44][ThemeHotDeployListener:170] 1 theme for admin-theme was unregistered
+2018-09-21 14:00:56.084 INFO  [Thread-44][ThemeHotDeployListener:170] 1 theme for fjord-theme was unregistered
+2018-09-21 14:00:56.128 INFO  [Thread-44][PortletHotDeployListener:429] 2 portlets for powwow-portlet were unregistered
+2018-09-21 14:00:56.146 INFO  [Thread-44][HookHotDeployListener:569] Hook for powwow-portlet was unregistered
+2018-09-21 14:00:56.194 INFO  [Thread-44][PortletHotDeployListener:429] 4 portlets for opensocial-portlet were unregistered
+2018-09-21 14:00:56.209 INFO  [Thread-44][HookHotDeployListener:569] Hook for opensocial-portlet was unregistered
+2018-09-21 14:02:10.674 INFO  [main][DialectDetector:158] Using dialect org.hibernate.dialect.MySQLDialect for MySQL 5.7
+2018-09-21 14:02:12.752 INFO  [main][ModuleFrameworkImpl:1292] Starting initial bundles
+2018-09-21 14:02:13.883 INFO  [main][ModuleFrameworkImpl:1555] Started initial bundles
+2018-09-21 14:02:13.884 INFO  [main][ModuleFrameworkImpl:1590] Starting dynamic bundles
+2018-09-21 14:02:21.933 INFO  [main][ModuleFrameworkImpl:1679] Started dynamic bundles
+2018-09-21 14:02:21.934 INFO  [main][ModuleFrameworkImpl:414] Navigate to Control Panel > Configuration > Gogo Shell and enter "lb" to see all bundles
+2018-09-21 14:02:28.185 WARN  [Elasticsearch initialization thread][EmbeddedElasticsearchConnection:286] Liferay is configured to use embedded Elasticsearch as its search engine. Do NOT use embedded Elasticsearch in production. Embedded Elasticsearch is useful for development and demonstration purposes. Remote Elasticsearch connections can be configured in the Control Panel.
+2018-09-21 14:02:34.492 INFO  [main][StartupHelper:72] There are no patches installed
+2018-09-21 14:02:35.791 INFO  [main][AutoDeployDir:193] Auto deploy scanner started for /Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/deploy
+2018-09-21 14:03:11.698 INFO  [main][ThemeHotDeployListener:108] 1 theme for classic-theme is available for use
+2018-09-21 14:03:12.207 INFO  [main][ThemeHotDeployListener:108] 1 theme for admin-theme is available for use
+2018-09-21 14:03:12.686 INFO  [main][ThemeHotDeployListener:108] 1 theme for fjord-theme is available for use
+2018-09-21 14:03:19.041 INFO  [main][HookHotDeployListener:521] Hook for opensocial-portlet is available for use
+2018-09-21 14:03:19.528 INFO  [main][PortletHotDeployListener:329] 4 portlets for opensocial-portlet are available for use
+2018-09-21 14:03:20.676 INFO  [main][ThemeHotDeployListener:108] 1 theme for porygon-theme is available for use
+2018-09-21 14:03:21.256 INFO  [main][HookHotDeployListener:521] Hook for powwow-portlet is available for use
+2018-09-21 14:03:21.363 INFO  [main][PortletHotDeployListener:329] 2 portlets for powwow-portlet are available for use
+2018-09-21 14:03:21.624 INFO  [main][HookHotDeployListener:521] Hook for social-bookmarks-hook is available for use
+2018-09-21 14:03:22.104 INFO  [main][HookHotDeployListener:521] Hook for tasks-portlet is available for use
+2018-09-21 14:03:22.218 INFO  [main][PortletHotDeployListener:329] 2 portlets for tasks-portlet are available for use
+2018-09-21 14:03:22.906 INFO  [main][ThemeHotDeployListener:108] 1 theme for westeros-bank-theme is available for use
+2018-09-21 14:03:22.944 INFO  [main][SystemCheckOSGiCommands:54] System check is enabled. You can run a system check with the command "system:check" in Gogo shell.
+2018-09-21 14:06:08.451 ERROR [http-nio-8080-exec-5][JAXRSUtils:83] Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json
+2018-09-21 14:06:08.451 ERROR [http-nio-8080-exec-9][JAXRSUtils:83] Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json
+2018-09-21 14:06:46.075 ERROR [http-nio-8080-exec-6][ErrorUtil:79] Invalid value set for field name CarPhoto
+2018-09-21 14:07:05.144 ERROR [http-nio-8080-exec-8][JAXRSUtils:83] Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json
+2018-09-21 14:07:17.901 ERROR [http-nio-8080-exec-1][JAXRSUtils:83] Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json
+2018-09-21 14:07:27.972 ERROR [http-nio-8080-exec-7][JAXRSUtils:83] Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json
+2018-09-21 14:07:36.575 ERROR [http-nio-8080-exec-5][JAXRSUtils:83] Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json
+2018-09-21 14:07:45.150 ERROR [http-nio-8080-exec-10][JAXRSUtils:83] Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json
+2018-09-21 14:08:07.028 ERROR [http-nio-8080-exec-8][ErrorUtil:79] No endpoint found at path form-instance/{id}/form-instance-record
+2018-09-21 14:08:07.028 ERROR [http-nio-8080-exec-1][ErrorUtil:79] No endpoint found at path form-instance/{id}/form-instance-record
+2018-09-21 14:08:47.297 ERROR [http-nio-8080-exec-10][ErrorUtil:79] No endpoint found at path form-instance/{id}/form-instance-record
+2018-09-21 14:09:22.507 ERROR [http-nio-8080-exec-6][ErrorUtil:79] No endpoint found at path form-instance/{id}/form-instance-record
+2018-09-21 14:09:53.792 ERROR [http-nio-8080-exec-5][ErrorUtil:79] No endpoint found at path form-instance/{id}/form-instance-record
+2018-09-21 14:11:06.939 ERROR [http-nio-8080-exec-1][ErrorUtil:79] No endpoint found at path form-instance/{id}/form-instance-record
+2018-09-21 14:11:24.553 ERROR [http-nio-8080-exec-10][ErrorUtil:79] No endpoint found at path form-instance/{id}/form-instance-record
+2018-09-21 14:11:28.853 ERROR [http-nio-8080-exec-3][ErrorUtil:79] No endpoint found at path form-instance/{id}/form-instance-record
+2018-09-21 14:11:59.213 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:42] STOPPED com.liferay.forms.apio.api_1.1.2 [854]
+2018-09-21 14:11:59.274 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:42] STOPPED com.liferay.forms.apio.impl_1.0.16 [856]
+2018-09-21 14:11:59.594 INFO  [Refresh Thread: Equinox Container: 754df92c-dbfc-4b1d-aef3-10a5c1c30101][BundleStartStopLogger:39] STARTED com.liferay.forms.apio.api_1.1.2 [854]
+2018-09-21 14:11:59.784 INFO  [Refresh Thread: Equinox Container: 754df92c-dbfc-4b1d-aef3-10a5c1c30101][BundleStartStopLogger:39] STARTED com.liferay.forms.apio.impl_1.0.16 [856]
+2018-09-21 14:47:29.535 ERROR [http-nio-8080-exec-3][ErrorUtil:79] Invalid value set for field name CarPhoto
+2018-09-21 15:00:01.540 ERROR [http-nio-8080-exec-2][ErrorUtil:79] Invalid value set for field name CarPhoto
+2018-09-21 16:56:47.717 WARN  [http-nio-8080-exec-3][SecurityPortletContainerWrapper:393] User 20139 is not allowed to access URL http://localhost:8080/web/guest/home and portlet com_liferay_login_web_portlet_LoginPortlet
+2018-09-21 17:58:11.062 WARN  [HikariPool-1 housekeeper][HikariPool:686] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=50m53s688ms).
+2018-09-21 17:58:11.062 WARN  [HikariPool-2 housekeeper][HikariPool:686] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=50m53s689ms).
+2018-09-21 18:03:52.643 WARN  [HikariPool-2 housekeeper][HikariPool:686] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=1m24s874ms).
+2018-09-21 18:03:52.643 WARN  [HikariPool-1 housekeeper][HikariPool:686] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m24s874ms).
+2018-09-21 18:05:31.010 WARN  [HikariPool-2 housekeeper][HikariPool:686] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=1m38s367ms).
+2018-09-21 18:05:31.010 WARN  [HikariPool-1 housekeeper][HikariPool:686] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m38s368ms).
+2018-09-21 18:05:46.260 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:42] STOPPED com.liferay.forms.apio.api_1.1.2 [854]
+2018-09-21 18:05:46.377 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:42] STOPPED com.liferay.forms.apio.impl_1.0.16 [856]
+2018-09-21 18:05:46.932 INFO  [Refresh Thread: Equinox Container: 754df92c-dbfc-4b1d-aef3-10a5c1c30101][BundleStartStopLogger:39] STARTED com.liferay.forms.apio.api_1.1.2 [854]
+2018-09-21 18:05:47.090 INFO  [Refresh Thread: Equinox Container: 754df92c-dbfc-4b1d-aef3-10a5c1c30101][BundleStartStopLogger:39] STARTED com.liferay.forms.apio.impl_1.0.16 [856]
+2018-09-21 19:48:20.155 WARN  [HikariPool-1 housekeeper][HikariPool:686] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=48s655ms).
+2018-09-21 19:48:20.155 WARN  [HikariPool-2 housekeeper][HikariPool:686] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=48s655ms).
+2018-09-21 20:02:26.725 WARN  [HikariPool-2 housekeeper][HikariPool:686] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=12m36s538ms).
+2018-09-21 20:02:26.725 WARN  [HikariPool-1 housekeeper][HikariPool:686] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=12m36s538ms).
+2018-09-21 21:44:13.681 WARN  [HikariPool-2 housekeeper][HikariPool:686] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=33m11s342ms).
+2018-09-21 21:44:13.681 WARN  [HikariPool-1 housekeeper][HikariPool:686] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=33m11s342ms).
+2018-09-21 21:57:57.639 WARN  [HikariPool-1 housekeeper][HikariPool:686] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=13m43s958ms).
+2018-09-21 21:57:57.639 WARN  [HikariPool-2 housekeeper][HikariPool:686] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=13m43s958ms).
+2018-09-21 22:22:29.633 WARN  [HikariPool-1 housekeeper][HikariPool:686] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m1s947ms).
+2018-09-21 22:22:29.634 WARN  [HikariPool-2 housekeeper][HikariPool:686] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=2m1s948ms).
+2018-09-21 22:59:37.357 WARN  [HikariPool-1 housekeeper][HikariPool:686] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=30m30s578ms).
+2018-09-21 22:59:37.370 WARN  [HikariPool-2 housekeeper][HikariPool:686] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=30m30s582ms).
+2018-09-21 23:01:11.858 WARN  [http-nio-8080-exec-4][SecurityPortletContainerWrapper:393] User 0 is not allowed to access URL http://localhost:8080/web/guest/home and portlet com_liferay_login_web_portlet_LoginPortlet

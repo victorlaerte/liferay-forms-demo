@@ -1,0 +1,66 @@
+2018-10-17 00:17:36.793 ERROR [http-nio-8080-exec-9][JAXRSUtils:83] Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json
+2018-10-17 00:17:36.818 ERROR [http-nio-8080-exec-9][ErrorUtil:78] java.lang.NullPointerException
+2018-10-17 01:06:16.190 INFO  [Thread-45][ThemeHotDeployListener:170] 1 theme for porygon-theme was unregistered
+2018-10-17 01:06:17.456 INFO  [Thread-45][PortletHotDeployListener:393] 4 portlets for opensocial-portlet were unregistered
+2018-10-17 01:06:17.670 INFO  [Thread-45][HookHotDeployListener:569] Hook for opensocial-portlet was unregistered
+2018-10-17 01:06:17.830 INFO  [Thread-45][PortletHotDeployListener:393] 2 portlets for powwow-portlet were unregistered
+2018-10-17 01:06:17.855 INFO  [Thread-45][HookHotDeployListener:569] Hook for powwow-portlet was unregistered
+2018-10-17 01:06:18.330 INFO  [Thread-45][ThemeHotDeployListener:170] 1 theme for classic-theme was unregistered
+2018-10-17 01:06:18.614 INFO  [Thread-45][ThemeHotDeployListener:170] 1 theme for westeros-bank-theme was unregistered
+2018-10-17 01:06:18.683 INFO  [Thread-45][ThemeHotDeployListener:170] 1 theme for admin-theme was unregistered
+2018-10-17 01:06:18.864 INFO  [Thread-45][PortletHotDeployListener:393] 2 portlets for tasks-portlet were unregistered
+2018-10-17 01:06:18.882 INFO  [Thread-45][HookHotDeployListener:569] Hook for tasks-portlet was unregistered
+2018-10-17 01:06:19.289 INFO  [Thread-45][ThemeHotDeployListener:170] 1 theme for fjord-theme was unregistered
+2018-10-17 01:06:19.386 INFO  [Thread-45][HookHotDeployListener:569] Hook for social-bookmarks-hook was unregistered
+2018-10-17 18:16:07.640 INFO  [main][DialectDetector:158] Using dialect org.hibernate.dialect.MySQLDialect for MySQL 5.7
+2018-10-17 18:16:09.908 INFO  [main][ModuleFrameworkImpl:1326] Starting initial bundles
+2018-10-17 18:16:10.693 INFO  [main][ModuleFrameworkImpl:1589] Started initial bundles
+2018-10-17 18:16:10.694 INFO  [main][ModuleFrameworkImpl:1624] Starting dynamic bundles
+2018-10-17 18:16:25.093 INFO  [main][ModuleFrameworkImpl:1736] Started dynamic bundles
+2018-10-17 18:16:25.095 INFO  [main][ModuleFrameworkImpl:413] Navigate to Control Panel > Configuration > Gogo Shell and enter "lb" to see all bundles
+2018-10-17 18:16:29.048 WARN  [Elasticsearch initialization thread][EmbeddedElasticsearchConnection:286] Liferay is configured to use embedded Elasticsearch as its search engine. Do NOT use embedded Elasticsearch in production. Embedded Elasticsearch is useful for development and demonstration purposes. Remote Elasticsearch connections can be configured in the Control Panel.
+2018-10-17 18:16:35.926 INFO  [main][StartupHelper:72] There are no patches installed
+2018-10-17 18:16:37.491 INFO  [main][AutoDeployDir:193] Auto deploy scanner started for /Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/deploy
+2018-10-17 18:17:08.195 INFO  [main][ThemeHotDeployListener:108] 1 theme for classic-theme is available for use
+2018-10-17 18:17:08.715 INFO  [main][ThemeHotDeployListener:108] 1 theme for admin-theme is available for use
+2018-10-17 18:17:10.277 INFO  [main][ThemeHotDeployListener:108] 1 theme for fjord-theme is available for use
+2018-10-17 18:17:15.794 INFO  [main][HookHotDeployListener:521] Hook for opensocial-portlet is available for use
+2018-10-17 18:17:16.310 INFO  [main][PortletHotDeployListener:293] 4 portlets for opensocial-portlet are available for use
+2018-10-17 18:17:17.502 INFO  [main][ThemeHotDeployListener:108] 1 theme for porygon-theme is available for use
+2018-10-17 18:17:18.098 INFO  [main][HookHotDeployListener:521] Hook for powwow-portlet is available for use
+2018-10-17 18:17:18.208 INFO  [main][PortletHotDeployListener:293] 2 portlets for powwow-portlet are available for use
+2018-10-17 18:17:18.498 INFO  [main][HookHotDeployListener:521] Hook for social-bookmarks-hook is available for use
+2018-10-17 18:17:18.975 INFO  [main][HookHotDeployListener:521] Hook for tasks-portlet is available for use
+2018-10-17 18:17:19.078 INFO  [main][PortletHotDeployListener:293] 2 portlets for tasks-portlet are available for use
+2018-10-17 18:17:19.562 INFO  [main][ThemeHotDeployListener:108] 1 theme for westeros-bank-theme is available for use
+2018-10-17 18:17:19.617 INFO  [main][SystemCheckOSGiCommands:54] System check is enabled. You can run a system check with the command "system:check" in Gogo shell.
+2018-10-17 18:43:48.965 ERROR [http-nio-8080-exec-8][JAXRSUtils:83] Problem with writing the data, class com.liferay.apio.architect.functional.Try$Success, ContentType: application/ld+json
+2018-10-17 18:43:48.993 ERROR [http-nio-8080-exec-8][ErrorUtil:78] java.lang.NullPointerException
+2018-10-17 20:11:28.952 WARN  [http-nio-8080-exec-10][URLConfigurationSource:122] No URLs will be polled as dynamic configuration sources.
+2018-10-17 20:11:28.965 INFO  [http-nio-8080-exec-10][URLConfigurationSource:123] To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2018-10-17 20:11:28.980 INFO  [http-nio-8080-exec-10][DynamicPropertyFactory:266] DynamicPropertyFactory is initialized with configuration sources: com.netflix.config.ConcurrentCompositeConfiguration@4ee195d7
+2018-10-17 20:33:43.569 WARN  [HikariPool-1 housekeeper][HikariPool:686] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=10m30s669ms).
+2018-10-17 20:33:45.742 WARN  [HikariPool-2 housekeeper][HikariPool:686] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=10m30s668ms).
+2018-10-17 20:41:20.669 WARN  [HikariPool-1 housekeeper][HikariPool:686] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=7m37s125ms).
+2018-10-17 20:41:22.821 WARN  [HikariPool-2 housekeeper][HikariPool:686] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=7m37s80ms).
+2018-10-17 20:52:23.797 WARN  [HikariPool-1 housekeeper][HikariPool:686] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m3s59ms).
+2018-10-17 20:52:25.935 WARN  [HikariPool-2 housekeeper][HikariPool:686] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=2m3s59ms).
+2018-10-17 21:57:26.515 WARN  [http-nio-8080-exec-2][SecurityPortletContainerWrapper:393] User 20139 is not allowed to access URL http://192.168.110.55:8080/group/guest/~/control_panel/manage and portlet com_liferay_journal_web_portlet_JournalPortlet
+2018-10-17 22:28:53.464 WARN  [HikariPool-1 housekeeper][HikariPool:686] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=59s265ms).
+2018-10-17 22:29:02.244 WARN  [HikariPool-2 housekeeper][HikariPool:686] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=1m5s880ms).
+2018-10-17 22:39:57.294 WARN  [HikariPool-1 housekeeper][HikariPool:686] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=10m26s817ms).
+2018-10-17 22:39:59.076 WARN  [HikariPool-2 housekeeper][HikariPool:686] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=10m26s823ms).
+2018-10-17 22:50:55.698 WARN  [HikariPool-1 housekeeper][HikariPool:686] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=10m28s399ms).
+2018-10-17 22:50:57.470 WARN  [HikariPool-2 housekeeper][HikariPool:686] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=10m28s391ms).
+2018-10-17 23:01:51.439 WARN  [HikariPool-1 housekeeper][HikariPool:686] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=10m25s737ms).
+2018-10-17 23:01:53.220 WARN  [HikariPool-2 housekeeper][HikariPool:686] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=10m25s740ms).
+2018-10-17 23:12:12.747 WARN  [HikariPool-1 housekeeper][HikariPool:686] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=10m21s308ms).
+2018-10-17 23:12:13.844 WARN  [HikariPool-2 housekeeper][HikariPool:686] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=10m20s625ms).
+2018-10-17 23:23:17.861 WARN  [HikariPool-1 housekeeper][HikariPool:686] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=10m28s512ms).
+2018-10-17 23:23:18.967 WARN  [HikariPool-2 housekeeper][HikariPool:686] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=10m28s503ms).
+2018-10-17 23:34:13.546 WARN  [HikariPool-1 housekeeper][HikariPool:686] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=10m25s684ms).
+2018-10-17 23:34:14.656 WARN  [HikariPool-2 housekeeper][HikariPool:686] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=10m25s678ms).
+2018-10-17 23:45:10.666 WARN  [HikariPool-1 housekeeper][HikariPool:686] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=10m27s110ms).
+2018-10-17 23:45:11.775 WARN  [HikariPool-2 housekeeper][HikariPool:686] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=10m27s109ms).
+2018-10-17 23:53:50.736 WARN  [HikariPool-2 housekeeper][HikariPool:686] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=8m38s961ms).
+2018-10-17 23:54:25.430 WARN  [HikariPool-1 housekeeper][HikariPool:686] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=8m44s757ms).
