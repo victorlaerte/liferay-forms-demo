@@ -5,15 +5,12 @@ services:
     build: ./db/ 
     ports:
      - "3306:3306"
-    environment:
-      - MYSQL_ROOT_PASSWORD=password
-      - MYSQL_DATABASE=lportal
     volumes: 
       - "/var/lib/mysql"
     healthcheck:
       test: echo db service healthy
-      interval: 40s
-      timeout: 40s
+      interval: 80s
+      timeout: 80s
       retries: 10
 
   lfr:

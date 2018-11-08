@@ -20,7 +20,9 @@ RUN apt-get update && \
   apt-get install -y --no-install-recommends oracle-java8-installer oracle-java8-set-default && \
   apt-get clean all
 
-COPY /liferay $LIFERAY_HOME
+COPY liferay $LIFERAY_HOME
+
+COPY portal-ext.properties $LIFERAY_HOME
 
 WORKDIR $CATALINA_HOME
 
